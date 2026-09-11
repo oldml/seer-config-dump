@@ -29276,6 +29276,330 @@
       "groupId": 952,
       "id": 2921,
       "npcId": 3406
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "活动引导占位",
+      "dir": 0,
+      "groupId": 953,
+      "id": 2922,
+      "npcId": 3406
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "活动结束占位",
+      "dir": 0,
+      "groupId": 954,
+      "id": 2923,
+      "npcId": 3406
+    },
+    {
+      "answer": [
+        "获得精灵",
+        "暂时离开"
+      ],
+      "deal": [
+        "13_150142",
+        ""
+      ],
+      "msg": "只要有我在，塞西利亚的花就会永远盛开。",
+      "dir": 0,
+      "groupId": 955,
+      "id": 2924,
+      "npcId": 4942
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "首次进入活动引导占位",
+      "dir": 0,
+      "groupId": 956,
+      "id": 2925,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "未完成全部挑战引导占位",
+      "dir": 0,
+      "groupId": 957,
+      "id": 2926,
+      "npcId": 111
+    },
+    {
+      "answer": [
+        "跳转活动面板",
+        "暂时离开"
+      ],
+      "deal": [
+        "1_",
+        ""
+      ],
+      "msg": "完成全部挑战跳转面板占位",
+      "dir": 0,
+      "groupId": 958,
+      "id": 2927,
+      "npcId": 111
+    },
+    {
+      "answer": [
+        "进入挑战",
+        "快速通过",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_startboss",
+        "4_skip",
+        ""
+      ],
+      "msg": "是否开启简易挑战1",
+      "dir": 0,
+      "groupId": 959,
+      "id": 2928,
+      "npcId": 111
+    },
+    {
+      "answer": [
+        "进入挑战",
+        "快速通过",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_startboss",
+        "4_skip",
+        ""
+      ],
+      "msg": "是否开启简易挑战2",
+      "dir": 0,
+      "groupId": 960,
+      "id": 2929,
+      "npcId": 111
+    },
+    {
+      "answer": [
+        "进入挑战",
+        "快速通过",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_startboss",
+        "4_skip",
+        ""
+      ],
+      "msg": "是否开启简易挑战3",
+      "dir": 0,
+      "groupId": 961,
+      "id": 2930,
+      "npcId": 111
+    },
+    {
+      "answer": [
+        "进入挑战",
+        "快速通过",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_startboss",
+        "4_skip",
+        ""
+      ],
+      "msg": "是否开启简易挑战4",
+      "dir": 0,
+      "groupId": 962,
+      "id": 2931,
+      "npcId": 111
+    },
+    {
+      "answer": [
+        "进入挑战",
+        "快速通过",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_startboss",
+        "4_skip",
+        ""
+      ],
+      "msg": "是否开启简易挑战5",
+      "dir": 0,
+      "groupId": 963,
+      "id": 2932,
+      "npcId": 111
+    },
+    {
+      "answer": [
+        "进入挑战",
+        "快速通过",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_startboss",
+        "4_skip",
+        ""
+      ],
+      "msg": "是否开启简易挑战6",
+      "dir": 0,
+      "groupId": 964,
+      "id": 2933,
+      "npcId": 111
+    },
+    {
+      "answer": [
+        "进入挑战",
+        "快速通过",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_startboss",
+        "4_skip",
+        ""
+      ],
+      "msg": "是否开启超高难挑战1",
+      "dir": 0,
+      "groupId": 965,
+      "id": 2934,
+      "npcId": 111
+    },
+    {
+      "answer": [
+        "进入挑战",
+        "快速通过",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_startboss",
+        "4_skip",
+        ""
+      ],
+      "msg": "是否开启超高难挑战2",
+      "dir": 0,
+      "groupId": 966,
+      "id": 2935,
+      "npcId": 111
+    },
+    {
+      "answer": [
+        "进入挑战",
+        "快速通过",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_startboss",
+        "4_skip",
+        ""
+      ],
+      "msg": "是否开启超高难挑战3",
+      "dir": 0,
+      "groupId": 967,
+      "id": 2936,
+      "npcId": 111
+    },
+    {
+      "answer": [
+        "进入挑战",
+        "快速通过",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_startboss",
+        "4_skip",
+        ""
+      ],
+      "msg": "是否开启超高难挑战4",
+      "dir": 0,
+      "groupId": 968,
+      "id": 2937,
+      "npcId": 111
+    },
+    {
+      "answer": [
+        "进入挑战",
+        "快速通过",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_startboss",
+        "4_skip",
+        ""
+      ],
+      "msg": "是否开启超高难挑战5",
+      "dir": 0,
+      "groupId": 969,
+      "id": 2938,
+      "npcId": 111
+    },
+    {
+      "answer": [
+        "进入挑战",
+        "快速通过",
+        "暂时离开"
+      ],
+      "deal": [
+        "4_startboss",
+        "4_skip",
+        ""
+      ],
+      "msg": "是否开启超高难挑战6",
+      "dir": 0,
+      "groupId": 970,
+      "id": 2939,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "已完成单个挑战的提示占位1",
+      "dir": 0,
+      "groupId": 971,
+      "id": 2940,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "已完成单个挑战的提示占位2",
+      "dir": 0,
+      "groupId": 972,
+      "id": 2941,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "已完成单个挑战的提示占位3",
+      "dir": 0,
+      "groupId": 973,
+      "id": 2942,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "已完成单个挑战的提示占位4",
+      "dir": 0,
+      "groupId": 974,
+      "id": 2943,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "已完成单个挑战的提示占位5",
+      "dir": 0,
+      "groupId": 975,
+      "id": 2944,
+      "npcId": 111
+    },
+    {
+      "answer": null,
+      "deal": null,
+      "msg": "已完成单个挑战的提示占位6",
+      "dir": 0,
+      "groupId": 976,
+      "id": 2945,
+      "npcId": 111
     }
   ]
 }

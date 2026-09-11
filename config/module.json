@@ -5525,6 +5525,20 @@
       "isFullScreen": 0
     },
     {
+      "moduleName": "autoCardDialogS2",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 910,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "zhenshixuanwu",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 911,
+      "isFullScreen": 0
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -6439,6 +6453,48 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1216,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "hollyWillingShow",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1217,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "bubbleActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1218,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "akexiyaGoods",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1219,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "2026NationalDayPerksPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1220,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getkehd",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1221,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getkehd",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1222,
       "isFullScreen": 1
     }
   ]

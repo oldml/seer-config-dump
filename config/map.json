@@ -131,7 +131,7 @@
       "WildBossID": null,
       "WildBossPoint": null,
       "WildBossWeight": null,
-      "enterMap": 1,
+      "enterMap": 0,
       "GroupID": 10103,
       "id": 2004,
       "MapRatio": 0,
@@ -17220,14 +17220,14 @@
     {
       "DeviceID": "",
       "Ename": "Destination Reached",
-      "name": "0807场景占位",
-      "notes": "字段弃用，后续重启",
-      "sound": "1",
+      "name": "0924场景占位",
+      "notes": "活动场景",
+      "sound": "BGM_438",
       "NPCID": null,
       "NPCXYZ": null,
       "PlayerXYZ": [
-        650,
-        440
+        470,
+        390
       ],
       "WildBossID": null,
       "WildBossPoint": null,
@@ -17241,14 +17241,14 @@
     {
       "DeviceID": "",
       "Ename": "Destination Reached",
-      "name": "β场景占位",
-      "notes": "字段弃用，后续重启",
-      "sound": "1",
+      "name": "0924场景占位",
+      "notes": "真实场景",
+      "sound": "BGM_438",
       "NPCID": null,
       "NPCXYZ": null,
       "PlayerXYZ": [
-        467,
-        404
+        470,
+        390
       ],
       "WildBossID": null,
       "WildBossPoint": null,
@@ -17367,6 +17367,32 @@
       "id": 2182,
       "MapRatio": 1,
       "pic": 2182
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "塞西利亚花海",
+      "notes": "真实场景",
+      "sound": "BGM_852",
+      "NPCID": [
+        306
+      ],
+      "NPCXYZ": [
+        500,
+        330
+      ],
+      "PlayerXYZ": [
+        220,
+        400
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 1,
+      "GroupID": 20108,
+      "id": 2183,
+      "MapRatio": 1,
+      "pic": 2183
     }
   ]
 }

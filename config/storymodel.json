@@ -4387,7 +4387,7 @@
       "name": "阿克希亚",
       "portrait": "akexiya_fg",
       "id": 399,
-      "scale": 1.25
+      "scale": 1.1
     },
     {
       "CharacterID": "liaosi_xg",
@@ -4493,7 +4493,7 @@
       "emoji": "",
       "emojixy": "",
       "head": "",
-      "initialposition": "-27,378",
+      "initialposition": "-27,368",
       "name": "遨天魔煞",
       "portrait": "aotian_fg",
       "id": 409,
@@ -4504,7 +4504,7 @@
       "emoji": "",
       "emojixy": "",
       "head": "",
-      "initialposition": "-174,197",
+      "initialposition": "-73,214",
       "name": "噬梦魔灵",
       "portrait": "shimeng_fg",
       "id": 410,
@@ -4563,6 +4563,28 @@
       "name": "古尼亚斯",
       "portrait": "guniyasi_fg",
       "id": 415,
+      "scale": 1
+    },
+    {
+      "CharacterID": "akexiya2",
+      "emoji": "akexiya2_01,akexiya2_02,akexiya2_03",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-162,587",
+      "name": "阿克希亚",
+      "portrait": "akexiya2_fg",
+      "id": 416,
+      "scale": 1
+    },
+    {
+      "CharacterID": "lawutuo",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "42,185",
+      "name": "拉乌托",
+      "portrait": "lawutuo_fg",
+      "id": 417,
       "scale": 1
     }
   ]

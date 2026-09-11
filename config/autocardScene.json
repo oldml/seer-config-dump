@@ -19,6 +19,16 @@
       "id": 2,
       "rarity": 2,
       "stat": -1214218278
+    },
+    {
+      "bookresouce": "map3",
+      "des": "活动获取",
+      "name": "塞西利亚",
+      "resource": "Icefield",
+      "tag": "2_活动限定",
+      "id": 3,
+      "rarity": 2,
+      "stat": -1214218277
     }
   ]
 }

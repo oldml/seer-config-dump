@@ -4971,6 +4971,23 @@
       "offsetY": 0,
       "scaleX": 0.7,
       "scaleY": 0.7
+    },
+    {
+      "name": "极度冰凌·阿克希亚",
+      "pic": "4942",
+      "triggerinfo": "",
+      "FuncParam": [
+        955
+      ],
+      "bit": 0,
+      "FuncParamSpecial": 0,
+      "FuncType": 3,
+      "id": 306,
+      "modelType": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "scaleX": 0.5,
+      "scaleY": 0.5
     }
   ]
 }

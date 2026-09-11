@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "Cos1": "1728398",
+      "Cos10": "1728398",
+      "AutoCardPetId": 13,
+      "consumeitemid1": 1728400,
+      "consumeitemid2": 1728401,
+      "id": 1,
+      "limitbuycount1": 3,
+      "limitbuycount2": 9999,
+      "rewarditemcount1": 75,
+      "rewarditemcount2": 500,
+      "rewarditemid1": 1728398,
+      "rewarditemid2": 1728398,
+      "userInfo": 400531
+    }
+  ]
+}

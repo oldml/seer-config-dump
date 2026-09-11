@@ -767,6 +767,30 @@
       "id": 65,
       "moduleId": 897,
       "state": 1
+    },
+    {
+      "actionName": "autocardS2",
+      "controller": "AutoOpenLocalOnce",
+      "endTime": "",
+      "param1": "autocardS2",
+      "param2": "",
+      "param3": "",
+      "startTime": "",
+      "id": 66,
+      "moduleId": 910,
+      "state": 1
+    },
+    {
+      "actionName": "国庆精彩活动集合",
+      "controller": "AutoOpenLocalDaily",
+      "endTime": "2026_10_09 10:00:00",
+      "param1": "2026NationalDayPerksPanel",
+      "param2": "",
+      "param3": "",
+      "startTime": "2026_09_24 10:00:00",
+      "id": 67,
+      "moduleId": 1220,
+      "state": 1
     }
   ]
 }
