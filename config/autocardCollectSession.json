@@ -1,6 +1,7 @@
 {
   "data": [
     {
+      "sessionCoin": "1728122",
       "helptips1": 437,
       "id": 1,
       "redbadge1": 400033,
@@ -8,10 +9,10 @@
       "redbadge3": 400035,
       "redbadge4": 400036,
       "redbadge5": 400037,
-      "redbadge6": 0,
-      "sessionCoin": 1728122
+      "redbadge6": 0
     },
     {
+      "sessionCoin": "1728396_1728397",
       "helptips1": 479,
       "id": 2,
       "redbadge1": 400066,
@@ -19,8 +20,7 @@
       "redbadge3": 400063,
       "redbadge4": 400064,
       "redbadge5": 400062,
-      "redbadge6": 400067,
-      "sessionCoin": 1728396
+      "redbadge6": 400067
     }
   ]
 }

@@ -4988,6 +4988,108 @@
       "offsetY": 0,
       "scaleX": 0.5,
       "scaleY": 0.5
+    },
+    {
+      "name": "蘑菇怪",
+      "pic": "47",
+      "triggerinfo": "",
+      "FuncParam": [
+        959
+      ],
+      "bit": 0,
+      "FuncParamSpecial": 0,
+      "FuncType": 3,
+      "id": 307,
+      "modelType": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "scaleX": 0.5,
+      "scaleY": 0.5
+    },
+    {
+      "name": "钢牙鲨",
+      "pic": "34",
+      "triggerinfo": "",
+      "FuncParam": [
+        960
+      ],
+      "bit": 0,
+      "FuncParamSpecial": 0,
+      "FuncType": 3,
+      "id": 308,
+      "modelType": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "scaleX": 0.5,
+      "scaleY": 0.5
+    },
+    {
+      "name": "纳多雷",
+      "pic": "88",
+      "triggerinfo": "",
+      "FuncParam": [
+        961
+      ],
+      "bit": 0,
+      "FuncParamSpecial": 0,
+      "FuncType": 3,
+      "id": 309,
+      "modelType": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "scaleX": 0.5,
+      "scaleY": 0.5
+    },
+    {
+      "name": "雷纳多",
+      "pic": "113",
+      "triggerinfo": "",
+      "FuncParam": [
+        962
+      ],
+      "bit": 0,
+      "FuncParamSpecial": 0,
+      "FuncType": 3,
+      "id": 310,
+      "modelType": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "scaleX": 0.5,
+      "scaleY": 0.5
+    },
+    {
+      "name": "提亚斯",
+      "pic": "69",
+      "triggerinfo": "",
+      "FuncParam": [
+        963
+      ],
+      "bit": 0,
+      "FuncParamSpecial": 0,
+      "FuncType": 3,
+      "id": 311,
+      "modelType": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "scaleX": 0.5,
+      "scaleY": 0.5
+    },
+    {
+      "name": "里奥斯",
+      "pic": "42",
+      "triggerinfo": "",
+      "FuncParam": [
+        964
+      ],
+      "bit": 0,
+      "FuncParamSpecial": 0,
+      "FuncType": 3,
+      "id": 312,
+      "modelType": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "scaleX": 0.5,
+      "scaleY": 0.5
     }
   ]
 }

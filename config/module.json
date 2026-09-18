@@ -5536,6 +5536,20 @@
       "resConfig": null,
       "currAppDo": 0,
       "id": 911,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "liumengSkin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 912,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "sign260924",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 913,
       "isFullScreen": 0
     },
     {
@@ -6040,7 +6054,7 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1124,
-      "isFullScreen": 0
+      "isFullScreen": 1
     },
     {
       "moduleName": "gettxjsmain",
@@ -6495,6 +6509,55 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1222,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ShenglingshouhuaosikaMegaPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1223,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getzksnewskinpanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1224,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "rayGaiaUniversalWelfareMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1225,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "activityMineralSorter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1226,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "midAutumnSkinReturnSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1227,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "wargame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1228,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "yanmiezhizhuzhakesiSkinActivityPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1229,
       "isFullScreen": 1
     }
   ]

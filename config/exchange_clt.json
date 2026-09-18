@@ -13727,6 +13727,28 @@
       "type": 1,
       "UserInfoBitPos": 0,
       "UserInfoId": 0
+    },
+    {
+      "monappend": "",
+      "batch": 700,
+      "BitSetId": 0,
+      "boundmonster": 0,
+      "coinid": 1727037,
+      "cointype": 43,
+      "count": 0,
+      "id": 808,
+      "isjustone": 0,
+      "LimitCnt": 0,
+      "Limittype": 0,
+      "POPID": 656,
+      "price": 18,
+      "realid": 2400242,
+      "shopid": 5,
+      "Subtag": 20,
+      "top": 0,
+      "type": 1,
+      "UserInfoBitPos": 0,
+      "UserInfoId": 0
     }
   ]
 }

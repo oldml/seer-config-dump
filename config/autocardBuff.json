@@ -603,7 +603,7 @@
     {
       "buffDes": "每有一只己方精灵触发阵亡效果，对随机a只对方精灵造成b点伤害，每次触发时伤害增加c点（当前伤害：X）",
       "buffobject": "卡牌",
-      "buffparam": "a_b",
+      "buffparam": "a_b_c",
       "effectIcon": "1",
       "id": 10054,
       "IsBfBattleEffect": 0,
@@ -697,9 +697,9 @@
       "IsPlaceEffect": 1
     },
     {
-      "buffDes": "a(0:任意、1:同排、2:相邻、3:同列)位置己方b(0:任意)系精灵攻击后，使其获得护盾",
+      "buffDes": "卡牌 a(0:任意、1:同排、2:相邻、3:同列)位置己方b(0:任意)系精灵攻击后，使其获得护盾，每回合最多生效c次（本阶段剩余：{0}）",
       "buffobject": "卡牌",
-      "buffparam": "a_b",
+      "buffparam": "a_b_c",
       "effectIcon": "1",
       "id": 10065,
       "IsBfBattleEffect": 0,
@@ -925,9 +925,9 @@
       "IsPlaceEffect": 0
     },
     {
-      "buffDes": "相邻的a系精灵受到攻击后使其获得护盾",
+      "buffDes": "相邻的a系精灵受到攻击后使其获得护盾，每回合最多生效b次（本阶段剩余：{0}）",
       "buffobject": "卡牌",
-      "buffparam": "a",
+      "buffparam": "a_b",
       "effectIcon": "1",
       "id": 10084,
       "IsBfBattleEffect": 0,
@@ -3205,9 +3205,9 @@
       "IsPlaceEffect": 0
     },
     {
-      "buffDes": "使用商店法术牌时，若目标为己方精灵则对其吸附a只精灵牌b",
+      "buffDes": "使用商店法术牌时，若目标为己方a系精灵则对其吸附b只精灵牌c",
       "buffobject": "卡牌",
-      "buffparam": "a_b",
+      "buffparam": "a_b_c",
       "effectIcon": "1",
       "id": 10274,
       "IsBfBattleEffect": 0,

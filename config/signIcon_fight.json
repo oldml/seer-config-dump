@@ -1030,7 +1030,7 @@
       },
       {
         "className": "*",
-        "dec": "法天象地",
+        "dec": "法天象地·圣",
         "Des": "开启时重置自身的体力值、PP值并解除所处的异常状态；自身免疫异常状态，所有技能先制+1且攻击技能必定打出致命一击",
         "frame": null,
         "NumDes": "剩余回合数",
@@ -1038,7 +1038,7 @@
         "spDes": null,
         "spicon": null,
         "sptips": null,
-        "tips": "法天象地",
+        "tips": "法天象地·圣",
         "id": 57,
         "isShowNum": 1,
         "showtime": 0,
@@ -1046,7 +1046,7 @@
       },
       {
         "className": "*",
-        "dec": "法天象地",
+        "dec": "法天象地·君",
         "Des": "开启时重置自身的体力值、PP值并解除所处的异常状态；自身免疫异常状态，所有技能先制+1且攻击技能使用后吸取对手300点体力",
         "frame": null,
         "NumDes": "剩余回合数",
@@ -1054,7 +1054,7 @@
         "spDes": null,
         "spicon": null,
         "sptips": null,
-        "tips": "法天象地",
+        "tips": "法天象地·君",
         "id": 58,
         "isShowNum": 1,
         "showtime": 0,
@@ -5293,7 +5293,7 @@
       },
       {
         "className": "*",
-        "dec": "2",
+        "dec": "bw",
         "Des": "",
         "frame": null,
         "NumDes": "剩余回合数",
@@ -5309,7 +5309,7 @@
       },
       {
         "className": "*",
-        "dec": "3",
+        "dec": "szd",
         "Des": "",
         "frame": null,
         "NumDes": "剩余回合数",
@@ -5321,11 +5321,11 @@
         "id": 204,
         "isShowNum": 1,
         "showtime": 0,
-        "sort": 4
+        "sort": 1
       },
       {
         "className": "*",
-        "dec": "3",
+        "dec": "cl",
         "Des": "",
         "frame": null,
         "NumDes": "剩余回合数",
@@ -5341,7 +5341,7 @@
       },
       {
         "className": "*",
-        "dec": "3",
+        "dec": "cl",
         "Des": "",
         "frame": null,
         "NumDes": "剩余回合数",
@@ -5353,11 +5353,11 @@
         "id": 206,
         "isShowNum": 1,
         "showtime": 0,
-        "sort": 4
+        "sort": 1
       },
       {
         "className": "*",
-        "dec": "3",
+        "dec": "t",
         "Des": "",
         "frame": null,
         "NumDes": "剩余回合数",
@@ -5373,7 +5373,7 @@
       },
       {
         "className": "*",
-        "dec": "3",
+        "dec": "lz",
         "Des": "",
         "frame": null,
         "NumDes": "剩余回合数",
@@ -5458,7 +5458,7 @@
         "id": 212,
         "isShowNum": 0,
         "showtime": 0,
-        "sort": 4
+        "sort": 5
       },
       {
         "className": "*",
@@ -5474,7 +5474,39 @@
         "id": 213,
         "isShowNum": 0,
         "showtime": 0,
-        "sort": 4
+        "sort": 5
+      },
+      {
+        "className": "*",
+        "dec": "lz",
+        "Des": "",
+        "frame": null,
+        "NumDes": "剩余回合数",
+        "showmonster": null,
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "3",
+        "id": 214,
+        "isShowNum": 1,
+        "showtime": 0,
+        "sort": 1
+      },
+      {
+        "className": "*",
+        "dec": "lz",
+        "Des": "",
+        "frame": null,
+        "NumDes": "",
+        "showmonster": null,
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "3",
+        "id": 215,
+        "isShowNum": 1,
+        "showtime": 0,
+        "sort": 1
       },
       {
         "className": "SignBuffView_1000",

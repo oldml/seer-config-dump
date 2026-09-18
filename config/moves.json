@@ -286123,7 +286123,7 @@
           "Type": 8
         },
         {
-          "info": "恢复了所有体力，下回合受到的伤害减少了",
+          "info": "恢复了全部体力，下回合受到的伤害减少了",
           "Name": "魂之再生",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -289668,7 +289668,7 @@
           "Type": 8
         },
         {
-          "info": "恢复了所有体力",
+          "info": "恢复了全部体力",
           "Name": "治愈之风",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -295977,7 +295977,7 @@
           "Type": 8
         },
         {
-          "info": "恢复了所有体力",
+          "info": "恢复了全部体力",
           "Name": "超速再生",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -306581,7 +306581,7 @@
           "Type": 8
         },
         {
-          "info": "防御、特防提升了许多，回复了一些体力",
+          "info": "防御、特防提升了许多，恢复了一些体力",
           "Name": "光之信念",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -309111,7 +309111,7 @@
           "Type": 8
         },
         {
-          "info": "回复了一些体力",
+          "info": "恢复了一些体力",
           "Name": "春暖花开",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -310635,7 +310635,7 @@
           "Type": 8
         },
         {
-          "info": "防御、特防提升了，回复了一些体力",
+          "info": "防御、特防提升了，恢复了一些体力",
           "Name": "气力盾墙",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -311051,7 +311051,7 @@
           "Type": 8
         },
         {
-          "info": "开始逐渐回复体力",
+          "info": "开始逐渐恢复体力",
           "Name": "光聚精华",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -324486,7 +324486,7 @@
           "Type": 8
         },
         {
-          "info": "开始回复体力，受到的伤害降低了",
+          "info": "开始恢复体力，受到的伤害降低了",
           "Name": "挑战秘籍",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -357873,7 +357873,7 @@
           "Type": 8
         },
         {
-          "info": "体力开始慢慢恢复了；受到伤害过大则恢复自身所有体力；转移自身的能力下降状态给对手",
+          "info": "体力开始慢慢恢复了；受到伤害过大则恢复自身全部体力；转移自身的能力下降状态给对手",
           "Name": "魅影幻界",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -361377,7 +361377,7 @@
           "Type": 8
         },
         {
-          "info": "体力开始慢慢恢复了；抵抗异常状态的能力提升了；受到的过大伤害，则恢复自身所有体力",
+          "info": "体力开始慢慢恢复了；抵抗异常状态的能力提升了；受到的过大伤害，则恢复自身全部体力",
           "Name": "雷神之佑",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -363957,7 +363957,7 @@
           "Type": 8
         },
         {
-          "info": "免疫并反弹所有受到的异常状态；使对手全属性都降低了；先出手，则免疫当回合伤害并回复自身体力；",
+          "info": "免疫并反弹所有受到的异常状态；使对手全属性都降低了；先出手，则免疫当回合伤害并恢复自身体力；",
           "Name": "止水清心",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -365165,7 +365165,7 @@
           "Type": 8
         },
         {
-          "info": "抵抗异常状态的能力提升了；出手变得更快了；攻击变得更加犀利了；受到过高的伤害，则恢复自身所有体力",
+          "info": "抵抗异常状态的能力提升了；出手变得更快了；攻击变得更加犀利了；受到过高的伤害，则恢复自身全部体力",
           "Name": "机械核能",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -365544,7 +365544,7 @@
           "Type": 8
         },
         {
-          "info": "体力开始慢慢恢复了；抵抗异常状态的能力提升了；受到过大的伤害则恢复自身所有体力",
+          "info": "体力开始慢慢恢复了；抵抗异常状态的能力提升了；受到过大的伤害则恢复自身全部体力",
           "Name": "雷霆暴怒",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -367249,7 +367249,7 @@
           "Type": 8
         },
         {
-          "info": "抵抗异常状态的能力提升了；抵抗能力下降；攻击变得更加犀利了；受到过大伤害则恢复自身所有体力",
+          "info": "抵抗异常状态的能力提升了；抵抗能力下降；攻击变得更加犀利了；受到过大伤害则恢复自身全部体力",
           "Name": "超体掌控",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -367487,7 +367487,7 @@
           "Type": 8
         },
         {
-          "info": "抵抗异常状态的能力提升了；有几率令对手随机进入一种异常状态；受到过大伤害则恢复自身所有体力",
+          "info": "抵抗异常状态的能力提升了；有几率令对手随机进入一种异常状态；受到过大伤害则恢复自身全部体力",
           "Name": "耀眼闪光",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -367650,7 +367650,7 @@
           "Type": 8
         },
         {
-          "info": "能力强化状态消失则对手使用属性技能失效；抵抗异常状态的能力提升了；受到过大伤害则恢复自身所有体力；攻击变得更加犀利了",
+          "info": "能力强化状态消失则对手使用属性技能失效；抵抗异常状态的能力提升了；受到过大伤害则恢复自身全部体力；攻击变得更加犀利了",
           "Name": "翩鸿幻彩",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -367851,7 +367851,7 @@
           "Type": 8
         },
         {
-          "info": "攻击变得更加犀利了；全属性都提升了；对手无法通过技能回复体力",
+          "info": "攻击变得更加犀利了；全属性都提升了；对手无法通过技能恢复体力",
           "Name": "魔影结界",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -368208,7 +368208,7 @@
           "Type": 8
         },
         {
-          "info": "受到过大伤害则恢复自身所有体力；抵抗能力下降；攻击变得更加犀利了",
+          "info": "受到过大伤害则恢复自身全部体力；抵抗能力下降；攻击变得更加犀利了",
           "Name": "兽灵降世",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -368302,7 +368302,7 @@
           "Type": 8
         },
         {
-          "info": "抵抗异常状态的能力提升了；受到的伤害减少了；有几率恢复所有体力值",
+          "info": "抵抗异常状态的能力提升了；受到的伤害减少了；有几率恢复全部体力值",
           "Name": "铁血龙盔",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -368967,7 +368967,7 @@
           "Type": 8
         },
         {
-          "info": "全属性都提升了；体力开始慢慢恢复了；若对手使用属性技能则减少最大体力；受到攻击回复自身体力",
+          "info": "全属性都提升了；体力开始慢慢恢复了；若对手使用属性技能则减少最大体力；受到攻击恢复自身体力",
           "Name": "暗影之魂",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -369068,7 +369068,7 @@
           "Type": 8
         },
         {
-          "info": "抵抗异常状态的能力提升了；受到过大伤害，则恢复自身所有体力；自身速度、命中提升了",
+          "info": "抵抗异常状态的能力提升了；受到过大伤害，则恢复自身全部体力；自身速度、命中提升了",
           "Name": "狂怒沸血",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -369836,7 +369836,7 @@
           "Type": 8
         },
         {
-          "info": "萌萌变的更萌了，受到攻击会回复体力；",
+          "info": "萌萌变的更萌了，受到攻击会恢复体力；",
           "Name": "萌神天降",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -369989,7 +369989,7 @@
           "Type": 8
         },
         {
-          "info": "攻击，速度，命中得到了强化；伤势越重，每回合回复越多的体力；",
+          "info": "攻击，速度，命中得到了强化；伤势越重，每回合恢复越多的体力；",
           "Name": "野性提升",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -370472,7 +370472,7 @@
           "Type": 8
         },
         {
-          "info": "全属性得到提升；造成伤害更高；若受到过大伤害，则回复所有体力；",
+          "info": "全属性得到提升；造成伤害更高；若受到过大伤害，则恢复全部体力；",
           "Name": "炙火天凰",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -371564,7 +371564,7 @@
           "Type": 8
         },
         {
-          "info": "全属性得到提升，造成伤害回复自身体力，攻击变的更加暴力；",
+          "info": "全属性得到提升，造成伤害恢复自身体力，攻击变的更加暴力；",
           "Name": "Z型共振强化",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -373802,7 +373802,7 @@
           "Type": 8
         },
         {
-          "info": "回复自身体力；抵抗能力下降",
+          "info": "恢复自身体力；抵抗能力下降",
           "Name": "长剑如虹",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -374380,7 +374380,7 @@
           "Type": 8
         },
         {
-          "info": "抵抗异常状态的能力提升了；抵抗能力下降状态；受到伤害过大则恢复自身所有体力",
+          "info": "抵抗异常状态的能力提升了；抵抗能力下降状态；受到伤害过大则恢复自身全部体力",
           "Name": "灵魂寄主",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -375679,7 +375679,7 @@
           "Type": 8
         },
         {
-          "info": "抵抗异常状态的能力提升了；每次攻击都有几率使对手麻痹；受到过大伤害则恢复自身所有体力",
+          "info": "抵抗异常状态的能力提升了；每次攻击都有几率使对手麻痹；受到过大伤害则恢复自身全部体力",
           "Name": "鹰王之怒",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -376427,7 +376427,7 @@
           "Type": 8
         },
         {
-          "info": "抵抗异常状态的能力提升了；出手变得更快了；受到过大伤害则恢复自身所有体力",
+          "info": "抵抗异常状态的能力提升了；出手变得更快了；受到过大伤害则恢复自身全部体力",
           "Name": "命眼之轮",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -376732,7 +376732,7 @@
           "Type": 8
         },
         {
-          "info": "自身特攻，速度提升了；受到攻击则回复自身最大体力；消除对手回合类效果",
+          "info": "自身特攻，速度提升了；受到攻击则恢复自身最大体力；消除对手回合类效果",
           "Name": "分秒必夺",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -377155,7 +377155,7 @@
           "Type": 8
         },
         {
-          "info": "自身攻击，速度，命中都提升了；受到攻击则回复体力并使对手双攻降低",
+          "info": "自身攻击，速度，命中都提升了；受到攻击则恢复体力并使对手双攻降低",
           "Name": "能量守护",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -377658,7 +377658,7 @@
           "Type": 8
         },
         {
-          "info": "自身攻击，速度提升了；造成伤害回复自身体力；受到致死攻击则残留1点体力",
+          "info": "自身攻击，速度提升了；造成伤害恢复自身体力；受到致死攻击则残留1点体力",
           "Name": "不死战魂",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -378647,7 +378647,7 @@
           "Type": 8
         },
         {
-          "info": "将自身的能力下降状态双倍反馈给对手；处于能力下降状态时出手变得更快；恢复所有体力",
+          "info": "将自身的能力下降状态双倍反馈给对手；处于能力下降状态时出手变得更快；恢复全部体力",
           "Name": "轰天龙威",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -381324,7 +381324,7 @@
           "Type": 8
         },
         {
-          "info": "使对手全属性都降低了；先出手，则免疫当回合伤害并回复自身体力；出手变得更快了",
+          "info": "使对手全属性都降低了；先出手，则免疫当回合伤害并恢复自身体力；出手变得更快了",
           "Name": "血色迷雾",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -381838,7 +381838,7 @@
           "Type": 8
         },
         {
-          "info": "抵抗能力下降；受到攻击会回复体力",
+          "info": "抵抗能力下降；受到攻击会恢复体力",
           "Name": "无尽战意",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -382134,7 +382134,7 @@
           "Type": 8
         },
         {
-          "info": "极大概率让对手感到害怕，未害怕则回复全部体力；受到的伤害减少了",
+          "info": "极大概率让对手感到害怕，未害怕则恢复全部体力；受到的伤害减少了",
           "Name": "雷云散华",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -383380,7 +383380,7 @@
           "Type": 8
         },
         {
-          "info": "恢复自身所有体力；获得了抵抗伤害的护盾，护盾消失则造成伤害并有几率使对手冰封",
+          "info": "恢复自身全部体力；获得了抵抗伤害的护盾，护盾消失则造成伤害并有几率使对手冰封",
           "Name": "行云乱雨",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -388616,7 +388616,7 @@
           "Type": 8
         },
         {
-          "info": "全属性都提升了，自身体力高于1/2时强化效果翻倍；开始慢慢回复体力并造成等量固定伤害；自身强化状态消失则减少对手最大体力",
+          "info": "全属性都提升了，自身体力高于1/2时强化效果翻倍；开始慢慢恢复体力并造成等量固定伤害；自身强化状态消失则减少对手最大体力",
           "Name": "闪魂追命",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -390091,7 +390091,7 @@
           "Type": 8
         },
         {
-          "info": "免疫并反弹异常状态；先出手，则免疫当回合伤害并回复自身体力；出手变得更快了",
+          "info": "免疫并反弹异常状态；先出手，则免疫当回合伤害并恢复自身体力；出手变得更快了",
           "Name": "赤影天地",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -409421,7 +409421,7 @@
           "Type": 8
         },
         {
-          "info": "全属性都提升了；开始慢慢恢复自身体力了，自身体力低于1/2时回复效果翻倍；出手变得更快了",
+          "info": "全属性都提升了；开始慢慢恢复自身体力了，自身体力低于1/2时恢复效果翻倍；出手变得更快了",
           "Name": "黎明祝福术",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -409519,7 +409519,7 @@
           "Type": 8
         },
         {
-          "info": "全属性都提升了；开始慢慢恢复自身体力了，自身体力低于1/2时回复效果翻倍；出手变得更快了",
+          "info": "全属性都提升了；开始慢慢恢复自身体力了，自身体力低于1/2时恢复效果翻倍；出手变得更快了",
           "Name": "无影突袭者",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -425417,7 +425417,7 @@
           "Type": 8
         },
         {
-          "info": "一定回合内自身受到的攻击伤害过高则恢复所有体力",
+          "info": "一定回合内自身受到的攻击伤害过高则恢复全部体力",
           "Name": "冰电之核",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -426151,7 +426151,7 @@
           "Type": 8
         },
         {
-          "info": "全属性都提升了；受到的伤害过高则恢复自身所有体力并造成等量固伤；自身出手更快了",
+          "info": "全属性都提升了；受到的伤害过高则恢复自身全部体力并造成等量固伤；自身出手更快了",
           "Name": "电磁界限",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -426597,7 +426597,7 @@
           "Type": 8
         },
         {
-          "info": "开始免疫异常状态和能力下降状态了；自身受到的伤害过高则恢复所有体力",
+          "info": "开始免疫异常状态和能力下降状态了；自身受到的伤害过高则恢复全部体力",
           "Name": "百花之灵",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -429814,7 +429814,7 @@
           "Type": 8
         },
         {
-          "info": "全属性都提升了；恢复自身所有体力并造成等量固伤；自身出手更快了",
+          "info": "全属性都提升了；恢复自身全部体力并造成等量固伤；自身出手更快了",
           "Name": "光明魔法",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -431390,7 +431390,7 @@
           "Type": 8
         },
         {
-          "info": "全属性都提升了；恢复了自身所有体力并造成等量固伤；自身出手更快了",
+          "info": "全属性都提升了；恢复了自身全部体力并造成等量固伤；自身出手更快了",
           "Name": "黑暗魔法",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -431682,7 +431682,7 @@
           "Type": 8
         },
         {
-          "info": "开始免疫并反弹异常状态和能力下降状态了；自身受到过高的伤害则恢复所有体力并造成等量固伤",
+          "info": "开始免疫并反弹异常状态和能力下降状态了；自身受到过高的伤害则恢复全部体力并造成等量固伤",
           "Name": "斑斓之舞",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -432845,7 +432845,7 @@
           "Type": 8
         },
         {
-          "info": "高几率令对手冰封，未触发则下2回合令对手束缚；恢复自身所有体力了；为自身附加一个护盾",
+          "info": "高几率令对手冰封，未触发则下2回合令对手束缚；恢复自身全部体力了；为自身附加一个护盾",
           "Name": "沧海永存",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -433779,7 +433779,7 @@
           "Type": 8
         },
         {
-          "info": "全属性都提升了；恢复了自身所有体力；自身强化状态被消除则对手进入石化状态",
+          "info": "全属性都提升了；恢复了自身全部体力；自身强化状态被消除则对手进入石化状态",
           "Name": "残影暗砂",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -436670,7 +436670,7 @@
           "Type": 8
         },
         {
-          "info": "开始免疫异常状态和能力下降状态了；对手释放技能消耗的PP值翻倍了；自身受到过高的伤害则恢复所有体力",
+          "info": "开始免疫异常状态和能力下降状态了；对手释放技能消耗的PP值翻倍了；自身受到过高的伤害则恢复全部体力",
           "Name": "荣光领域",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -436796,7 +436796,7 @@
           "Type": 8
         },
         {
-          "info": "全属性都提升了；恢复自身所有体力；自身出手更快了",
+          "info": "全属性都提升了；恢复自身全部体力；自身出手更快了",
           "Name": "马戏之王",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -441646,7 +441646,7 @@
           "Type": 8
         },
         {
-          "info": "开始免疫并反弹异常状态了；自身出手更快了；自身攻击开始打出致命一击了；自身打出致命则恢复所有体力",
+          "info": "开始免疫并反弹异常状态了；自身出手更快了；自身攻击开始打出致命一击了；自身打出致命则恢复全部体力",
           "Name": "空灵若兰",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -443368,7 +443368,7 @@
           "Type": 8
         },
         {
-          "info": "全属性都提升了；开始恢复一些体力了；自身受到的伤害过高则恢复所有体力",
+          "info": "全属性都提升了；开始恢复一些体力了；自身受到的伤害过高则恢复全部体力",
           "Name": "丛林庇佑",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -443432,7 +443432,7 @@
           "Type": 8
         },
         {
-          "info": "全属性都提升了；恢复自身所有体力；自身出手更快了",
+          "info": "全属性都提升了；恢复自身全部体力；自身出手更快了",
           "Name": "冰之妖兽",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -444550,7 +444550,7 @@
           "Type": 8
         },
         {
-          "info": "自身致命率提升了；自身打出致命则恢复所有体力",
+          "info": "自身致命率提升了；自身打出致命则恢复全部体力",
           "Name": "灵莲怒放",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -445481,7 +445481,7 @@
           "Type": 8
         },
         {
-          "info": "消除双方能力提升和下降状态；开始免疫并反弹异常状态了；恢复了所有体力",
+          "info": "消除双方能力提升和下降状态；开始免疫并反弹异常状态了；恢复了全部体力",
           "Name": "涅槃重生",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -448228,7 +448228,7 @@
           "Type": 8
         },
         {
-          "info": "高几率令对手害怕；恢复自身所有体力；对手消耗PP值更多了",
+          "info": "高几率令对手害怕；恢复自身全部体力；对手消耗PP值更多了",
           "Name": "魂归来兮",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -449027,7 +449027,7 @@
           "Type": 8
         },
         {
-          "info": "恢复所有体力；开始免疫并反弹异常伤害了；为自身创造护盾并提高伤害",
+          "info": "恢复全部体力；开始免疫并反弹异常伤害了；为自身创造护盾并提高伤害",
           "Name": "晶蓝结界",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -450895,7 +450895,7 @@
           "Type": 8
         },
         {
-          "info": "令对手全属性-1；恢复自身所有体力并造成等量固伤；3回合内，对手使用攻击技能降低对手最大体力的1/3，使用属性技能则100%失明",
+          "info": "令对手全属性-1；恢复自身全部体力并造成等量固伤；3回合内，对手使用攻击技能降低对手最大体力的1/3，使用属性技能则100%失明",
           "Name": "喑黯梦境",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -452458,7 +452458,7 @@
           "Type": 8
         },
         {
-          "info": "使自身攻击+1、防御+1、特防+1、速度+1；攻击开始有几率令对手害怕了；本回合受到致命伤害则强制存活并回合所有体力",
+          "info": "使自身攻击+1、防御+1、特防+1、速度+1；攻击开始有几率令对手害怕了；本回合受到致命伤害则强制存活并回合全部体力",
           "Name": "深渊幽魂",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -459119,7 +459119,7 @@
           "Type": 8
         },
         {
-          "info": "全属性都提升了；恢复自身所有体力；自身攻击威力开始提升了",
+          "info": "全属性都提升了；恢复自身全部体力；自身攻击威力开始提升了",
           "Name": "霆之禁锢",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -459477,7 +459477,7 @@
           "Type": 8
         },
         {
-          "info": "开始令对手的属性无效了；恢复自身所有体力；为自身附加一个护盾",
+          "info": "开始令对手的属性无效了；恢复自身全部体力；为自身附加一个护盾",
           "Name": "迦曼吉领域",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -464593,7 +464593,7 @@
           "Type": 8
         },
         {
-          "info": "开始免疫异常状态了；降低对手所有技能PP值1点，恢复自身所有技能PP值1点；受到的伤害高于300则恢复自身所有体力",
+          "info": "开始免疫异常状态了；降低对手所有技能PP值1点，恢复自身所有技能PP值1点；受到的伤害高于300则恢复自身全部体力",
           "Name": "枫酿精华",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -469282,7 +469282,7 @@
           "Type": 8
         },
         {
-          "info": "开始免疫异常状态了；开始免疫能力下降状态了；自身受到过高的伤害则恢复自身所有体力；自身攻击开始忽略对手一定双防了；自身出手更快了",
+          "info": "开始免疫异常状态了；开始免疫能力下降状态了；自身受到过高的伤害则恢复自身全部体力；自身攻击开始忽略对手一定双防了；自身出手更快了",
           "Name": "灵魄牵引",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -470485,7 +470485,7 @@
           "Type": 8
         },
         {
-          "info": "本回合自身死亡则立刻恢复自身所有体力并解除自身异常状态和能力下降状态，后出手无效；自身攻击开始必定致命、必定命中了；自身出手更快了",
+          "info": "本回合自身死亡则立刻恢复自身全部体力并解除自身异常状态和能力下降状态，后出手无效；自身攻击开始必定致命、必定命中了；自身出手更快了",
           "Name": "神兵之守",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -478264,7 +478264,7 @@
           "Type": 8
         },
         {
-          "info": "全属性都提升了；恢复自身所有体力；自身出手更快了",
+          "info": "全属性都提升了；恢复自身全部体力；自身出手更快了",
           "Name": "四骑之力",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -489417,7 +489417,7 @@
           "Type": 8
         },
         {
-          "info": "恢复了一些体力，且一定回合后恢复自身所有体力",
+          "info": "恢复了一些体力，且一定回合后恢复自身全部体力",
           "Name": "对成霜",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -530738,6 +530738,145 @@
           "ordinary": 0,
           "Power": 0,
           "Priority": 3,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫并反弹受到的异常状态了；开始抵挡对手的攻击了；自身的回合类效果受到了保护",
+          "Name": "固化石躯",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            1259,
+            1786,
+            679
+          ],
+          "SideEffectArg": [
+            4,
+            4,
+            50,
+            0,
+            -2,
+            0,
+            -2,
+            -2,
+            0,
+            3,
+            1,
+            3
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29449,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 1,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；开始恢复体力并附加百分比伤害了；出手变得更快了",
+          "Name": "大地融合",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1326,
+            1065,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            3,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29450,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫并反弹受到的异常状态了；开始令对手的能力下降了；攻击变得更加犀利了",
+          "Name": "雷鸣法象",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            2161,
+            776
+          ],
+          "SideEffectArg": [
+            4,
+            3,
+            -1,
+            -1,
+            -1,
+            -1,
+            0,
+            0,
+            1,
+            100,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29451,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了；恢复了体力；出手变得更快了",
+          "Name": "电掣剑光",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            952,
+            708,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            500,
+            2,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29452,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
           "Type": 8
         },
         {
@@ -767421,6 +767560,182 @@
           "Power": 160,
           "Priority": 0,
           "Type": 92
+        },
+        {
+          "info": "",
+          "Name": "无想连击",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            485,
+            1104
+          ],
+          "SideEffectArg": [
+            240,
+            3
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38527,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 7
+        },
+        {
+          "info": "",
+          "Name": "沙石狂骨刺",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1568,
+            1671,
+            1388
+          ],
+          "SideEffectArg": [
+            300,
+            600,
+            300,
+            1
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38528,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Type": 7
+        },
+        {
+          "info": "",
+          "Name": "乱石落土击",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1878,
+            1925,
+            2116
+          ],
+          "SideEffectArg": [
+            4,
+            4,
+            1,
+            70
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38529,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 7
+        },
+        {
+          "info": "",
+          "Name": "远古雷律",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1139,
+            719
+          ],
+          "SideEffectArg": [
+            2,
+            10,
+            10,
+            70,
+            0
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38530,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Type": 127
+        },
+        {
+          "info": "",
+          "Name": "迅离金闪",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            799,
+            50
+          ],
+          "SideEffectArg": [
+            3,
+            2,
+            3
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38531,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Type": 127
+        },
+        {
+          "info": "",
+          "Name": "万雷俯首令",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            631,
+            1613,
+            882
+          ],
+          "SideEffectArg": [
+            0,
+            100,
+            250,
+            100,
+            20
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38532,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Type": 127
         },
         {
           "info": "恢复自身一定体力",

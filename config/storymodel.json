@@ -4586,6 +4586,17 @@
       "portrait": "lawutuo_fg",
       "id": 417,
       "scale": 1
+    },
+    {
+      "CharacterID": "ruitelani",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "42,185",
+      "name": "瑞特拉尼",
+      "portrait": "ruitelani_fg",
+      "id": 418,
+      "scale": 1
     }
   ]
 }
