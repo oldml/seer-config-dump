@@ -4630,6 +4630,17 @@
       "portrait": "xuanwu_fg",
       "id": 421,
       "scale": 1.5
+    },
+    {
+      "CharacterID": "neo2",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "128,203",
+      "name": "NEO",
+      "portrait": "neo2_fg",
+      "id": 422,
+      "scale": 1
     }
   ]
 }
