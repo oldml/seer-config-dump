@@ -106,6 +106,14 @@
       "id": 13,
       "realId": 1,
       "type": 4
+    },
+    {
+      "path": "Assets/Game/Prefabs/brickBreakerGame/scenes/BrickBreakerBattle.unity",
+      "child": null,
+      "health": 1,
+      "id": 14,
+      "realId": 1,
+      "type": 6
     }
   ]
 }

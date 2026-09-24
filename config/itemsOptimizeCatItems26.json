@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "Name": "梦境礼盒",
+      "catID": 26,
+      "ID": 2600071,
+      "Max": 99,
+      "purpose": 1,
+      "Rarity": 5,
+      "Sort": 35,
+      "UseMax": 1,
+      "wd": 1
+    },
+    {
       "Name": "奇见礼遇",
       "catID": 26,
       "ID": 2600070,

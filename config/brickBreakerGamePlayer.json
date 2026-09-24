@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "name": "赛尔",
+      "showvalue": "6_5_6_6_6",
+      "skilldes": "攻击频率更快，但每次发射会在瞄准方向周围随机散射，无法精确瞄准敌人。",
+      "attackrate": 86,
+      "bulletid": 1,
+      "critrate": 5,
+      "hp": 106,
+      "id": 1,
+      "minibullet": 3,
+      "movespeed": 8,
+      "scopedamagerate": 100,
+      "skill": 1
+    },
+    {
+      "name": "琉梦",
+      "showvalue": "5_6_3_8_5",
+      "skilldes": "底部区域按墙壁处理，未被主动接住的弹珠镜面反弹；单次飞行12秒后直接回收。",
+      "attackrate": 92,
+      "bulletid": 5,
+      "critrate": 3,
+      "hp": 100,
+      "id": 2,
+      "minibullet": 5,
+      "movespeed": 10,
+      "scopedamagerate": 100,
+      "skill": 2
+    },
+    {
+      "name": "雷伊",
+      "showvalue": "4_8_6_6_8",
+      "skilldes": "开局不携带迷你弹珠；每次成功发射弹珠时有25%概率额外发出1枚相同弹珠。",
+      "attackrate": 94,
+      "bulletid": 3,
+      "critrate": 8,
+      "hp": 90,
+      "id": 3,
+      "minibullet": 0,
+      "movespeed": 8,
+      "scopedamagerate": 130,
+      "skill": 3
+    },
+    {
+      "name": "盖亚",
+      "showvalue": "6_6_8_6_5",
+      "skilldes": "弹珠从屏幕顶部向下发射；角色额外获取15%的暴击率。",
+      "attackrate": 88,
+      "bulletid": 7,
+      "critrate": 20,
+      "hp": 100,
+      "id": 4,
+      "minibullet": 3,
+      "movespeed": 8,
+      "scopedamagerate": 100,
+      "skill": 4
+    },
+    {
+      "name": "阿克",
+      "showvalue": "5_6_4_6_8",
+      "skilldes": "所有弹珠在每次飞行第一次碰墙前可以穿透敌人（首次碰墙后仅移除角色赋予的穿透效果）。",
+      "attackrate": 90,
+      "bulletid": 2,
+      "critrate": 4,
+      "hp": 106,
+      "id": 5,
+      "minibullet": 3,
+      "movespeed": 8,
+      "scopedamagerate": 100,
+      "skill": 5
+    },
+    {
+      "name": "玄武之子",
+      "showvalue": "8_4_5_7_4",
+      "skilldes": "每次有效反弹使本次飞行的弹珠伤害+5%，最多10层；触及顶部时立即回返，并伤害回返路径上的全部敌人。",
+      "attackrate": 88,
+      "bulletid": 4,
+      "critrate": 5,
+      "hp": 130,
+      "id": 6,
+      "minibullet": 3,
+      "movespeed": 6,
+      "scopedamagerate": 90,
+      "skill": 6
+    }
+  ]
+}

@@ -11733,7 +11733,7 @@
           }
         ],
         "ID": 653,
-        "Jumptarget": 0,
+        "Jumptarget": 114147,
         "MonID": 4510,
         "Type": 18
       },
@@ -11751,7 +11751,7 @@
           }
         ],
         "ID": 654,
-        "Jumptarget": 0,
+        "Jumptarget": 114147,
         "MonID": 4500,
         "Type": 18
       },
@@ -11769,7 +11769,7 @@
           }
         ],
         "ID": 655,
-        "Jumptarget": 0,
+        "Jumptarget": 114147,
         "MonID": 4515,
         "Type": 18
       },
@@ -12993,7 +12993,7 @@
           }
         ],
         "ID": 723,
-        "Jumptarget": 0,
+        "Jumptarget": 114145,
         "MonID": 4762,
         "Type": 18
       },
@@ -13011,7 +13011,7 @@
           }
         ],
         "ID": 724,
-        "Jumptarget": 0,
+        "Jumptarget": 114146,
         "MonID": 4761,
         "Type": 3
       },
@@ -13047,7 +13047,7 @@
           }
         ],
         "ID": 726,
-        "Jumptarget": 0,
+        "Jumptarget": 114101,
         "MonID": 4765,
         "Type": 4
       },
@@ -13065,7 +13065,7 @@
           }
         ],
         "ID": 727,
-        "Jumptarget": 0,
+        "Jumptarget": 114102,
         "MonID": 4766,
         "Type": 4
       },
@@ -13173,7 +13173,7 @@
           }
         ],
         "ID": 733,
-        "Jumptarget": 0,
+        "Jumptarget": 114139,
         "MonID": 4761,
         "Type": 3
       },
@@ -15608,8 +15608,8 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "无尽夏的夜宴·阿克希亚",
         "SkinKind": [
           {
@@ -15621,7 +15621,7 @@
           }
         ],
         "ID": 869,
-        "Jumptarget": 114131,
+        "Jumptarget": 0,
         "MonID": 4942,
         "Type": 18
       },
@@ -15642,6 +15642,114 @@
         "Jumptarget": 2,
         "MonID": 4942,
         "Type": 0
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "直至烈阳升起·帝皇之戎",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 871,
+        "Jumptarget": 114141,
+        "MonID": 4950,
+        "Type": 20
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "默颂传说·洛克珊娜",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 872,
+        "Jumptarget": 114135,
+        "MonID": 3430,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "生骸圣像·咤克斯",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 873,
+        "Jumptarget": 114143,
+        "MonID": 4762,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "瑶光桂影·琉梦",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 874,
+        "Jumptarget": 114144,
+        "MonID": 4761,
+        "Type": 6
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "宿命的对决·雷伊",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 875,
+        "Jumptarget": 114137,
+        "MonID": 4946,
+        "Type": 4
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "宿命的对决·盖亚",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 876,
+        "Jumptarget": 114137,
+        "MonID": 4947,
+        "Type": 4
       }
     ]
   }

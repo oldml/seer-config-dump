@@ -662,6 +662,21 @@
             "Unrestriction": 1,
             "Unweaken": 1,
             "Weaken": 0
+          },
+          {
+            "Name": "魇昧",
+            "Ctrl": 0,
+            "Dependent": 0,
+            "Derivation": 0,
+            "Efftype": 1,
+            "ID": 44,
+            "Restriction": 0,
+            "Unctrl": 2,
+            "Undependent": 2,
+            "Underivation": 2,
+            "Unrestriction": 2,
+            "Unweaken": 0,
+            "Weaken": 2
           }
         ],
         "Type": 0

@@ -5003,8 +5003,8 @@
       "modelType": 1,
       "offsetX": 0,
       "offsetY": 0,
-      "scaleX": 0.5,
-      "scaleY": 0.5
+      "scaleX": 0.32,
+      "scaleY": 0.32
     },
     {
       "name": "钢牙鲨",
@@ -5020,8 +5020,8 @@
       "modelType": 1,
       "offsetX": 0,
       "offsetY": 0,
-      "scaleX": 0.5,
-      "scaleY": 0.5
+      "scaleX": 0.32,
+      "scaleY": 0.32
     },
     {
       "name": "纳多雷",
@@ -5037,8 +5037,8 @@
       "modelType": 1,
       "offsetX": 0,
       "offsetY": 0,
-      "scaleX": 0.5,
-      "scaleY": 0.5
+      "scaleX": 0.37,
+      "scaleY": 0.37
     },
     {
       "name": "雷纳多",
@@ -5054,8 +5054,8 @@
       "modelType": 1,
       "offsetX": 0,
       "offsetY": 0,
-      "scaleX": 0.5,
-      "scaleY": 0.5
+      "scaleX": -0.37,
+      "scaleY": 0.37
     },
     {
       "name": "提亚斯",
@@ -5071,8 +5071,8 @@
       "modelType": 1,
       "offsetX": 0,
       "offsetY": 0,
-      "scaleX": 0.5,
-      "scaleY": 0.5
+      "scaleX": -0.37,
+      "scaleY": 0.37
     },
     {
       "name": "里奥斯",
@@ -5088,8 +5088,8 @@
       "modelType": 1,
       "offsetX": 0,
       "offsetY": 0,
-      "scaleX": 0.5,
-      "scaleY": 0.5
+      "scaleX": -0.37,
+      "scaleY": 0.37
     }
   ]
 }

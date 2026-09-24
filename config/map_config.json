@@ -8917,7 +8917,7 @@
         "changeMapComp": {
           "component": [
             {
-              "targetID": 1278,
+              "targetID": 2178,
               "x": 103,
               "y": 493
             },
@@ -8974,6 +8974,19 @@
         },
         "Entries": null,
         "id": 2182
+      },
+      {
+        "changeMapComp": {
+          "component": [
+            {
+              "targetID": 1093,
+              "x": 490,
+              "y": 430
+            }
+          ]
+        },
+        "Entries": null,
+        "id": 2178
       },
       {
         "changeMapComp": {

@@ -2422,6 +2422,20 @@
                     "ID": 26,
                     "proicon": 1499,
                     "SpeNameBonus": 596
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "灵渊守护者",
+                    "Desc": "完成主线【灵渊的回响】获得",
+                    "Threshold": "27",
+                    "title": "灵渊守护者",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 27,
+                    "proicon": 1524,
+                    "SpeNameBonus": 608
                   }
                 ],
                 "ID": 161,
@@ -18871,6 +18885,62 @@
                     "ID": 11,
                     "proicon": 1504,
                     "SpeNameBonus": 598
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "双生烈阳",
+                    "Desc": "【双生烈阳】活动获取",
+                    "Threshold": "12",
+                    "title": "双生烈阳",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 12,
+                    "proicon": 1520,
+                    "SpeNameBonus": 604
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "玄冥之不动帝",
+                    "Desc": "在【镇世神岳·玄武】的挑战排行中前1000名获得",
+                    "Threshold": "13",
+                    "title": "玄冥之不动帝",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 0,
+                    "hide": 0,
+                    "ID": 13,
+                    "proicon": 1521,
+                    "SpeNameBonus": 605
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "玄冥之不动",
+                    "Desc": "在【镇世神岳·玄武】中兑换获得",
+                    "Threshold": "14",
+                    "title": "玄冥之不动",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 30,
+                    "hide": 0,
+                    "ID": 14,
+                    "proicon": 1522,
+                    "SpeNameBonus": 606
+                  },
+                  {
+                    "abtext": "攻击+40，特攻+40，防御+20，特防+20",
+                    "achName": "节庆礼花",
+                    "Desc": "参与活动【节庆礼花】获得",
+                    "Threshold": "15",
+                    "title": "节庆礼花",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 1,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 15,
+                    "proicon": 1523,
+                    "SpeNameBonus": 607
                   }
                 ],
                 "ID": 176,

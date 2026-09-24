@@ -640,6 +640,26 @@
         "price": 30,
         "productID": 200086,
         "vip": 1
+      },
+      {
+        "name": "购买【洛克珊娜的宝箱钥匙】",
+        "itemID": [
+          1728509
+        ],
+        "gold": 1,
+        "price": 6,
+        "productID": 200087,
+        "vip": 1
+      },
+      {
+        "name": "10月风尚月历",
+        "itemID": [
+          1728510
+        ],
+        "gold": 1,
+        "price": 30,
+        "productID": 200088,
+        "vip": 1
       }
     ]
   }

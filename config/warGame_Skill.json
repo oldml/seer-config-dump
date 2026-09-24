@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "buff": "1",
+      "describe": "同时攻击4个目标",
+      "name": "水之力 ",
+      "id": 1,
+      "value1": 5,
+      "value2": 0,
+      "valueLvUp1": 0,
+      "valueLvUp2": 0
+    },
+    {
+      "buff": "2",
+      "describe": "攻击附带麻痹2秒",
+      "name": "电之力 ",
+      "id": 2,
+      "value1": 2,
+      "value2": 0,
+      "valueLvUp1": 0,
+      "valueLvUp2": 0
+    },
+    {
+      "buff": "3",
+      "describe": "附加灼烧：每秒15伤持续4秒，可叠加（每级+3伤）",
+      "name": "火之力",
+      "id": 3,
+      "value1": 15,
+      "value2": 4,
+      "valueLvUp1": 3,
+      "valueLvUp2": 0
+    },
+    {
+      "buff": "4",
+      "describe": "附加永久中毒：每秒40伤（每级+5）",
+      "name": "草之力",
+      "id": 4,
+      "value1": 40,
+      "value2": 0,
+      "valueLvUp1": 5,
+      "valueLvUp2": 0
+    },
+    {
+      "buff": "5",
+      "describe": "附带迟缓：降低敌人1次/秒攻频",
+      "name": "冰之力 ",
+      "id": 5,
+      "value1": 1,
+      "value2": 0,
+      "valueLvUp1": 0,
+      "valueLvUp2": 0
+    },
+    {
+      "buff": "",
+      "describe": "只能近身攻击敌人",
+      "name": "龙之力",
+      "id": 6,
+      "value1": 0,
+      "value2": 0,
+      "valueLvUp1": 0,
+      "valueLvUp2": 0
+    },
+    {
+      "buff": "1",
+      "describe": "同时攻击6个目标，每级+1目标",
+      "name": "王·洛水惊鸿",
+      "id": 7,
+      "value1": 6,
+      "value2": 0,
+      "valueLvUp1": 1,
+      "valueLvUp2": 0
+    },
+    {
+      "buff": "1,2",
+      "describe": "同时攻击6目标并麻痹30秒，每2级增加1个攻击目标",
+      "name": "王·风雷啸世",
+      "id": 8,
+      "value1": 6,
+      "value2": 30,
+      "valueLvUp1": 2,
+      "valueLvUp2": 0
+    },
+    {
+      "buff": "3",
+      "describe": "保护性火环：每秒60伤持续10秒，每级+10",
+      "name": "王·焚世烈焰",
+      "id": 9,
+      "value1": 15,
+      "value2": 10,
+      "valueLvUp1": 10,
+      "valueLvUp2": 0
+    },
+    {
+      "buff": "1,4",
+      "describe": "同时攻击6目标并附加中毒6，每级+10毒伤，每5级增加1个攻击目标",
+      "name": "王·春暖花开",
+      "id": 10,
+      "value1": 6,
+      "value2": 6,
+      "valueLvUp1": 5,
+      "valueLvUp2": 10
+    },
+    {
+      "buff": "6",
+      "describe": "大范围持续伤害：每秒100伤持续30秒，每级+20",
+      "name": "极度·忘川",
+      "id": 11,
+      "value1": 100,
+      "value2": 30,
+      "valueLvUp1": 20,
+      "valueLvUp2": 0
+    },
+    {
+      "buff": "7",
+      "describe": "每击杀1敌：攻击+3、生命+20，每级+1/+2",
+      "name": "王·龙子盛威诀",
+      "id": 12,
+      "value1": 3,
+      "value2": 20,
+      "valueLvUp1": 1,
+      "valueLvUp2": 2
+    },
+    {
+      "buff": "",
+      "describe": "普通攻击，强劲有力",
+      "name": "精灵之力",
+      "id": 13,
+      "value1": 0,
+      "value2": 0,
+      "valueLvUp1": 0,
+      "valueLvUp2": 0
+    }
+  ]
+}

@@ -17220,7 +17220,7 @@
     {
       "DeviceID": "",
       "Ename": "Destination Reached",
-      "name": "0924场景占位",
+      "name": "灵龟之渊",
       "notes": "活动场景",
       "sound": "BGM_438",
       "NPCID": [
@@ -17232,18 +17232,18 @@
         312
       ],
       "NPCXYZ": [
-        100,
-        400,
-        200,
-        400,
-        300,
-        400,
-        400,
-        400,
-        500,
-        400,
-        600,
-        400
+        250,
+        265,
+        270,
+        350,
+        410,
+        410,
+        735,
+        410,
+        880,
+        350,
+        900,
+        265
       ],
       "PlayerXYZ": [
         470,
@@ -17253,7 +17253,7 @@
       "WildBossPoint": null,
       "WildBossWeight": null,
       "enterMap": 0,
-      "GroupID": 0,
+      "GroupID": 20113,
       "id": 2177,
       "MapRatio": 1,
       "pic": 2177
@@ -17261,7 +17261,7 @@
     {
       "DeviceID": "",
       "Ename": "Destination Reached",
-      "name": "0924场景占位",
+      "name": "灵龟之渊",
       "notes": "真实场景",
       "sound": "BGM_438",
       "NPCID": null,
@@ -17295,7 +17295,7 @@
       ],
       "WildBossWeight": null,
       "enterMap": 0,
-      "GroupID": 0,
+      "GroupID": 20113,
       "id": 2178,
       "MapRatio": 1,
       "pic": 2178

@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "Name": "琉梦因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400603,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "亚巴兰托因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400602,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "瑞特拉尼因子",
       "catID": 24,
       "Hide": 0,

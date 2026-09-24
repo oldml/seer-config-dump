@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "name": "简单",
+      "rewardinfo": "1_1728489_10;1_1728490_2",
+      "id": 1,
+      "npcFallExp": 60,
+      "npcFallHp": 20,
+      "npcLvUp": 10,
+      "npcNum": 20,
+      "npcTime": 20,
+      "petLvUp": 10,
+      "score": 100,
+      "times": 60
+    },
+    {
+      "name": "困难",
+      "rewardinfo": "1_1728489_40;1_1728490_5",
+      "id": 2,
+      "npcFallExp": 100,
+      "npcFallHp": 20,
+      "npcLvUp": 10,
+      "npcNum": 15,
+      "npcTime": 10,
+      "petLvUp": 10,
+      "score": 2000,
+      "times": 90
+    },
+    {
+      "name": "噩梦",
+      "rewardinfo": "1_1728489_100;1_1728490_5",
+      "id": 3,
+      "npcFallExp": 60,
+      "npcFallHp": 20,
+      "npcLvUp": 20,
+      "npcNum": 80,
+      "npcTime": 5,
+      "petLvUp": 100,
+      "score": 1,
+      "times": 90
+    }
+  ]
+}

@@ -1909,7 +1909,7 @@
       "IsPlaceEffect": 0
     },
     {
-      "buffDes": "己方精灵攻击时，触发其阵亡效果",
+      "buffDes": "己方a(0:任意)系精灵攻击时，触发其阵亡效果",
       "buffobject": "卡牌",
       "buffparam": "a",
       "effectIcon": "1",
@@ -6990,6 +6990,18 @@
       "buffparam": "a_b",
       "effectIcon": "",
       "id": 60105,
+      "IsBfBattleEffect": 0,
+      "IsColdWaveEffect": 0,
+      "IsDeathEffect": 0,
+      "IsGrowthEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "buffDes": "战斗开始时，使对方未获得冻伤的随机a只精灵获得冻伤",
+      "buffobject": "芯片效果",
+      "buffparam": "a",
+      "effectIcon": "",
+      "id": 60106,
       "IsBfBattleEffect": 0,
       "IsColdWaveEffect": 0,
       "IsDeathEffect": 0,

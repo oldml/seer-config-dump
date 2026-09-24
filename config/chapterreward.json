@@ -1119,6 +1119,30 @@
       "open": 1,
       "order": 3,
       "param": 12
+    },
+    {
+      "item": "1_300075_3",
+      "chapterid": 1027,
+      "id": 141,
+      "open": 1,
+      "order": 4,
+      "param": 16
+    },
+    {
+      "item": "1_1706926_2",
+      "chapterid": 1027,
+      "id": 142,
+      "open": 1,
+      "order": 5,
+      "param": 20
+    },
+    {
+      "item": "10_161_27",
+      "chapterid": 1027,
+      "id": 143,
+      "open": 1,
+      "order": 6,
+      "param": 22
     }
   ]
 }

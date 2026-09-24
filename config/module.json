@@ -5534,7 +5534,7 @@
     {
       "moduleName": "zhenshixuanwu",
       "resConfig": null,
-      "currAppDo": 0,
+      "currAppDo": 1,
       "id": 911,
       "isFullScreen": 1
     },
@@ -6558,6 +6558,41 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1229,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "xingyuankafeitingSkinActivityPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1230,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dihuangzhirongPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1231,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "organizeFireworkGamePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1232,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ShenglingzhihunmaiersiMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1233,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "stonebattleActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1234,
       "isFullScreen": 1
     }
   ]

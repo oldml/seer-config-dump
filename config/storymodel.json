@@ -4597,6 +4597,39 @@
       "portrait": "ruitelani_fg",
       "id": 418,
       "scale": 1
+    },
+    {
+      "CharacterID": "ray10",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-372,443",
+      "name": "雷伊",
+      "portrait": "ray10_fg",
+      "id": 419,
+      "scale": 1.1
+    },
+    {
+      "CharacterID": "gaia8",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "38,375",
+      "name": "盖亚",
+      "portrait": "gaia8_fg",
+      "id": 420,
+      "scale": 1
+    },
+    {
+      "CharacterID": "xuanwu",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-317,308",
+      "name": "玄武",
+      "portrait": "xuanwu_fg",
+      "id": 421,
+      "scale": 1.5
     }
   ]
 }
