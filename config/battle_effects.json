@@ -670,11 +670,11 @@
             "Derivation": 0,
             "Efftype": 1,
             "ID": 44,
-            "Restriction": 0,
+            "Restriction": 2,
             "Unctrl": 2,
-            "Undependent": 2,
+            "Undependent": 0,
             "Underivation": 2,
-            "Unrestriction": 2,
+            "Unrestriction": 0,
             "Unweaken": 0,
             "Weaken": 2
           }
