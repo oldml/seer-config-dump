@@ -207,6 +207,14 @@
       "sort": 25,
       "subtype": 0,
       "type": 26
+    },
+    {
+      "name": "星缘咖啡厅",
+      "subtypename": "",
+      "id": 27,
+      "sort": 26,
+      "subtype": 0,
+      "type": 27
     }
   ]
 }

@@ -11727,7 +11727,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 27,
             "Type": 2,
             "Year": 0
           }
@@ -11745,7 +11745,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 27,
             "Type": 2,
             "Year": 0
           }
@@ -11763,7 +11763,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 27,
             "Type": 2,
             "Year": 0
           }
@@ -15626,8 +15626,8 @@
         "Type": 18
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "阿克希亚",
         "SkinKind": [
           {
@@ -15639,7 +15639,7 @@
           }
         ],
         "ID": 870,
-        "Jumptarget": 2,
+        "Jumptarget": 0,
         "MonID": 4942,
         "Type": 0
       },
@@ -15651,7 +15651,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 23,
             "Type": 2,
             "Year": 0
           }
@@ -15705,7 +15705,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 8,
             "Type": 2,
             "Year": 0
           }
@@ -15750,6 +15750,42 @@
         "Jumptarget": 114137,
         "MonID": 4947,
         "Type": 4
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "万契之囹·龙焉",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 877,
+        "Jumptarget": 114149,
+        "MonID": 4373,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "百相傩戏·库比",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 878,
+        "Jumptarget": 2,
+        "MonID": 4658,
+        "Type": 3
       }
     ]
   }

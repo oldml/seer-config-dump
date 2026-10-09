@@ -4632,15 +4632,37 @@
       "scale": 1.5
     },
     {
-      "CharacterID": "neo2",
+      "CharacterID": "vidofnir",
       "emoji": "",
       "emojixy": "",
       "head": "",
-      "initialposition": "128,203",
-      "name": "NEO",
-      "portrait": "neo2_fg",
+      "initialposition": "-196,220",
+      "name": "维德弗尼尔",
+      "portrait": "vidofnir_fg",
       "id": 422,
-      "scale": 1
+      "scale": 1.32
+    },
+    {
+      "CharacterID": "edda",
+      "emoji": "edda_01",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-37,6",
+      "name": "埃A达",
+      "portrait": "edda_fg",
+      "id": 423,
+      "scale": 0.8
+    },
+    {
+      "CharacterID": "otus",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-55,150",
+      "name": "奥提斯",
+      "portrait": "otus_fg",
+      "id": 424,
+      "scale": 0.7
     }
   ]
 }

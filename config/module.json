@@ -5553,6 +5553,20 @@
       "isFullScreen": 0
     },
     {
+      "moduleName": "getLySkin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 914,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "hundiTianxundao",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 915,
+      "isFullScreen": 1
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -6593,6 +6607,34 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1234,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ancientThreeMainPets",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1235,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "story2027yearsummon",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1236,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "formaSwtichPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1237,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "farSkyFallingStageMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1238,
       "isFullScreen": 1
     }
   ]
