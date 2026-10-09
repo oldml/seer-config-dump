@@ -531390,7 +531390,7 @@
           "Type": 8
         },
         {
-          "info": "待添加",
+          "info": "免疫并反弹异常状态，将受到的伤害转化为体力，对手的能力开始下降",
           "Name": "阻隔风墙",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -531432,7 +531432,7 @@
           "Type": 8
         },
         {
-          "info": "待添加",
+          "info": "全属性都提升了，开始吸取对手体力，出手变得更快了",
           "Name": "徐风缠绕",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -531466,7 +531466,7 @@
           "Type": 8
         },
         {
-          "info": "待添加",
+          "info": "开始弱化对手了，下次攻击变得更加凌厉",
           "Name": "神代·压迫",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -531499,7 +531499,7 @@
           "Type": 8
         },
         {
-          "info": "待添加",
+          "info": "开始持续恢复，身体被护盾保护了起来",
           "Name": "神代·隔绝",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -531533,7 +531533,7 @@
           "Type": 8
         },
         {
-          "info": "待添加",
+          "info": "抵抗异常状态，能力提升了，开始反弹固定伤害",
           "Name": "神代·虚张声势",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -531569,7 +531569,7 @@
           "Type": 8
         },
         {
-          "info": "待添加",
+          "info": "攻击提升了很多，造成的伤害将恢复自身体力",
           "Name": "神代·剑舞",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -531602,7 +531602,7 @@
           "Type": 8
         },
         {
-          "info": "待添加",
+          "info": "减少了受到的伤害，将能力下降反馈给对手",
           "Name": "神代·花草护体",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
@@ -531630,7 +531630,7 @@
           "Type": 8
         },
         {
-          "info": "待添加",
+          "info": "开始吸收对手的能力强化，开始慢慢吸取对手体力",
           "Name": "神代·寄生种子",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
