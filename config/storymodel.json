@@ -4644,7 +4644,7 @@
     },
     {
       "CharacterID": "edda",
-      "emoji": "edda_01",
+      "emoji": "edda_01,edda_02,edda_03",
       "emojixy": "",
       "head": "",
       "initialposition": "-37,6",
@@ -4663,6 +4663,182 @@
       "portrait": "otus_fg",
       "id": 424,
       "scale": 0.7
+    },
+    {
+      "CharacterID": "lkyxlss",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "械灵·射手型",
+      "portrait": "lkyxlss_fg",
+      "id": 425,
+      "scale": 1
+    },
+    {
+      "CharacterID": "lkyxlzs",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,78",
+      "name": "械灵·战士型",
+      "portrait": "lkyxlzs_fg",
+      "id": 426,
+      "scale": 1
+    },
+    {
+      "CharacterID": "lkylyxx",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-159,189",
+      "name": "神代·魔焰猩猩",
+      "portrait": "lkylyxx_fg",
+      "id": 427,
+      "scale": 1
+    },
+    {
+      "CharacterID": "lkylsw",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-174,156",
+      "name": "神代·鲁斯王",
+      "portrait": "lkylsw_fg",
+      "id": 428,
+      "scale": 1
+    },
+    {
+      "CharacterID": "lkybbh",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-108,263",
+      "name": "神代·布布花",
+      "portrait": "lkybbh_fg",
+      "id": 429,
+      "scale": 0.9
+    },
+    {
+      "CharacterID": "hnn",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "霍努努",
+      "portrait": "hnn_fg",
+      "id": 430,
+      "scale": 1
+    },
+    {
+      "CharacterID": "kaiya",
+      "emoji": "kaiya_01,kaiya_02,kaiya_03,kaiya_04,kaiya_05",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "69,117",
+      "name": "凯亚",
+      "portrait": "kaiya_fg",
+      "id": 431,
+      "scale": 1
+    },
+    {
+      "CharacterID": "lkynpcjsm",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "祭司",
+      "portrait": "lkynpcjsm_fg",
+      "id": 432,
+      "scale": 1
+    },
+    {
+      "CharacterID": "lkynpcjsf",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "祭司",
+      "portrait": "lkynpcjsf_fg",
+      "id": 433,
+      "scale": 1
+    },
+    {
+      "CharacterID": "lkynpcptm",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "村民",
+      "portrait": "lkynpcptm_fg",
+      "id": 434,
+      "scale": 1
+    },
+    {
+      "CharacterID": "lkynpcptf",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "村民",
+      "portrait": "lkynpcptf_fg",
+      "id": 435,
+      "scale": 1
+    },
+    {
+      "CharacterID": "lkynpczhsm",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "召唤师",
+      "portrait": "lkynpczhsm_fg",
+      "id": 436,
+      "scale": 1
+    },
+    {
+      "CharacterID": "lkynpczhsf",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "召唤师",
+      "portrait": "lkynpczhsf_fg",
+      "id": 437,
+      "scale": 1
+    },
+    {
+      "CharacterID": "lkynpczjm",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "专家",
+      "portrait": "lkynpczjm_fg",
+      "id": 438,
+      "scale": 1
+    },
+    {
+      "CharacterID": "lkynpczjf",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "专家",
+      "portrait": "lkynpczjf_fg",
+      "id": 439,
+      "scale": 1
+    },
+    {
+      "CharacterID": "shenliu",
+      "emoji": "shenliu_01,shenliu_02,shenliu_03,shenliu_04,shenliu_05,shenliu_06",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "55,0",
+      "name": "神流",
+      "portrait": "shenliu_fg",
+      "id": 440,
+      "scale": 1.05
     }
   ]
 }

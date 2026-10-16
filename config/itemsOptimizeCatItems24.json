@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "Name": "凌波清芙因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400608,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "缥缈幽芙因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400607,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "炫彩山神·迪符特因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400606,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "霍努努因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400605,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "维德弗尼尔因子",
       "catID": 24,
       "Hide": 0,

@@ -218,7 +218,7 @@
       "isShow": 1,
       "redbadge": 0,
       "signType": 0,
-      "sorting": 1,
+      "sorting": 2,
       "type": 5
     },
     {
@@ -614,8 +614,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_07_17 10:00:00",
-      "ending": "2026_07_31 10:00:00",
+      "beginning": "2026_10_16 10:00:00",
+      "ending": "2026_10_30 10:00:00",
       "labelName": "备战新赛季",
       "name": "NewSeasonCompletePanel",
       "channel": 0,
@@ -626,7 +626,7 @@
       "isShow": 1,
       "redbadge": 19,
       "signType": 1,
-      "sorting": 9,
+      "sorting": 8,
       "type": 1
     },
     {
@@ -1022,8 +1022,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_09_18 10:00:00",
-      "ending": "2026_10_09 10:00:00",
+      "beginning": "2026_10_16 10:00:00",
+      "ending": "2026_11_06 10:00:00",
       "labelName": "叠加域激励",
       "name": "limitedAdastraActivity",
       "channel": 0,
@@ -2615,7 +2615,7 @@
       "isShow": 1,
       "redbadge": 419,
       "signType": 1,
-      "sorting": 6,
+      "sorting": 10,
       "type": 1
     },
     {
@@ -3198,9 +3198,9 @@
     },
     {
       "args": "",
-      "beginning": "2025_10_17 10:00:00",
-      "ending": "2025_10_31 10:00:00",
-      "labelName": "2026年度礼盒",
+      "beginning": "2026_10_16 10:00:00",
+      "ending": "2026_10_30 10:00:00",
+      "labelName": "2027年度礼盒",
       "name": "vipGiftBoxPanel",
       "channel": 0,
       "Go": 622,
@@ -3208,10 +3208,10 @@
       "id": 203,
       "iOSreviewshow": 1,
       "isShow": 1,
-      "redbadge": 132,
+      "redbadge": 429,
       "signType": 0,
-      "sorting": 3,
-      "type": 1
+      "sorting": 1,
+      "type": 5
     },
     {
       "args": "Assets/Game/UI/taptapsign1017/taptapsign1017.prefab",
@@ -4745,8 +4745,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_07_17 10:00:00",
-      "ending": "2026_10_16 00:00:00",
+      "beginning": "2026_10_16 10:00:00",
+      "ending": "2027_01_08 00:00:00",
       "labelName": "刻印进阶激励",
       "name": "mintmarkElevareReward",
       "channel": 0,
@@ -7358,7 +7358,7 @@
       "isShow": 1,
       "redbadge": 309,
       "signType": 1,
-      "sorting": 7,
+      "sorting": 9,
       "type": 1
     },
     {
@@ -7721,7 +7721,7 @@
     {
       "args": "",
       "beginning": "2026_09_04 10:00:00",
-      "ending": "2026_10_16 10:00:00",
+      "ending": "2026_10_09 10:00:00",
       "labelName": "赛季冲段",
       "name": "autocardRank",
       "channel": 0,
@@ -8290,10 +8290,10 @@
       "helptips": 0,
       "id": 508,
       "iOSreviewshow": 1,
-      "isShow": 0,
+      "isShow": 1,
       "redbadge": 356,
       "signType": 0,
-      "sorting": 6,
+      "sorting": 7,
       "type": 1
     },
     {
@@ -9500,7 +9500,7 @@
       "isShow": 1,
       "redbadge": 412,
       "signType": 1,
-      "sorting": 7,
+      "sorting": 8,
       "type": 1
     },
     {
@@ -9568,7 +9568,7 @@
       "isShow": 1,
       "redbadge": 421,
       "signType": 0,
-      "sorting": 6,
+      "sorting": 8,
       "type": 1
     },
     {
@@ -9585,7 +9585,7 @@
       "isShow": 1,
       "redbadge": 420,
       "signType": 0,
-      "sorting": 5,
+      "sorting": 95,
       "type": 1
     },
     {
@@ -9599,7 +9599,7 @@
       "helptips": 0,
       "id": 586,
       "iOSreviewshow": 1,
-      "isShow": 1,
+      "isShow": 0,
       "redbadge": 0,
       "signType": 0,
       "sorting": 50,
@@ -9621,6 +9621,108 @@
       "signType": 0,
       "sorting": 6,
       "type": 9
+    },
+    {
+      "args": "Assets/Game/UI/HunditianxundaoMainPanel/HunditianxundaoActivityPanel.prefab",
+      "beginning": "",
+      "ending": "",
+      "labelName": "魂帝·天循道",
+      "name": "hundixuntiandao",
+      "channel": 0,
+      "Go": 445,
+      "helptips": 0,
+      "id": 588,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 0,
+      "signType": 0,
+      "sorting": 50,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2026_10_16 10:00:00",
+      "ending": "2026_10_23 10:00:00",
+      "labelName": "水上列车大冲锋",
+      "name": "trainGame",
+      "channel": 0,
+      "Go": 1240,
+      "helptips": 0,
+      "id": 589,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 425,
+      "signType": 0,
+      "sorting": 5,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2026_10_16 10:00:00",
+      "ending": "2026_10_23 10:00:00",
+      "labelName": "长空坠入",
+      "name": "farSkyFalling",
+      "channel": 0,
+      "Go": 1238,
+      "helptips": 0,
+      "id": 590,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 426,
+      "signType": 0,
+      "sorting": 4,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2026_10_16 10:00:00",
+      "ending": "2026_10_23 10:00:00",
+      "labelName": "恶戏前奏",
+      "name": "getHySkin",
+      "channel": 0,
+      "Go": 917,
+      "helptips": 0,
+      "id": 591,
+      "iOSreviewshow": 0,
+      "isShow": 1,
+      "redbadge": 427,
+      "signType": 0,
+      "sorting": 6,
+      "type": 1
+    },
+    {
+      "args": "Assets/Game/UI/ugcbanner1016/ugcbanner1016.prefab",
+      "beginning": "2026_10_16 10:00:00",
+      "ending": "2026_11_05 24:00:00",
+      "labelName": "10万现金激励",
+      "name": "ugcbanner1016",
+      "channel": 0,
+      "Go": 445,
+      "helptips": 0,
+      "id": 592,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 428,
+      "signType": 0,
+      "sorting": 5,
+      "type": 9
+    },
+    {
+      "args": "Assets/Game/UI/vipbanner1016/vipbanner1016.prefab",
+      "beginning": "2026_10_16 10:00:00",
+      "ending": "2026_11_06 10:00:00",
+      "labelName": "VIP周年庆",
+      "name": "vipbanner1016",
+      "channel": 0,
+      "Go": 445,
+      "helptips": 0,
+      "id": 593,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 0,
+      "signType": 0,
+      "sorting": 5,
+      "type": 5
     }
   ]
 }

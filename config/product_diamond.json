@@ -217965,6 +217965,105 @@
         "price": 10,
         "productID": 262795,
         "vip": 1
+      },
+      {
+        "name": "购买游戏次数",
+        "itemID": [
+          1728525
+        ],
+        "price": 10,
+        "productID": 262796,
+        "vip": 1
+      },
+      {
+        "name": "一键获得恶戏前奏·花寅",
+        "itemID": [
+          1728526
+        ],
+        "price": 398,
+        "productID": 262797,
+        "vip": 1
+      },
+      {
+        "name": "VIP限时返场颜洛夕",
+        "itemID": [
+          1728527
+        ],
+        "price": 198,
+        "productID": 262798,
+        "vip": 1
+      },
+      {
+        "name": "VIP限时返场瓦迪娅",
+        "itemID": [
+          1728528
+        ],
+        "price": 98,
+        "productID": 262799,
+        "vip": 1
+      },
+      {
+        "name": "VIP限时返场塔瑟玛",
+        "itemID": [
+          1728529
+        ],
+        "price": 198,
+        "productID": 262800,
+        "vip": 1
+      },
+      {
+        "name": "至尊获得精灵【霍努努】",
+        "itemID": [
+          1728530
+        ],
+        "price": 598,
+        "productID": 262801,
+        "vip": 1
+      },
+      {
+        "name": "购买每日挑战次数（霍努努）",
+        "itemID": [
+          1728531
+        ],
+        "price": 30,
+        "productID": 262802,
+        "vip": 1
+      },
+      {
+        "name": "付费扫荡简单关卡（霍努努）",
+        "itemID": [
+          1728532
+        ],
+        "price": 20,
+        "productID": 262803,
+        "vip": 1
+      },
+      {
+        "name": "付费扫荡困难关卡（霍努努）",
+        "itemID": [
+          1728533
+        ],
+        "price": 30,
+        "productID": 262804,
+        "vip": 1
+      },
+      {
+        "name": "付费扫荡地狱关卡（霍努努）",
+        "itemID": [
+          1728534
+        ],
+        "price": 40,
+        "productID": 262805,
+        "vip": 1
+      },
+      {
+        "name": "购买获得霍努努因子",
+        "itemID": [
+          1728535
+        ],
+        "price": 2,
+        "productID": 262806,
+        "vip": 1
       }
     ]
   }

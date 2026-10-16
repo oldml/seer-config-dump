@@ -5567,6 +5567,27 @@
       "isFullScreen": 1
     },
     {
+      "moduleName": "aolan",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 916,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getHySkin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 917,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "aosilan",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 918,
+      "isFullScreen": 1
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -6635,6 +6656,76 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1238,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "SignInRewardStarBeanPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1239,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "trainGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1240,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "bargainKingMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1241,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "treasureOfKukuSharkPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1242,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "henanTravelSubsidy",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1243,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "xfhty",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1244,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "lingyaoqianyouSkinSell1st",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1245,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "jiaguwenGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1246,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "centralPlains",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1247,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "csdwmainpanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1248,
       "isFullScreen": 1
     }
   ]

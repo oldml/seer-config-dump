@@ -15356,8 +15356,8 @@
         "Type": 18
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "四合囚都·莫缇",
         "SkinKind": [
           {
@@ -15369,13 +15369,13 @@
           }
         ],
         "ID": 855,
-        "Jumptarget": 202000,
+        "Jumptarget": 0,
         "MonID": 4923,
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "双仪极刃·卓尔布",
         "SkinKind": [
           {
@@ -15387,7 +15387,7 @@
           }
         ],
         "ID": 856,
-        "Jumptarget": 204000,
+        "Jumptarget": 0,
         "MonID": 4657,
         "Type": 15
       },
@@ -15785,6 +15785,78 @@
         "ID": 878,
         "Jumptarget": 2,
         "MonID": 4658,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "四幕连环·珀萝",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 879,
+        "Jumptarget": 202000,
+        "MonID": 4956,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "苍蓝幻想·伊芙",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 15,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 880,
+        "Jumptarget": 204000,
+        "MonID": 4816,
+        "Type": 15
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "戾虐鏖杀·特罗斯",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 881,
+        "Jumptarget": 410000,
+        "MonID": 4401,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "恶戏前奏·花寅",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 882,
+        "Jumptarget": 114150,
+        "MonID": 4353,
         "Type": 3
       }
     ]
