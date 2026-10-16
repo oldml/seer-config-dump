@@ -531829,7 +531829,13 @@
           "SideEffect": [
             1866
           ],
-          "SideEffectArg": null,
+          "SideEffectArg": [
+            16,
+            36,
+            31,
+            14,
+            2
+          ],
           "Accuracy": 95,
           "AtkNum": 0,
           "AtkType": 3,
@@ -770640,7 +770646,10 @@
           "SideEffect": [
             495
           ],
-          "SideEffectArg": null,
+          "SideEffectArg": [
+            37,
+            30
+          ],
           "Accuracy": 95,
           "AtkNum": 0,
           "AtkType": 0,
