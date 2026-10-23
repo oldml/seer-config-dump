@@ -660,6 +660,46 @@
         "price": 30,
         "productID": 200088,
         "vip": 1
+      },
+      {
+        "name": "小型金瓜子礼包",
+        "itemID": [
+          1728558
+        ],
+        "gold": 1,
+        "price": 6,
+        "productID": 200089,
+        "vip": 1
+      },
+      {
+        "name": "中型金瓜子礼包",
+        "itemID": [
+          1728559
+        ],
+        "gold": 1,
+        "price": 20,
+        "productID": 200090,
+        "vip": 1
+      },
+      {
+        "name": "大型金瓜子礼包",
+        "itemID": [
+          1728560
+        ],
+        "gold": 1,
+        "price": 50,
+        "productID": 200091,
+        "vip": 1
+      },
+      {
+        "name": "至尊金瓜子礼包",
+        "itemID": [
+          1728561
+        ],
+        "gold": 1,
+        "price": 80,
+        "productID": 200092,
+        "vip": 1
       }
     ]
   }

@@ -5588,6 +5588,13 @@
       "isFullScreen": 1
     },
     {
+      "moduleName": "xuanminghunzhe",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 919,
+      "isFullScreen": 1
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -6722,10 +6729,87 @@
       "isFullScreen": 1
     },
     {
-      "moduleName": "csdwmainpanel",
+      "moduleName": "hnldjumppanel",
       "resConfig": null,
       "currAppDo": 1,
       "id": 1248,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "starBeanShopEnterPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1249,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "csdwmainpanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1250,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "hnldmainpanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1251,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "starbeanPraemium",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1252,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "SpaceShipPilotLicense",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1253,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "exploreZhongyuanCursus",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1254,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ShengguanglinghuangFreeGift",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1255,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardfun",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1256,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "xiaochuGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1257,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "lubbockActivityMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1258,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "lingyaoqianyouSkinSell2nd",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1259,
       "isFullScreen": 1
     }
   ]

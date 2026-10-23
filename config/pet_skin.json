@@ -12993,7 +12993,7 @@
           }
         ],
         "ID": 723,
-        "Jumptarget": 114145,
+        "Jumptarget": 0,
         "MonID": 4762,
         "Type": 18
       },
@@ -13011,7 +13011,7 @@
           }
         ],
         "ID": 724,
-        "Jumptarget": 114146,
+        "Jumptarget": 0,
         "MonID": 4761,
         "Type": 3
       },
@@ -13047,7 +13047,7 @@
           }
         ],
         "ID": 726,
-        "Jumptarget": 114101,
+        "Jumptarget": 0,
         "MonID": 4765,
         "Type": 4
       },
@@ -13065,7 +13065,7 @@
           }
         ],
         "ID": 727,
-        "Jumptarget": 114102,
+        "Jumptarget": 0,
         "MonID": 4766,
         "Type": 4
       },
@@ -13173,7 +13173,7 @@
           }
         ],
         "ID": 733,
-        "Jumptarget": 114139,
+        "Jumptarget": 0,
         "MonID": 4761,
         "Type": 3
       },
@@ -15644,8 +15644,8 @@
         "Type": 0
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "直至烈阳升起·帝皇之戎",
         "SkinKind": [
           {
@@ -15657,13 +15657,13 @@
           }
         ],
         "ID": 871,
-        "Jumptarget": 114141,
+        "Jumptarget": 0,
         "MonID": 4950,
         "Type": 20
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "默颂传说·洛克珊娜",
         "SkinKind": [
           {
@@ -15675,13 +15675,13 @@
           }
         ],
         "ID": 872,
-        "Jumptarget": 114135,
+        "Jumptarget": 0,
         "MonID": 3430,
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "生骸圣像·咤克斯",
         "SkinKind": [
           {
@@ -15693,13 +15693,13 @@
           }
         ],
         "ID": 873,
-        "Jumptarget": 114143,
+        "Jumptarget": 0,
         "MonID": 4762,
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "瑶光桂影·琉梦",
         "SkinKind": [
           {
@@ -15711,13 +15711,13 @@
           }
         ],
         "ID": 874,
-        "Jumptarget": 114144,
+        "Jumptarget": 0,
         "MonID": 4761,
         "Type": 6
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "宿命的对决·雷伊",
         "SkinKind": [
           {
@@ -15729,13 +15729,13 @@
           }
         ],
         "ID": 875,
-        "Jumptarget": 114137,
+        "Jumptarget": 0,
         "MonID": 4946,
         "Type": 4
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "宿命的对决·盖亚",
         "SkinKind": [
           {
@@ -15747,13 +15747,13 @@
           }
         ],
         "ID": 876,
-        "Jumptarget": 114137,
+        "Jumptarget": 0,
         "MonID": 4947,
         "Type": 4
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "万契之囹·龙焉",
         "SkinKind": [
           {
@@ -15765,13 +15765,13 @@
           }
         ],
         "ID": 877,
-        "Jumptarget": 114149,
+        "Jumptarget": 0,
         "MonID": 4373,
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "百相傩戏·库比",
         "SkinKind": [
           {
@@ -15783,7 +15783,7 @@
           }
         ],
         "ID": 878,
-        "Jumptarget": 2,
+        "Jumptarget": 0,
         "MonID": 4658,
         "Type": 3
       },
@@ -15842,8 +15842,8 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "恶戏前奏·花寅",
         "SkinKind": [
           {
@@ -15855,9 +15855,63 @@
           }
         ],
         "ID": 882,
-        "Jumptarget": 114150,
+        "Jumptarget": 0,
         "MonID": 4353,
         "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "甘落清心·欧根尼克",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 883,
+        "Jumptarget": 114153,
+        "MonID": 4605,
+        "Type": 18
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "鼎镇绛河·嬴政",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 884,
+        "Jumptarget": 114153,
+        "MonID": 4468,
+        "Type": 18
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "坎贝尔",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 885,
+        "Jumptarget": 2,
+        "MonID": 4215,
+        "Type": 0
       }
     ]
   }

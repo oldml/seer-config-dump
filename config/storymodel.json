@@ -4746,7 +4746,7 @@
       "emoji": "",
       "emojixy": "",
       "head": "",
-      "initialposition": "",
+      "initialposition": "0,30",
       "name": "祭司",
       "portrait": "lkynpcjsm_fg",
       "id": 432,
@@ -4779,7 +4779,7 @@
       "emoji": "",
       "emojixy": "",
       "head": "",
-      "initialposition": "",
+      "initialposition": "0,-15",
       "name": "村民",
       "portrait": "lkynpcptf_fg",
       "id": 435,
@@ -4838,6 +4838,28 @@
       "name": "神流",
       "portrait": "shenliu_fg",
       "id": 440,
+      "scale": 1.05
+    },
+    {
+      "CharacterID": "aheng",
+      "emoji": "aheng_01,aheng_02,aheng_03",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "阿衡",
+      "portrait": "aheng_fg",
+      "id": 441,
+      "scale": 1
+    },
+    {
+      "CharacterID": "shenliu2",
+      "emoji": "shenliu_01,shenliu_02,shenliu_03,shenliu_04,shenliu_05,shenliu_06",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "55,0",
+      "name": "神流",
+      "portrait": "shenliu2_fg",
+      "id": 442,
       "scale": 1.05
     }
   ]

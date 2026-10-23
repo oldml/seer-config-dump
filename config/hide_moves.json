@@ -13484,6 +13484,24 @@
         "petId": 4956
       },
       {
+        "moveName1": "拉卡伊",
+        "moveName2": "呼唤",
+        "moveId": 38602,
+        "petId": 4957
+      },
+      {
+        "moveName1": "瓶中海",
+        "moveName2": "",
+        "moveId": 38605,
+        "petId": 4958
+      },
+      {
+        "moveName1": "铭千古",
+        "moveName2": "",
+        "moveId": 38608,
+        "petId": 4959
+      },
+      {
         "moveName1": "神灵",
         "moveName2": "救世光",
         "moveId": 31143,

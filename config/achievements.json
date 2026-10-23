@@ -19011,6 +19011,34 @@
                     "ID": 15,
                     "proicon": 1523,
                     "SpeNameBonus": 607
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "中州大侠",
+                    "Desc": "参与天地中原系列活动获取",
+                    "Threshold": "16",
+                    "title": "中州大侠",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 16,
+                    "proicon": 1530,
+                    "SpeNameBonus": 610
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "圣光先驱者",
+                    "Desc": "通过圣光灵皇全民放送活动获得",
+                    "Threshold": "17",
+                    "title": "圣光先驱者",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 17,
+                    "proicon": 1531,
+                    "SpeNameBonus": 611
                   }
                 ],
                 "ID": 176,
