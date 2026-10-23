@@ -1,11 +1,11 @@
-![ConfigPackage](https://img.shields.io/badge/ConfigPackage-20261023135840-blue?style=flat-square&logo=unity&logoColor=white)
+![ConfigPackage](https://img.shields.io/badge/ConfigPackage-20261023142631-blue?style=flat-square&logo=unity&logoColor=white)
 ![DefaultPackage](https://img.shields.io/badge/DefaultPackage-20261023133119-brightgreen?style=flat-square&logo=unity&logoColor=white)
-![Updated](https://img.shields.io/badge/-2026--10--23%2014%3A31%3A37%20UTC%2B8-lightgrey?style=flat-square&logo=uptimekuma&logoColor=white)
+![Updated](https://img.shields.io/badge/-2026--10--23%2017%3A21%3A07%20UTC%2B8-lightgrey?style=flat-square&logo=uptimekuma&logoColor=white)
 
 ```diff
-! 3 files changed
-+ 19 insertions(+)
-- 6 deletions(-)
+! 1 files changed
++ 0 insertions(+)
+- 1 deletions(-)
 ```
 
 ### 新增
@@ -16,9 +16,7 @@
 ### 更新
 | Path | Diff (+/-) |
 | :--- | :--- |
-|  [pvp_expert_seasonrank.json](https://github.com/oldml/seer-config-dump/blob/main/config/pvp_expert_seasonrank.json) | `17+ 4-` |
-|  [pvp_ban_expert.json](https://github.com/oldml/seer-config-dump/blob/main/config/pvp_ban_expert.json) | `1+ 1-` |
-|  [autocardChip.json](https://github.com/oldml/seer-config-dump/blob/main/config/autocardChip.json) | `1+ 1-` |
+|  [redbadge.json](https://github.com/oldml/seer-config-dump/blob/main/config/redbadge.json) | `0+ 1-` |
 
 ### 删除
 | Path | Diff (+/-) |
