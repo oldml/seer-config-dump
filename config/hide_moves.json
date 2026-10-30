@@ -13502,6 +13502,36 @@
         "petId": 4959
       },
       {
+        "moveName1": "战翼",
+        "moveName2": "天鳞裂",
+        "moveId": 38611,
+        "petId": 4960
+      },
+      {
+        "moveName1": "踏焰来",
+        "moveName2": "",
+        "moveId": 38614,
+        "petId": 4961
+      },
+      {
+        "moveName1": "中原",
+        "moveName2": "斩魔剑",
+        "moveId": 38617,
+        "petId": 4962
+      },
+      {
+        "moveName1": "天门跃",
+        "moveName2": "",
+        "moveId": 38620,
+        "petId": 4963
+      },
+      {
+        "moveName1": "触手",
+        "moveName2": "可及",
+        "moveId": 38623,
+        "petId": 4924
+      },
+      {
         "moveName1": "神灵",
         "moveName2": "救世光",
         "moveId": 31143,

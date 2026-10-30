@@ -4861,6 +4861,138 @@
       "portrait": "shenliu2_fg",
       "id": 442,
       "scale": 1.05
+    },
+    {
+      "CharacterID": "xymy",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "邪影梦魇",
+      "portrait": "xymy_fg",
+      "id": 443,
+      "scale": 1
+    },
+    {
+      "CharacterID": "xyzz",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "邪影之尊",
+      "portrait": "xyzz_fg",
+      "id": 444,
+      "scale": 1
+    },
+    {
+      "CharacterID": "syxy",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,700",
+      "name": "圣谕邪魇",
+      "portrait": "syxy_fg",
+      "id": 445,
+      "scale": 0.7
+    },
+    {
+      "CharacterID": "cszy",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,560",
+      "name": "重生之翼",
+      "portrait": "cszy_fg",
+      "id": 446,
+      "scale": 0.7
+    },
+    {
+      "CharacterID": "sgls_01",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "50,620",
+      "name": "圣光灵神",
+      "portrait": "sgls_01_fg",
+      "id": 447,
+      "scale": 0.7
+    },
+    {
+      "CharacterID": "sgls_02",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "50,100",
+      "name": "圣光灵神",
+      "portrait": "sgls_02_fg",
+      "id": 448,
+      "scale": 0.7
+    },
+    {
+      "CharacterID": "khxt",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,30",
+      "name": "空洄星徒",
+      "portrait": "khxt_fg",
+      "id": 449,
+      "scale": 0.7
+    },
+    {
+      "CharacterID": "xbln",
+      "emoji": "xbln_01,xbln_02,xbln_03",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,80",
+      "name": "希波莉娜",
+      "portrait": "xbln_fg",
+      "id": 450,
+      "scale": 0.8
+    },
+    {
+      "CharacterID": "tqxh",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,80",
+      "name": "天启星魂",
+      "portrait": "tqxh_fg",
+      "id": 451,
+      "scale": 0.8
+    },
+    {
+      "CharacterID": "syxy_sp",
+      "emoji": "syxy_sp_01,syxy_sp_02,syxy_sp_03,",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "80,280",
+      "name": "圣谕邪魇",
+      "portrait": "syxy_sp_fg",
+      "id": 452,
+      "scale": 1
+    },
+    {
+      "CharacterID": "yina",
+      "emoji": "yina_01,yina_02,yina_03,yina_04,yina_05",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-70,30",
+      "name": "伊娜",
+      "portrait": "yina_fg",
+      "id": 453,
+      "scale": 1
+    },
+    {
+      "CharacterID": "tnw",
+      "emoji": "yina_01,yina_02,yina_03,yina_04,yina_05",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-95,560",
+      "name": "塔尼瓦",
+      "portrait": "tnw_fg",
+      "id": 454,
+      "scale": 1
     }
   ]
 }

@@ -5595,6 +5595,20 @@
       "isFullScreen": 1
     },
     {
+      "moduleName": "findDifferentGameEntry",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 920,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "findDifferentGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 921,
+      "isFullScreen": 1
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -6810,6 +6824,13 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1259,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "fourSpiritsActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1260,
       "isFullScreen": 1
     }
   ]

@@ -56613,6 +56613,134 @@
         "target": 0,
         "to": 0,
         "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身使用攻击技能后，本场战斗自身附加的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]提升30%，最高120%|[sprite name=dot4]自身[color=#57c975]被击败[/color]时，将对手变为龙系",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身使用攻击技能后，本场战斗自身附加的固定伤害、百分比伤害提升30%，最高120%|自身被击败时，将对手变为龙系（boss无效）",
+        "kind": [
+          14,
+          18
+        ],
+        "petId": [
+          4960
+        ],
+        "specificId": null,
+        "effectId": 2564,
+        "iconId": 2157,
+        "Id": 2157,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身受到技能伤害后令对手[color=#57c975]烧伤[/color]，当次伤害每有100点，额外20%令对手[color=#57c975]焚烬[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身受到技能伤害后令对手烧伤，当次伤害每有100点，额外20%令对手焚烬（boss无效）",
+        "kind": [
+          10
+        ],
+        "petId": [
+          4961
+        ],
+        "specificId": null,
+        "effectId": 2562,
+        "iconId": 2158,
+        "Id": 2158,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot1]自身[color=#57c975]登场时[/color]，使自身下1次受到的攻击伤害减少41%，对手每有4100点体力，次数+1|[sprite name=dot1][color=#57c975]战斗阶段结束时[/color]，若上述伤害减少效果存在，则自身恢复410点体力",
+        "args": "0 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身登场时，使自身下1次受到的攻击伤害减少41%，对手每有4100点体力，次数+1|战斗阶段结束时，若上述伤害减少效果存在，则自身恢复410点体力|（boss有效）",
+        "kind": [
+          3,
+          5
+        ],
+        "petId": [
+          4962
+        ],
+        "specificId": null,
+        "effectId": 2566,
+        "iconId": 2159,
+        "Id": 2159,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身处于异常状态，则免疫受到的攻击伤害，免疫成功则获得等量的[color=#57c975]护盾[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，恢复[color=#52a5f2]己方[/color]所有精灵41点体力",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合开始时，若自身处于异常状态，则免疫受到的攻击伤害，免疫成功则获得等量的护盾|战斗阶段结束时，恢复己方所有精灵41点体力|（boss无效）",
+        "kind": [
+          6,
+          5
+        ],
+        "petId": [
+          4963
+        ],
+        "specificId": null,
+        "effectId": 2565,
+        "iconId": 2160,
+        "Id": 2160,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身[color=#57c975]登场时[/color]，若对手的最大体力值为[color=#52a5f2]对方[/color]最高，则自身所有能力值变为与此值相等",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身登场时，若对手的最大体力值为对方最高，则自身所有能力值变为与此值相等（boss无效）",
+        "kind": [
+          11
+        ],
+        "petId": [
+          4924
+        ],
+        "specificId": null,
+        "effectId": 2563,
+        "iconId": 2161,
+        "Id": 2161,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
       }
     ]
   }

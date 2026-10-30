@@ -18792,6 +18792,20 @@
                     "ID": 16,
                     "proicon": 1511,
                     "SpeNameBonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "achName": "器承千载",
+                    "Desc": "达成器承千载系列皮肤收集进度",
+                    "Threshold": "17",
+                    "title": "",
+                    "titleColor": "",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 17,
+                    "proicon": 1532,
+                    "SpeNameBonus": 0
                   }
                 ],
                 "ID": 171,

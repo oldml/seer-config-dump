@@ -5491,7 +5491,7 @@
         ],
         "NumDes": "剩余回合",
         "showmonster": [
-          "0_4995_0_1"
+          "1_4995_0_1"
         ],
         "spDes": null,
         "spicon": null,
@@ -5511,7 +5511,7 @@
         ],
         "NumDes": "",
         "showmonster": [
-          "0_4995_0_1"
+          "1_4995_0_1"
         ],
         "spDes": null,
         "spicon": null,
@@ -5567,6 +5567,7 @@
         "dec": "气吞山河",
         "Des": "每有1层，自身受到的攻击伤害减少20%、造成的攻击伤害提升20%；每回合最多获得1层，最高5层，达到5层时本场战斗自身拥有八方真武帝；下场保留",
         "frame": [
+          "0_0",
           "1_1",
           "2_2",
           "3_3",
@@ -5601,38 +5602,6 @@
         "isShowNum": 1,
         "showtime": 0,
         "sort": 4
-      },
-      {
-        "className": "*",
-        "dec": "副位·帝皇之御",
-        "Des": "帝皇之戎每造成300点伤害，回合结束时令对手进入1种非限制类的控制类异常状态",
-        "frame": null,
-        "NumDes": "剩余体力",
-        "showmonster": null,
-        "spDes": null,
-        "spicon": null,
-        "sptips": null,
-        "tips": "副位·帝皇之御",
-        "id": 220,
-        "isShowNum": 1,
-        "showtime": 0,
-        "sort": 1
-      },
-      {
-        "className": "*",
-        "dec": "副位·帝皇之钺",
-        "Des": "帝皇之戎登场时，解除双方所处的异常状态、2回合内免疫受到的异常状态且所有技能先制+2",
-        "frame": null,
-        "NumDes": "剩余体力",
-        "showmonster": null,
-        "spDes": null,
-        "spicon": null,
-        "sptips": null,
-        "tips": "副位·帝皇之钺",
-        "id": 221,
-        "isShowNum": 1,
-        "showtime": 0,
-        "sort": 1
       },
       {
         "className": "*",
@@ -5730,6 +5699,22 @@
         "isShowNum": 1,
         "showtime": 0,
         "sort": 4
+      },
+      {
+        "className": "*",
+        "dec": "神魂之器",
+        "Des": "",
+        "frame": null,
+        "NumDes": "",
+        "showmonster": null,
+        "spDes": null,
+        "spicon": null,
+        "sptips": null,
+        "tips": "神魂之器",
+        "id": 226,
+        "isShowNum": 1,
+        "showtime": 0,
+        "sort": 1
       },
       {
         "className": "SignBuffView_1000",

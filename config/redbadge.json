@@ -3890,7 +3890,7 @@
     {
       "channel": "",
       "subset": null,
-      "endtime": 1793325600,
+      "endtime": 1786068000,
       "id": 356,
       "isshow": 1,
       "starttime": 0,
@@ -4260,7 +4260,7 @@
       "subset": [
         150543
       ],
-      "endtime": 1789696800,
+      "endtime": 1793930400,
       "id": 388,
       "isshow": 1,
       "starttime": 0,
@@ -4621,7 +4621,7 @@
         150588,
         150589
       ],
-      "endtime": 0,
+      "endtime": 1792116000,
       "id": 420,
       "isshow": 1,
       "starttime": 0,
@@ -4834,10 +4834,72 @@
         156,
         433,
         434,
-        436
+        436,
+        442
       ],
       "endtime": 1795140000,
       "id": 441,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "channel": "",
+      "subset": [
+        150614,
+        150615
+      ],
+      "endtime": 1795140000,
+      "id": 442,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "channel": "",
+      "subset": [
+        150616,
+        150617
+      ],
+      "endtime": 1795140000,
+      "id": 443,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 1795140000,
+      "id": 444,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": [
+        150619,
+        150620
+      ],
+      "endtime": 1795140000,
+      "id": 445,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "channel": "",
+      "subset": [
+        150621
+      ],
+      "endtime": 1795140000,
+      "id": 446,
       "isshow": 1,
       "starttime": 0,
       "subtype": 0,
@@ -5623,10 +5685,10 @@
         404,
         150566,
         418,
-        419,
         420,
         421,
         427,
+        430,
         438,
         439,
         431
@@ -5810,7 +5872,10 @@
         433,
         156,
         430,
-        435
+        435,
+        443,
+        442,
+        446
       ],
       "endtime": 0,
       "id": 116600,
@@ -7416,7 +7481,8 @@
         131216,
         131218,
         131220,
-        131222
+        131222,
+        131224
       ],
       "endtime": 0,
       "id": 131150,
@@ -8234,6 +8300,28 @@
       "subset": null,
       "endtime": 0,
       "id": 131223,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 1,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": [
+        131225
+      ],
+      "endtime": 0,
+      "id": 131224,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 0,
+      "id": 131225,
       "isshow": 1,
       "starttime": 0,
       "subtype": 1,
@@ -12177,7 +12265,7 @@
     {
       "channel": "",
       "subset": null,
-      "endtime": 1789696800,
+      "endtime": 1793930400,
       "id": 150543,
       "isshow": 1,
       "starttime": 0,
@@ -12905,6 +12993,86 @@
       "starttime": 0,
       "subtype": 0,
       "type": 2
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 1795140000,
+      "id": 150614,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 4,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 1795140000,
+      "id": 150615,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 1,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 1795140000,
+      "id": 150616,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 1,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 1795140000,
+      "id": 150617,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 4,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 1795140000,
+      "id": 150618,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 1,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 1795140000,
+      "id": 150619,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 1795140000,
+      "id": 150620,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "subset": null,
+      "endtime": 1795140000,
+      "id": 150621,
+      "isshow": 1,
+      "starttime": 0,
+      "subtype": 4,
+      "type": 1
     },
     {
       "channel": "",

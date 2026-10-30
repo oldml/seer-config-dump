@@ -215,6 +215,14 @@
       "sort": 26,
       "subtype": 0,
       "type": 27
+    },
+    {
+      "name": "器承千载",
+      "subtypename": "",
+      "id": 28,
+      "sort": 27,
+      "subtype": 0,
+      "type": 28
     }
   ]
 }

@@ -3925,7 +3925,7 @@
       "IsPlaceEffect": 0
     },
     {
-      "buffDes": "己方a系精灵的战斗开始时触发的效果额外触发b次",
+      "buffDes": "废弃",
       "buffobject": "卡牌",
       "buffparam": "a_b",
       "effectIcon": "",
@@ -3954,6 +3954,18 @@
       "buffparam": "a_b",
       "effectIcon": "1",
       "id": 10336,
+      "IsBfBattleEffect": 0,
+      "IsColdWaveEffect": 0,
+      "IsDeathEffect": 0,
+      "IsGrowthEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "buffDes": "方无法攻击的a系精灵受到攻击时，使己方所有b系精灵获得+c/+d",
+      "buffobject": "卡牌",
+      "buffparam": "a_b_c_d",
+      "effectIcon": "1",
+      "id": 10337,
       "IsBfBattleEffect": 0,
       "IsColdWaveEffect": 0,
       "IsDeathEffect": 0,

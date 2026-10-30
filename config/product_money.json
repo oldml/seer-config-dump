@@ -700,6 +700,16 @@
         "price": 80,
         "productID": 200092,
         "vip": 1
+      },
+      {
+        "name": "11月风尚月历",
+        "itemID": [
+          1728586
+        ],
+        "gold": 1,
+        "price": 30,
+        "productID": 200093,
+        "vip": 1
       }
     ]
   }
