@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "gene": "可爱",
+      "skinbaby": "",
+      "skinteen": "",
+      "foodid": 1727526,
+      "id": 1,
+      "rarity": 3,
+      "shopID": 1,
+      "sort": 8
+    },
+    {
+      "gene": "正义",
+      "skinbaby": "",
+      "skinteen": "",
+      "foodid": 1727527,
+      "id": 2,
+      "rarity": 3,
+      "shopID": 2,
+      "sort": 9
+    },
+    {
+      "gene": "邪恶",
+      "skinbaby": "",
+      "skinteen": "",
+      "foodid": 1727528,
+      "id": 3,
+      "rarity": 3,
+      "shopID": 3,
+      "sort": 10
+    },
+    {
+      "gene": "庆典",
+      "skinbaby": "",
+      "skinteen": "",
+      "foodid": 1727529,
+      "id": 4,
+      "rarity": 3,
+      "shopID": 4,
+      "sort": 11
+    },
+    {
+      "gene": "王者",
+      "skinbaby": "",
+      "skinteen": "",
+      "foodid": 1727530,
+      "id": 5,
+      "rarity": 3,
+      "shopID": 5,
+      "sort": 12
+    },
+    {
+      "gene": "黑色",
+      "skinbaby": "baby_3",
+      "skinteen": "teen_3",
+      "foodid": 1727536,
+      "id": 6,
+      "rarity": 1,
+      "shopID": 6,
+      "sort": 1
+    },
+    {
+      "gene": "白色",
+      "skinbaby": "baby_2",
+      "skinteen": "teen_2",
+      "foodid": 1727537,
+      "id": 7,
+      "rarity": 1,
+      "shopID": 7,
+      "sort": 2
+    },
+    {
+      "gene": "蓝色",
+      "skinbaby": "baby_8",
+      "skinteen": "teen_8",
+      "foodid": 1727531,
+      "id": 8,
+      "rarity": 1,
+      "shopID": 8,
+      "sort": 3
+    },
+    {
+      "gene": "绿色",
+      "skinbaby": "baby_5",
+      "skinteen": "teen_5",
+      "foodid": 1727534,
+      "id": 9,
+      "rarity": 1,
+      "shopID": 9,
+      "sort": 4
+    },
+    {
+      "gene": "黄色",
+      "skinbaby": "baby_7",
+      "skinteen": "teen_7",
+      "foodid": 1727532,
+      "id": 10,
+      "rarity": 1,
+      "shopID": 10,
+      "sort": 5
+    },
+    {
+      "gene": "紫色",
+      "skinbaby": "baby_6",
+      "skinteen": "teen_6",
+      "foodid": 1727533,
+      "id": 11,
+      "rarity": 1,
+      "shopID": 11,
+      "sort": 6
+    },
+    {
+      "gene": "红色",
+      "skinbaby": "baby_4",
+      "skinteen": "teen_4",
+      "foodid": 1727535,
+      "id": 12,
+      "rarity": 1,
+      "shopID": 12,
+      "sort": 7
+    },
+    {
+      "gene": "宝宝",
+      "skinbaby": "baby_1",
+      "skinteen": "teen_1",
+      "foodid": 1728449,
+      "id": 13,
+      "rarity": 3,
+      "shopID": 13,
+      "sort": 13
+    },
+    {
+      "gene": "突变",
+      "skinbaby": "",
+      "skinteen": "",
+      "foodid": 0,
+      "id": 14,
+      "rarity": 0,
+      "shopID": 0,
+      "sort": 0
+    },
+    {
+      "gene": "原始",
+      "skinbaby": "",
+      "skinteen": "",
+      "foodid": 0,
+      "id": 15,
+      "rarity": 0,
+      "shopID": 0,
+      "sort": 0
+    }
+  ]
+}

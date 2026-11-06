@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "level": "1",
+      "minscore": "",
+      "name": "青铜I",
+      "icon": 1,
+      "id": 1,
+      "isFalling": 1,
+      "phase": 1
+    },
+    {
+      "level": "2",
+      "minscore": "60",
+      "name": "青铜II",
+      "icon": 2,
+      "id": 2,
+      "isFalling": 1,
+      "phase": 1
+    },
+    {
+      "level": "3",
+      "minscore": "130",
+      "name": "青铜III",
+      "icon": 3,
+      "id": 3,
+      "isFalling": 1,
+      "phase": 1
+    },
+    {
+      "level": "1",
+      "minscore": "200",
+      "name": "白银I",
+      "icon": 4,
+      "id": 4,
+      "isFalling": 1,
+      "phase": 2
+    },
+    {
+      "level": "2",
+      "minscore": "260",
+      "name": "白银II",
+      "icon": 5,
+      "id": 5,
+      "isFalling": 1,
+      "phase": 2
+    },
+    {
+      "level": "3",
+      "minscore": "330",
+      "name": "白银III",
+      "icon": 6,
+      "id": 6,
+      "isFalling": 1,
+      "phase": 2
+    },
+    {
+      "level": "1",
+      "minscore": "400",
+      "name": "黄金I",
+      "icon": 7,
+      "id": 7,
+      "isFalling": 1,
+      "phase": 3
+    },
+    {
+      "level": "2",
+      "minscore": "460",
+      "name": "黄金II",
+      "icon": 8,
+      "id": 8,
+      "isFalling": 1,
+      "phase": 3
+    },
+    {
+      "level": "3",
+      "minscore": "530",
+      "name": "黄金III",
+      "icon": 9,
+      "id": 9,
+      "isFalling": 1,
+      "phase": 3
+    },
+    {
+      "level": "1",
+      "minscore": "600",
+      "name": "铂金I",
+      "icon": 10,
+      "id": 10,
+      "isFalling": 1,
+      "phase": 4
+    },
+    {
+      "level": "2",
+      "minscore": "660",
+      "name": "铂金II",
+      "icon": 11,
+      "id": 11,
+      "isFalling": 1,
+      "phase": 4
+    },
+    {
+      "level": "3",
+      "minscore": "730",
+      "name": "铂金III",
+      "icon": 12,
+      "id": 12,
+      "isFalling": 1,
+      "phase": 4
+    },
+    {
+      "level": "1",
+      "minscore": "800",
+      "name": "钻石I",
+      "icon": 13,
+      "id": 13,
+      "isFalling": 1,
+      "phase": 5
+    },
+    {
+      "level": "2",
+      "minscore": "860",
+      "name": "钻石II",
+      "icon": 14,
+      "id": 14,
+      "isFalling": 1,
+      "phase": 5
+    },
+    {
+      "level": "3",
+      "minscore": "930",
+      "name": "钻石III",
+      "icon": 15,
+      "id": 15,
+      "isFalling": 1,
+      "phase": 5
+    },
+    {
+      "level": "",
+      "minscore": "1000",
+      "name": "苏摩大师",
+      "icon": 16,
+      "id": 16,
+      "isFalling": 0,
+      "phase": 6
+    }
+  ]
+}

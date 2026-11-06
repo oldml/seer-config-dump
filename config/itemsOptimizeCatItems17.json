@@ -486,7 +486,7 @@
     {
       "ExchangeOutCnt": "",
       "ExchangeOutId": "",
-      "Name": "货币",
+      "Name": "最棒的礼物！",
       "UseEnd": "",
       "Bean": 0,
       "catID": 17,
@@ -509,13 +509,13 @@
     {
       "ExchangeOutCnt": "",
       "ExchangeOutId": "",
-      "Name": "食物",
+      "Name": "宝宝奶昔",
       "UseEnd": "",
       "Bean": 0,
       "catID": 17,
       "ExchangeId": 0,
       "ExchangeType": 0,
-      "Hide": 0,
+      "Hide": 1,
       "hideNum": 0,
       "ID": 1728449,
       "ItemType": 0,
@@ -532,7 +532,7 @@
     {
       "ExchangeOutCnt": "",
       "ExchangeOutId": "",
-      "Name": "素材",
+      "Name": "袋装友谊",
       "UseEnd": "",
       "Bean": 0,
       "catID": 17,

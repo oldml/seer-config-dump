@@ -1,0 +1,494 @@
+{
+  "data": [
+    {
+      "describe": "累计培养3只成年苏摩",
+      "rewardinfo": "",
+      "group": 1,
+      "id": 1,
+      "period": 0,
+      "season": 0,
+      "tasktype": 1,
+      "value": 3
+    },
+    {
+      "describe": "《每日祈愿》中累计祈愿1次",
+      "rewardinfo": "",
+      "group": 1,
+      "id": 2,
+      "period": 0,
+      "season": 0,
+      "tasktype": 8,
+      "value": 1
+    },
+    {
+      "describe": "累计喂食苏摩10次",
+      "rewardinfo": "",
+      "group": 1,
+      "id": 3,
+      "period": 0,
+      "season": 0,
+      "tasktype": 3,
+      "value": 10
+    },
+    {
+      "describe": "累计累计培养5只成年苏摩",
+      "rewardinfo": "",
+      "group": 1,
+      "id": 4,
+      "period": 0,
+      "season": 0,
+      "tasktype": 1,
+      "value": 5
+    },
+    {
+      "describe": "参加3次《乱斗竞技场》",
+      "rewardinfo": "",
+      "group": 1,
+      "id": 5,
+      "period": 0,
+      "season": 0,
+      "tasktype": 9,
+      "value": 3
+    },
+    {
+      "describe": "解锁3个基地",
+      "rewardinfo": "",
+      "group": 1,
+      "id": 6,
+      "period": 0,
+      "season": 0,
+      "tasktype": 7,
+      "value": 3
+    },
+    {
+      "describe": "累计培养10只成年苏摩",
+      "rewardinfo": "",
+      "group": 1,
+      "id": 7,
+      "period": 0,
+      "season": 0,
+      "tasktype": 1,
+      "value": 10
+    },
+    {
+      "describe": "《每日祈愿》中累计祈愿2次",
+      "rewardinfo": "",
+      "group": 1,
+      "id": 8,
+      "period": 0,
+      "season": 0,
+      "tasktype": 8,
+      "value": 2
+    },
+    {
+      "describe": "累计参加10次《乱斗竞技场》",
+      "rewardinfo": "",
+      "group": 1,
+      "id": 9,
+      "period": 0,
+      "season": 0,
+      "tasktype": 9,
+      "value": 10
+    },
+    {
+      "describe": "累计培养20只成年苏摩",
+      "rewardinfo": "",
+      "group": 1,
+      "id": 10,
+      "period": 0,
+      "season": 0,
+      "tasktype": 1,
+      "value": 20
+    },
+    {
+      "describe": "《每日祈愿》中累计祈愿3次",
+      "rewardinfo": "",
+      "group": 1,
+      "id": 11,
+      "period": 0,
+      "season": 0,
+      "tasktype": 8,
+      "value": 3
+    },
+    {
+      "describe": "累计进行3次苏摩贴贴",
+      "rewardinfo": "",
+      "group": 1,
+      "id": 12,
+      "period": 0,
+      "season": 0,
+      "tasktype": 10,
+      "value": 3
+    },
+    {
+      "describe": "累计培养30只成年苏摩",
+      "rewardinfo": "",
+      "group": 1,
+      "id": 13,
+      "period": 0,
+      "season": 0,
+      "tasktype": 1,
+      "value": 30
+    },
+    {
+      "describe": "累计派遣3次《模拟宇宙》",
+      "rewardinfo": "",
+      "group": 1,
+      "id": 14,
+      "period": 0,
+      "season": 0,
+      "tasktype": 4,
+      "value": 3
+    },
+    {
+      "describe": "累计进行10次苏摩贴贴",
+      "rewardinfo": "",
+      "group": 1,
+      "id": 15,
+      "period": 0,
+      "season": 0,
+      "tasktype": 10,
+      "value": 10
+    },
+    {
+      "describe": "图鉴解锁10种苏摩",
+      "rewardinfo": "",
+      "group": 2,
+      "id": 16,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 10
+    },
+    {
+      "describe": "图鉴解锁20种苏摩",
+      "rewardinfo": "",
+      "group": 2,
+      "id": 17,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 20
+    },
+    {
+      "describe": "图鉴解锁30种苏摩",
+      "rewardinfo": "",
+      "group": 2,
+      "id": 18,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 30
+    },
+    {
+      "describe": "图鉴解锁40种苏摩",
+      "rewardinfo": "",
+      "group": 2,
+      "id": 19,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 40
+    },
+    {
+      "describe": "图鉴解锁50种苏摩",
+      "rewardinfo": "",
+      "group": 2,
+      "id": 20,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 50
+    },
+    {
+      "describe": "《每日祈愿》中祈愿1次",
+      "rewardinfo": "1_1400162_1800",
+      "group": 3,
+      "id": 21,
+      "period": 1,
+      "season": 0,
+      "tasktype": 8,
+      "value": 1
+    },
+    {
+      "describe": "培养3只成年苏摩",
+      "rewardinfo": "1_1400162_3600",
+      "group": 3,
+      "id": 22,
+      "period": 1,
+      "season": 0,
+      "tasktype": 1,
+      "value": 3
+    },
+    {
+      "describe": "参加3次《乱斗竞技场》",
+      "rewardinfo": "1_1728448_1",
+      "group": 3,
+      "id": 23,
+      "period": 1,
+      "season": 0,
+      "tasktype": 9,
+      "value": 3
+    },
+    {
+      "describe": "培养20只成年苏摩",
+      "rewardinfo": "1_1728448_5",
+      "group": 3,
+      "id": 24,
+      "period": 2,
+      "season": 0,
+      "tasktype": 1,
+      "value": 20
+    },
+    {
+      "describe": "参加20次《乱斗竞技场》",
+      "rewardinfo": "1_1400162_12000",
+      "group": 3,
+      "id": 25,
+      "period": 2,
+      "season": 0,
+      "tasktype": 9,
+      "value": 20
+    },
+    {
+      "describe": "派遣10次《模拟宇宙》",
+      "rewardinfo": "1_1400162_12000",
+      "group": 3,
+      "id": 26,
+      "period": 2,
+      "season": 0,
+      "tasktype": 4,
+      "value": 10
+    },
+    {
+      "describe": "《每日祈愿》中祈愿5次",
+      "rewardinfo": "1_1728448_1",
+      "group": 3,
+      "id": 27,
+      "period": 2,
+      "season": 0,
+      "tasktype": 8,
+      "value": 5
+    },
+    {
+      "describe": "图鉴解锁6种苏摩",
+      "rewardinfo": "1_1728448_1",
+      "group": 3,
+      "id": 28,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 6
+    },
+    {
+      "describe": "图鉴解锁12种苏摩",
+      "rewardinfo": "1_1728448_2",
+      "group": 3,
+      "id": 29,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 12
+    },
+    {
+      "describe": "图鉴解锁18种苏摩",
+      "rewardinfo": "1_1728448_3",
+      "group": 3,
+      "id": 30,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 18
+    },
+    {
+      "describe": "图鉴解锁24种苏摩",
+      "rewardinfo": "1_1728448_4",
+      "group": 3,
+      "id": 31,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 24
+    },
+    {
+      "describe": "图鉴解锁32种苏摩",
+      "rewardinfo": "1_1728448_5",
+      "group": 3,
+      "id": 32,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 32
+    },
+    {
+      "describe": "图鉴解锁46种苏摩",
+      "rewardinfo": "1_1728448_6",
+      "group": 3,
+      "id": 33,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 46
+    },
+    {
+      "describe": "图鉴解锁52种苏摩",
+      "rewardinfo": "1_1728448_7",
+      "group": 3,
+      "id": 34,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 52
+    },
+    {
+      "describe": "图鉴解锁56种苏摩",
+      "rewardinfo": "1_1728448_8",
+      "group": 3,
+      "id": 35,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 56
+    },
+    {
+      "describe": "图鉴解锁60种苏摩",
+      "rewardinfo": "1_1728448_9",
+      "group": 3,
+      "id": 36,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 60
+    },
+    {
+      "describe": "图鉴解锁65种苏摩",
+      "rewardinfo": "1_1728448_10",
+      "group": 3,
+      "id": 37,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 65
+    },
+    {
+      "describe": "图鉴解锁68种苏摩",
+      "rewardinfo": "1_1728448_10",
+      "group": 3,
+      "id": 38,
+      "period": 0,
+      "season": 0,
+      "tasktype": 6,
+      "value": 68
+    },
+    {
+      "describe": "生涯最高段位到达-青铜I",
+      "rewardinfo": "1_1400162_10000",
+      "group": 3,
+      "id": 39,
+      "period": 0,
+      "season": 0,
+      "tasktype": 5,
+      "value": 1
+    },
+    {
+      "describe": "生涯最高段位到达-青铜III",
+      "rewardinfo": "1_1728448_3",
+      "group": 3,
+      "id": 40,
+      "period": 0,
+      "season": 0,
+      "tasktype": 5,
+      "value": 3
+    },
+    {
+      "describe": "生涯最高段位到达-白银I",
+      "rewardinfo": "1_1400162_12000",
+      "group": 3,
+      "id": 41,
+      "period": 0,
+      "season": 0,
+      "tasktype": 5,
+      "value": 4
+    },
+    {
+      "describe": "生涯最高段位到达-白银III",
+      "rewardinfo": "1_1728448_4",
+      "group": 3,
+      "id": 42,
+      "period": 0,
+      "season": 0,
+      "tasktype": 5,
+      "value": 6
+    },
+    {
+      "describe": "生涯最高段位到达-黄金I",
+      "rewardinfo": "1_1400162_14000",
+      "group": 3,
+      "id": 43,
+      "period": 0,
+      "season": 0,
+      "tasktype": 5,
+      "value": 7
+    },
+    {
+      "describe": "生涯最高段位到达-黄金III",
+      "rewardinfo": "1_1728448_5",
+      "group": 3,
+      "id": 44,
+      "period": 0,
+      "season": 0,
+      "tasktype": 5,
+      "value": 9
+    },
+    {
+      "describe": "生涯最高段位到达-铂金I",
+      "rewardinfo": "1_1400162_17000",
+      "group": 3,
+      "id": 45,
+      "period": 0,
+      "season": 0,
+      "tasktype": 5,
+      "value": 10
+    },
+    {
+      "describe": "生涯最高段位到达-铂金III",
+      "rewardinfo": "1_1728448_6",
+      "group": 3,
+      "id": 46,
+      "period": 0,
+      "season": 0,
+      "tasktype": 5,
+      "value": 12
+    },
+    {
+      "describe": "生涯最高段位到达-钻石I",
+      "rewardinfo": "1_1400162_20000",
+      "group": 3,
+      "id": 47,
+      "period": 0,
+      "season": 0,
+      "tasktype": 5,
+      "value": 13
+    },
+    {
+      "describe": "生涯最高段位到达-钻石III",
+      "rewardinfo": "1_1728448_7",
+      "group": 3,
+      "id": 48,
+      "period": 0,
+      "season": 0,
+      "tasktype": 5,
+      "value": 15
+    },
+    {
+      "describe": "生涯最高段位到达-王者",
+      "rewardinfo": "1_1728448_10",
+      "group": 3,
+      "id": 49,
+      "period": 0,
+      "season": 0,
+      "tasktype": 5,
+      "value": 16
+    }
+  ]
+}

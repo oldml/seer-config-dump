@@ -218379,6 +218379,141 @@
         "price": 10,
         "productID": 262841,
         "vip": 1
+      },
+      {
+        "name": "快速获得圣光魂晶",
+        "itemID": [
+          1728588
+        ],
+        "price": 2,
+        "productID": 262842,
+        "vip": 1
+      },
+      {
+        "name": "至尊获得精灵【伊娜】",
+        "itemID": [
+          1728589
+        ],
+        "price": 598,
+        "productID": 262843,
+        "vip": 1
+      },
+      {
+        "name": "购买每日挑战次数（伊娜）",
+        "itemID": [
+          1728590
+        ],
+        "price": 30,
+        "productID": 262844,
+        "vip": 1
+      },
+      {
+        "name": "付费扫荡简单关卡（伊娜）",
+        "itemID": [
+          1728591
+        ],
+        "price": 20,
+        "productID": 262845,
+        "vip": 1
+      },
+      {
+        "name": "付费扫荡困难关卡（伊娜）",
+        "itemID": [
+          1728592
+        ],
+        "price": 30,
+        "productID": 262846,
+        "vip": 1
+      },
+      {
+        "name": "付费扫荡地狱关卡（伊娜）",
+        "itemID": [
+          1728593
+        ],
+        "price": 40,
+        "productID": 262847,
+        "vip": 1
+      },
+      {
+        "name": "购买获得伊娜因子",
+        "itemID": [
+          1728594
+        ],
+        "price": 2,
+        "productID": 262848,
+        "vip": 1
+      },
+      {
+        "name": "加速蒙塔画作-圣光灵神",
+        "itemID": [
+          1728595
+        ],
+        "price": 2,
+        "productID": 262849,
+        "vip": 1
+      },
+      {
+        "name": "激活曙光星律·圣光灵神皮肤部件",
+        "itemID": [
+          1728596
+        ],
+        "price": 30,
+        "productID": 262850,
+        "vip": 1
+      },
+      {
+        "name": "购买圣光灵皇",
+        "itemID": [
+          1728597
+        ],
+        "price": 188,
+        "productID": 262851,
+        "vip": 1
+      },
+      {
+        "name": "进化圣光灵皇",
+        "itemID": [
+          1728598
+        ],
+        "price": 88,
+        "productID": 262852,
+        "vip": 1
+      },
+      {
+        "name": "圣光灵神能力强化",
+        "itemID": [
+          1728599
+        ],
+        "price": 398,
+        "productID": 262853,
+        "vip": 1
+      },
+      {
+        "name": "购买圣光灵神",
+        "itemID": [
+          1728600
+        ],
+        "price": 1,
+        "productID": 262854,
+        "vip": 1
+      },
+      {
+        "name": "购买圣光灵神SP",
+        "itemID": [
+          1728601
+        ],
+        "price": 798,
+        "productID": 262855,
+        "vip": 1
+      },
+      {
+        "name": "快速获得幻影试炼次数",
+        "itemID": [
+          1728602
+        ],
+        "price": 20,
+        "productID": 262856,
+        "vip": 1
       }
     ]
   }

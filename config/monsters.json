@@ -400038,7 +400038,36 @@
           "SpMove": null
         },
         "LearnableMoves": {
-          "AdvMove": null,
+          "AdvMove": [
+            {
+              "ID": 38633,
+              "LearningLv": 0,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 1
+            },
+            {
+              "ID": 29506,
+              "LearningLv": 0,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 2
+            },
+            {
+              "ID": 29507,
+              "LearningLv": 0,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 3
+            },
+            {
+              "ID": 38634,
+              "LearningLv": 0,
+              "Rec": 0,
+              "tag": 0,
+              "Tag": 4
+            }
+          ],
           "Move": [
             {
               "ID": 12897,
@@ -400195,7 +400224,18 @@
         },
         "Move": null,
         "ShowExtraMoves": null,
-        "SpExtraMoves": null,
+        "SpExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38635,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
         "Atk": 136,
         "CharacterAttrParam": 0,
         "Combo": 0,
@@ -643386,6 +643426,148 @@
         "Vip": 0
       },
       {
+        "DefName": "伊娜",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38629,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 10086,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20302,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10287,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 10194,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20135,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38627,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "ID": 10148,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20631,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 14384,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 15839,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 23216,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 36773,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29504,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "ID": 36774,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29505,
+              "LearningLv": 57,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "ID": 38628,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 70,
+        "CharacterAttrParam": 4,
+        "Combo": 0,
+        "Def": 112,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 163,
+        "ID": 4964,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 3625,
+        "RealId": 0,
+        "SpAtk": 144,
+        "Spd": 134,
+        "SpDef": 112,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 54,
+        "Vip": 0
+      },
+      {
         "DefName": "镇世神岳·玄武",
         "ExtraMoves": {
           "AdvMove": null,
@@ -643751,6 +643933,184 @@
         "Support": 0,
         "Transform": 0,
         "Type": 223,
+        "Vip": 0
+      },
+      {
+        "DefName": "圣光灵神SP",
+        "ExtraMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 38626,
+              "LearningLv": 71,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "LearnableMoves": {
+          "AdvMove": null,
+          "Move": [
+            {
+              "ID": 12897,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 21506,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 12898,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 12903,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 20307,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 16684,
+              "LearningLv": 21,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 14733,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 22358,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 14730,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 16685,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 23685,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 16686,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 23686,
+              "LearningLv": 49,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 16687,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 23687,
+              "LearningLv": 57,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 16688,
+              "LearningLv": 61,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 23800,
+              "LearningLv": 63,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 23771,
+              "LearningLv": 65,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38624,
+              "LearningLv": 66,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29502,
+              "LearningLv": 67,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 29503,
+              "LearningLv": 68,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "ID": 38625,
+              "LearningLv": 69,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ],
+          "SpMove": null
+        },
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 160,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 120,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 1,
+        "HP": 180,
+        "ID": 13311,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 1981,
+        "RealId": 0,
+        "SpAtk": 80,
+        "Spd": 140,
+        "SpDef": 120,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 65,
         "Vip": 0
       },
       {
@@ -746642,6 +747002,96 @@
         "Gender": 0,
         "HP": 0,
         "ID": 1400887,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "小小灵神",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400888,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "曙光星律·圣光灵神",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400889,
+        "isFlyPet": 0,
+        "isRidePet": 0,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "Spd": 0,
+        "SpDef": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0
+      },
+      {
+        "DefName": "墨意千峰·关银屏",
+        "ExtraMoves": null,
+        "LearnableMoves": null,
+        "Move": null,
+        "ShowExtraMoves": null,
+        "SpExtraMoves": null,
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "EvolvesTo": 0,
+        "EvolvFlag": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400890,
         "isFlyPet": 0,
         "isRidePet": 0,
         "PetClass": 0,

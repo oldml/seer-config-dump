@@ -4867,7 +4867,7 @@
       "emoji": "",
       "emojixy": "",
       "head": "",
-      "initialposition": "",
+      "initialposition": "55,0",
       "name": "邪影梦魇",
       "portrait": "xymy_fg",
       "id": 443,
@@ -4970,7 +4970,7 @@
       "name": "圣谕邪魇",
       "portrait": "syxy_sp_fg",
       "id": 452,
-      "scale": 1
+      "scale": 0.95
     },
     {
       "CharacterID": "yina",
@@ -4993,6 +4993,72 @@
       "portrait": "tnw_fg",
       "id": 454,
       "scale": 1
+    },
+    {
+      "CharacterID": "sgls_sp",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "130,300",
+      "name": "圣光灵神",
+      "portrait": "sgls_sp_fg",
+      "id": 455,
+      "scale": 0.9
+    },
+    {
+      "CharacterID": "hyxh_01",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "50,300",
+      "name": "瀚宇星皇",
+      "portrait": "hyxh_01_fg",
+      "id": 456,
+      "scale": 0.75
+    },
+    {
+      "CharacterID": "sgls_03",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "50,620",
+      "name": "圣光灵神",
+      "portrait": "sgls_03_fg",
+      "id": 457,
+      "scale": 0.7
+    },
+    {
+      "CharacterID": "sglw",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-80,360",
+      "name": "圣光灵王",
+      "portrait": "sglw_fg",
+      "id": 458,
+      "scale": 0.7
+    },
+    {
+      "CharacterID": "xyzz_pet",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-70,360",
+      "name": "邪影之尊",
+      "portrait": "xyzz_pet_fg",
+      "id": 459,
+      "scale": 0.7
+    },
+    {
+      "CharacterID": "sglh",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-25,630",
+      "name": "圣光灵皇",
+      "portrait": "sglh_fg",
+      "id": 460,
+      "scale": 0.7
     }
   ]
 }

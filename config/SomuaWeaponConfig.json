@@ -1,0 +1,515 @@
+{
+  "data": [
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5000",
+      "id": 5000,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_aqua",
+      "prefab": "weapon_5001",
+      "id": 5001,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_land",
+      "prefab": "weapon_5002",
+      "id": 5002,
+      "shape": 2,
+      "type": 5
+    },
+    {
+      "fxOnHit": "hit_common_phy",
+      "prefab": "weapon_5003",
+      "id": 5003,
+      "shape": 2,
+      "type": 2
+    },
+    {
+      "fxOnHit": "hit_common_leaf",
+      "prefab": "weapon_5004",
+      "id": 5004,
+      "shape": 1,
+      "type": 5
+    },
+    {
+      "fxOnHit": "hit_common_aqua",
+      "prefab": "weapon_5005",
+      "id": 5005,
+      "shape": 2,
+      "type": 4
+    },
+    {
+      "fxOnHit": "hit_weapon_5006",
+      "prefab": "weapon_5006",
+      "id": 5006,
+      "shape": 2,
+      "type": 2
+    },
+    {
+      "fxOnHit": "hit_common_blad",
+      "prefab": "weapon_5007",
+      "id": 5007,
+      "shape": 2,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_blad",
+      "prefab": "weapon_5008",
+      "id": 5008,
+      "shape": 2,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_blad",
+      "prefab": "weapon_5009",
+      "id": 5009,
+      "shape": 2,
+      "type": 2
+    },
+    {
+      "fxOnHit": "hit_weapon_5010",
+      "prefab": "weapon_5010",
+      "id": 5010,
+      "shape": 2,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_phy",
+      "prefab": "weapon_5011",
+      "id": 5011,
+      "shape": 1,
+      "type": 4
+    },
+    {
+      "fxOnHit": "hit_common_phy",
+      "prefab": "weapon_5012",
+      "id": 5012,
+      "shape": 1,
+      "type": 2
+    },
+    {
+      "fxOnHit": "hit_common_mgc",
+      "prefab": "weapon_5013",
+      "id": 5013,
+      "shape": 1,
+      "type": 3
+    },
+    {
+      "fxOnHit": "hit_common_blad",
+      "prefab": "weapon_5014",
+      "id": 5014,
+      "shape": 2,
+      "type": 2
+    },
+    {
+      "fxOnHit": "hit_common_ice",
+      "prefab": "weapon_5015",
+      "id": 5015,
+      "shape": 2,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_phy",
+      "prefab": "weapon_5016",
+      "id": 5016,
+      "shape": 1,
+      "type": 4
+    },
+    {
+      "fxOnHit": "hit_weapon_5017",
+      "prefab": "weapon_5017",
+      "id": 5017,
+      "shape": 2,
+      "type": 2
+    },
+    {
+      "fxOnHit": "hit_common_phy",
+      "prefab": "weapon_5018",
+      "id": 5018,
+      "shape": 2,
+      "type": 2
+    },
+    {
+      "fxOnHit": "hit_common_land",
+      "prefab": "weapon_5019",
+      "id": 5019,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_elec",
+      "prefab": "weapon_5020",
+      "id": 5020,
+      "shape": 2,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_mgc",
+      "prefab": "weapon_5021",
+      "id": 5021,
+      "shape": 1,
+      "type": 3
+    },
+    {
+      "fxOnHit": "hit_common_mgc",
+      "prefab": "weapon_5022",
+      "id": 5022,
+      "shape": 2,
+      "type": 4
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5023",
+      "id": 5023,
+      "shape": 2,
+      "type": 5
+    },
+    {
+      "fxOnHit": "hit_common_mgc",
+      "prefab": "weapon_5024",
+      "id": 5024,
+      "shape": 1,
+      "type": 4
+    },
+    {
+      "fxOnHit": "hit_weapon_5025",
+      "prefab": "weapon_5025",
+      "id": 5025,
+      "shape": 2,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_mgc",
+      "prefab": "weapon_5026",
+      "id": 5026,
+      "shape": 2,
+      "type": 4
+    },
+    {
+      "fxOnHit": "hit_common_elec",
+      "prefab": "weapon_5027",
+      "id": 5027,
+      "shape": 2,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_mgc",
+      "prefab": "weapon_5028",
+      "id": 5028,
+      "shape": 1,
+      "type": 4
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5029",
+      "id": 5029,
+      "shape": 2,
+      "type": 5
+    },
+    {
+      "fxOnHit": "hit_weapon_5030",
+      "prefab": "weapon_5030",
+      "id": 5030,
+      "shape": 2,
+      "type": 6
+    },
+    {
+      "fxOnHit": "hit_common_phy",
+      "prefab": "weapon_5031",
+      "id": 5031,
+      "shape": 1,
+      "type": 3
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5032",
+      "id": 5032,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5033",
+      "id": 5033,
+      "shape": 2,
+      "type": 6
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5533",
+      "id": 5533,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_leaf",
+      "prefab": "weapon_5034",
+      "id": 5034,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_aqua",
+      "prefab": "weapon_5035",
+      "id": 5035,
+      "shape": 1,
+      "type": 3
+    },
+    {
+      "fxOnHit": "hit_common_elec",
+      "prefab": "weapon_5036",
+      "id": 5036,
+      "shape": 2,
+      "type": 2
+    },
+    {
+      "fxOnHit": "hit_common_leaf",
+      "prefab": "weapon_5037",
+      "id": 5037,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_aqua",
+      "prefab": "weapon_5038",
+      "id": 5038,
+      "shape": 2,
+      "type": 4
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5039",
+      "id": 5039,
+      "shape": 1,
+      "type": 6
+    },
+    {
+      "fxOnHit": "hit_common_phy",
+      "prefab": "weapon_5040",
+      "id": 5040,
+      "shape": 2,
+      "type": 5
+    },
+    {
+      "fxOnHit": "hit_common_mgc",
+      "prefab": "weapon_5041",
+      "id": 5041,
+      "shape": 1,
+      "type": 5
+    },
+    {
+      "fxOnHit": "hit_common_fire",
+      "prefab": "weapon_5042",
+      "id": 5042,
+      "shape": 2,
+      "type": 4
+    },
+    {
+      "fxOnHit": "hit_common_ice",
+      "prefab": "weapon_5043",
+      "id": 5043,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_elec",
+      "prefab": "weapon_5044",
+      "id": 5044,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_blad",
+      "prefab": "weapon_5045",
+      "id": 5045,
+      "shape": 2,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_mgc",
+      "prefab": "weapon_5545",
+      "id": 5545,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_mgc",
+      "prefab": "weapon_5046",
+      "id": 5046,
+      "shape": 2,
+      "type": 5
+    },
+    {
+      "fxOnHit": "hit_common_mgc",
+      "prefab": "weapon_5047",
+      "id": 5047,
+      "shape": 1,
+      "type": 2
+    },
+    {
+      "fxOnHit": "hit_common_mgc",
+      "prefab": "weapon_5048",
+      "id": 5048,
+      "shape": 1,
+      "type": 3
+    },
+    {
+      "fxOnHit": "hit_common_leaf",
+      "prefab": "weapon_5049",
+      "id": 5049,
+      "shape": 2,
+      "type": 6
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5050",
+      "id": 5050,
+      "shape": 1,
+      "type": 2
+    },
+    {
+      "fxOnHit": "hit_common_leaf",
+      "prefab": "weapon_5051",
+      "id": 5051,
+      "shape": 2,
+      "type": 2
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5052",
+      "id": 5052,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5053",
+      "id": 5053,
+      "shape": 2,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_mgc",
+      "prefab": "weapon_5553",
+      "id": 5553,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_aqua",
+      "prefab": "weapon_5054",
+      "id": 5054,
+      "shape": 2,
+      "type": 4
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5055",
+      "id": 5055,
+      "shape": 1,
+      "type": 6
+    },
+    {
+      "fxOnHit": "hit_common_mgc",
+      "prefab": "weapon_5555",
+      "id": 5555,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "hit_common_mgc",
+      "prefab": "weapon_5056",
+      "id": 5056,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5057",
+      "id": 5057,
+      "shape": 1,
+      "type": 5
+    },
+    {
+      "fxOnHit": "hit_weapon_5058",
+      "prefab": "weapon_5058",
+      "id": 5058,
+      "shape": 2,
+      "type": 6
+    },
+    {
+      "fxOnHit": "hit_common_fire",
+      "prefab": "weapon_5059",
+      "id": 5059,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5060",
+      "id": 5060,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5061",
+      "id": 5061,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5062",
+      "id": 5062,
+      "shape": 2,
+      "type": 3
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5063",
+      "id": 5063,
+      "shape": 1,
+      "type": 1
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5064",
+      "id": 5064,
+      "shape": 1,
+      "type": 3
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5065",
+      "id": 5065,
+      "shape": 2,
+      "type": 1
+    },
+    {
+      "fxOnHit": "",
+      "prefab": "weapon_5066",
+      "id": 5066,
+      "shape": 1,
+      "type": 3
+    },
+    {
+      "fxOnHit": "hit_weapon_5067",
+      "prefab": "weapon_5067",
+      "id": 5067,
+      "shape": 2,
+      "type": 2
+    },
+    {
+      "fxOnHit": "hit_common_blad",
+      "prefab": "weapon_5068",
+      "id": 5068,
+      "shape": 2,
+      "type": 4
+    }
+  ]
+}

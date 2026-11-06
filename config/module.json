@@ -4010,7 +4010,7 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 702,
-      "isFullScreen": 1
+      "isFullScreen": 0
     },
     {
       "moduleName": "dangoActivity",
@@ -5609,6 +5609,13 @@
       "isFullScreen": 1
     },
     {
+      "moduleName": "templeHeroesNew",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 922,
+      "isFullScreen": 1
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -6832,6 +6839,97 @@
       "currAppDo": 1,
       "id": 1260,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "dangoActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1300,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dangoActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1301,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dangoActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1302,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "mingwangGet",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1303,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "minghuangxiuluo",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1304,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "minghuangxiuluo",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1305,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ringgameActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1306,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "lingshenSkinRoll",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1307,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "somuaNewActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1308,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "montaArtwork",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1309,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sglsuppanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1310,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "lingShenSp",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1311,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "shengguanglingshengjump",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1312,
+      "isFullScreen": 0
     }
   ]
 }
