@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "Name": "普卡因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400615,
+      "Max": 999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "牧魂祭司因子",
       "catID": 24,
       "Hide": 0,

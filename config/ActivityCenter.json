@@ -2564,7 +2564,7 @@
       "isShow": 1,
       "redbadge": 100,
       "signType": 1,
-      "sorting": 3,
+      "sorting": 4,
       "type": 1
     },
     {
@@ -8089,7 +8089,7 @@
       "isShow": 1,
       "redbadge": 462,
       "signType": 0,
-      "sorting": 2,
+      "sorting": 3,
       "type": 1
     },
     {
@@ -9693,15 +9693,15 @@
     {
       "args": "Assets/Game/UI/ugcbanner1016/ugcbanner1016.prefab",
       "beginning": "2026_10_16 10:00:00",
-      "ending": "2026_11_05 24:00:00",
+      "ending": "2026_11_05 23:59:59",
       "labelName": "10万现金激励",
       "name": "ugcbanner1016",
       "channel": 0,
       "Go": 445,
       "helptips": 0,
       "id": 592,
-      "iOSreviewshow": 1,
-      "isShow": 1,
+      "iOSreviewshow": 0,
+      "isShow": 0,
       "redbadge": 428,
       "signType": 0,
       "sorting": 5,
@@ -10092,7 +10092,7 @@
       "helptips": 0,
       "id": 615,
       "iOSreviewshow": 1,
-      "isShow": 1,
+      "isShow": 0,
       "redbadge": 0,
       "signType": 0,
       "sorting": 10,
@@ -10112,7 +10112,7 @@
       "isShow": 1,
       "redbadge": 447,
       "signType": 0,
-      "sorting": 5,
+      "sorting": 11,
       "type": 1
     },
     {
@@ -10129,7 +10129,7 @@
       "isShow": 1,
       "redbadge": 448,
       "signType": 0,
-      "sorting": 6,
+      "sorting": 8,
       "type": 1
     },
     {
@@ -10146,7 +10146,7 @@
       "isShow": 1,
       "redbadge": 455,
       "signType": 0,
-      "sorting": 1,
+      "sorting": 6,
       "type": 1
     },
     {
@@ -10163,7 +10163,7 @@
       "isShow": 1,
       "redbadge": 450,
       "signType": 0,
-      "sorting": 2,
+      "sorting": 7,
       "type": 1
     },
     {
@@ -10180,7 +10180,7 @@
       "isShow": 1,
       "redbadge": 451,
       "signType": 0,
-      "sorting": 3,
+      "sorting": 9,
       "type": 1
     },
     {
@@ -10248,7 +10248,7 @@
       "isShow": 1,
       "redbadge": 456,
       "signType": 0,
-      "sorting": 4,
+      "sorting": 7,
       "type": 1
     },
     {
@@ -10283,7 +10283,7 @@
       "redbadge": 0,
       "signType": 0,
       "sorting": 10,
-      "type": 8
+      "type": 1
     },
     {
       "args": "",
@@ -10299,7 +10299,7 @@
       "isShow": 1,
       "redbadge": 458,
       "signType": 0,
-      "sorting": 3,
+      "sorting": 5,
       "type": 1
     },
     {
@@ -10316,13 +10316,13 @@
       "isShow": 1,
       "redbadge": 460,
       "signType": 0,
-      "sorting": 5,
+      "sorting": 2,
       "type": 1
     },
     {
       "args": "Assets/Game/UI/ugcbanner1113/ugcbanner1113.prefab",
       "beginning": "2026_11_13 10:00:00",
-      "ending": "2026_12_10 24:00:00",
+      "ending": "2026_12_10 23:59:59",
       "labelName": "10万现金激励",
       "name": "ugcbanner1113",
       "channel": 0,

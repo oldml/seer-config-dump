@@ -95292,7 +95292,7 @@
         },
         {
           "info": "",
-          "Name": "简",
+          "Name": "魂·天忤太虚",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
@@ -95322,7 +95322,7 @@
         },
         {
           "info": "",
-          "Name": "极",
+          "Name": "魂·天忤太虚",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
@@ -95352,7 +95352,7 @@
         },
         {
           "info": "",
-          "Name": "希",
+          "Name": "终梦·赫星黎明",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
@@ -95385,7 +95385,7 @@
         },
         {
           "info": "",
-          "Name": "希",
+          "Name": "终梦·赫星黎明",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
@@ -551484,18 +551484,23 @@
           "Type": 8
         },
         {
-          "info": "开始免疫并反弹异常状态了；为自身附加护盾；对手使用属性技能则随机附加异常状态",
+          "info": "开始免疫并反弹异常状态了；为自身附加护盾；对手使用攻击技能则使对手烧伤；对手使用属性技能则随机附加异常状态",
           "Name": "烟幕蔽日",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
             191,
             847,
+            1614,
             163
           ],
           "SideEffectArg": [
             4,
             300,
+            4,
+            100,
+            2,
+            1,
             4
           ],
           "Accuracy": 95,
@@ -800469,11 +800474,14 @@
           "FriendSideEffectArg": null,
           "SideEffect": [
             743,
+            200,
             1461
           ],
           "SideEffectArg": [
             2,
             1,
+            100,
+            6,
             3
           ],
           "Accuracy": 97,
@@ -800518,7 +800526,7 @@
           "MonID": 0,
           "MustHit": 1,
           "ordinary": 0,
-          "Power": 85,
+          "Power": 150,
           "Priority": 0,
           "Soercemove": 0,
           "Type": 101
@@ -800531,12 +800539,15 @@
           "SideEffect": [
             467,
             500,
-            984
+            984,
+            1933
           ],
           "SideEffectArg": [
             2,
             300,
-            3
+            3,
+            100,
+            14
           ],
           "Accuracy": 95,
           "AtkNum": 0,
@@ -800571,7 +800582,7 @@
           "Category": 2,
           "CritRate": 0,
           "ID": 38641,
-          "MaxPP": 5,
+          "MaxPP": 10,
           "MonID": 0,
           "MustHit": 0,
           "ordinary": 0,
@@ -800602,7 +800613,7 @@
           "MonID": 0,
           "MustHit": 1,
           "ordinary": 0,
-          "Power": 85,
+          "Power": 150,
           "Priority": 0,
           "Soercemove": 0,
           "Type": 17
@@ -800691,7 +800702,7 @@
           "MonID": 0,
           "MustHit": 1,
           "ordinary": 0,
-          "Power": 85,
+          "Power": 150,
           "Priority": 0,
           "Soercemove": 0,
           "Type": 53

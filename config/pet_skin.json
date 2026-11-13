@@ -16004,8 +16004,8 @@
         "Type": 3
       },
       {
-        "Go": "",
-        "GoType": "",
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
         "Name": "日蚀·终末大天使",
         "SkinKind": [
           {
@@ -16017,7 +16017,7 @@
           }
         ],
         "ID": 891,
-        "Jumptarget": 0,
+        "Jumptarget": 114017,
         "MonID": 4355,
         "Type": 2
       }

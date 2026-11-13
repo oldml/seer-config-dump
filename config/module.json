@@ -6972,6 +6972,13 @@
       "currAppDo": 1,
       "id": 1325,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "rubberHoseGameEntry",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1326,
+      "isFullScreen": 1
     }
   ]
 }
