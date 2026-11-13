@@ -20983,33 +20983,6 @@
       "petID": 4965,
       "recommend": 0,
       "stage": 0
-    },
-    {
-      "fifthProgress": [
-        "1_2400615_50"
-      ],
-      "gainday": "",
-      "judge5thmoveByvalue": [
-        "0_0_0"
-      ],
-      "judgeNewseByvalue": [
-        "0_0_0"
-      ],
-      "judgeOnekeyget": "",
-      "judgePetByvalue": [
-        "0_0_0"
-      ],
-      "petProgress": [
-        "1_2400615_200"
-      ],
-      "seProgress": [
-        "1_2400615_100"
-      ],
-      "strategy": null,
-      "id": 771,
-      "petID": 4966,
-      "recommend": 0,
-      "stage": 0
     }
   ]
 }

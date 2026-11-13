@@ -8540,20 +8540,6 @@
         "PetLimit": 1,
         "Rarity": 2,
         "show": 1
-      },
-      {
-        "effectId": 2165,
-        "ID": 2400615,
-        "MonsterID": 4966,
-        "MoveID": 38643,
-        "MovesConsume": 50,
-        "NeedmonID": 0,
-        "NewseConsume": 100,
-        "NewSeIdx": 6469,
-        "PetConsume": 200,
-        "PetLimit": 1,
-        "Rarity": 1,
-        "show": 1
       }
     ]
   }
