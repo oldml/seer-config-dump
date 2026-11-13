@@ -9,6 +9,8 @@
       "score1": 2170,
       "score2": 2121,
       "score3": 2105,
+      "sort": 1,
+      "type": 1,
       "winrate1": 68,
       "winrate2": 56,
       "winrate3": 67
@@ -22,6 +24,8 @@
       "score1": 2159,
       "score2": 2076,
       "score3": 2026,
+      "sort": 2,
+      "type": 1,
       "winrate1": 73,
       "winrate2": 64,
       "winrate3": 53
@@ -35,6 +39,8 @@
       "score1": 2302,
       "score2": 2101,
       "score3": 2079,
+      "sort": 3,
+      "type": 1,
       "winrate1": 69,
       "winrate2": 80,
       "winrate3": 59
@@ -48,6 +54,8 @@
       "score1": 2226,
       "score2": 2181,
       "score3": 2166,
+      "sort": 4,
+      "type": 1,
       "winrate1": 64,
       "winrate2": 53,
       "winrate3": 49
@@ -61,6 +69,8 @@
       "score1": 2203,
       "score2": 1891,
       "score3": 1890,
+      "sort": 5,
+      "type": 1,
       "winrate1": 65,
       "winrate2": 62,
       "winrate3": 51

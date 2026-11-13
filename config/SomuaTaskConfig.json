@@ -202,7 +202,7 @@
     },
     {
       "describe": "《每日祈愿》中祈愿1次",
-      "rewardinfo": "1_1400162_1800",
+      "rewardinfo": "1_1400162_3600",
       "group": 3,
       "id": 21,
       "period": 1,
@@ -212,7 +212,7 @@
     },
     {
       "describe": "培养3只成年苏摩",
-      "rewardinfo": "1_1400162_3600",
+      "rewardinfo": "1_1400162_7200",
       "group": 3,
       "id": 22,
       "period": 1,
@@ -222,7 +222,7 @@
     },
     {
       "describe": "参加3次《乱斗竞技场》",
-      "rewardinfo": "1_1728448_1",
+      "rewardinfo": "1_1728448_3",
       "group": 3,
       "id": 23,
       "period": 1,
@@ -242,7 +242,7 @@
     },
     {
       "describe": "参加20次《乱斗竞技场》",
-      "rewardinfo": "1_1400162_12000",
+      "rewardinfo": "1_1400162_24000",
       "group": 3,
       "id": 25,
       "period": 2,
@@ -252,7 +252,7 @@
     },
     {
       "describe": "派遣10次《模拟宇宙》",
-      "rewardinfo": "1_1400162_12000",
+      "rewardinfo": "1_1400162_24000",
       "group": 3,
       "id": 26,
       "period": 2,
@@ -262,7 +262,7 @@
     },
     {
       "describe": "《每日祈愿》中祈愿5次",
-      "rewardinfo": "1_1728448_1",
+      "rewardinfo": "1_1728448_10",
       "group": 3,
       "id": 27,
       "period": 2,
@@ -481,7 +481,7 @@
       "value": 15
     },
     {
-      "describe": "生涯最高段位到达-王者",
+      "describe": "生涯最高段位到达-苏摩大师",
       "rewardinfo": "1_1728448_10",
       "group": 3,
       "id": 49,

@@ -5059,6 +5059,204 @@
       "portrait": "sglh_fg",
       "id": 460,
       "scale": 0.7
+    },
+    {
+      "CharacterID": "wakan",
+      "emoji": "wakan_01,wakan_02,wakan_03,wakan_04,wakan_05",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "186,62",
+      "name": "瓦坎",
+      "portrait": "wakan_fg",
+      "id": 461,
+      "scale": 1
+    },
+    {
+      "CharacterID": "salomo",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-229,26",
+      "name": "沙摩罗奥",
+      "portrait": "salomo_fg",
+      "id": 462,
+      "scale": 1
+    },
+    {
+      "CharacterID": "pukaxiao",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "普卡",
+      "portrait": "pukaxiao_fg",
+      "id": 463,
+      "scale": 1
+    },
+    {
+      "CharacterID": "pukada",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "普卡普卡",
+      "portrait": "pukada_fg",
+      "id": 464,
+      "scale": 1
+    },
+    {
+      "CharacterID": "pele",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,236",
+      "name": "佩勒女士",
+      "portrait": "pele_fg",
+      "id": 465,
+      "scale": 1
+    },
+    {
+      "CharacterID": "maui",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-188,264",
+      "name": "毛伊",
+      "portrait": "maui_fg",
+      "id": 466,
+      "scale": 1
+    },
+    {
+      "CharacterID": "kanaloa",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,366",
+      "name": "卡纳洛阿",
+      "portrait": "kanaloa_fg",
+      "id": 467,
+      "scale": 1
+    },
+    {
+      "CharacterID": "gefula",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "格芙拉",
+      "portrait": "gefula_fg",
+      "id": 468,
+      "scale": 1
+    },
+    {
+      "CharacterID": "fudu",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "腐髑·卡德维尔",
+      "portrait": "fudu_fg",
+      "id": 469,
+      "scale": 1
+    },
+    {
+      "CharacterID": "suiyin",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "髓影·多尔西斯",
+      "portrait": "suiyin_fg",
+      "id": 470,
+      "scale": 1
+    },
+    {
+      "CharacterID": "shilan",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "师澜",
+      "portrait": "shilan_fg",
+      "id": 471,
+      "scale": 1
+    },
+    {
+      "CharacterID": "xiluo",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "汐落",
+      "portrait": "xiluo_fg",
+      "id": 472,
+      "scale": 1
+    },
+    {
+      "CharacterID": "atbj_ls",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-35,70",
+      "name": "安塔波迦",
+      "portrait": "atbj_ls_fg",
+      "id": 473,
+      "scale": 1.2
+    },
+    {
+      "CharacterID": "bl_ls",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,64",
+      "name": "巴龙",
+      "portrait": "bl_ls_fg",
+      "id": 474,
+      "scale": 1
+    },
+    {
+      "CharacterID": "kmpa_ls",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "0,100",
+      "name": "卡玛普阿",
+      "portrait": "kmpa_ls_fg",
+      "id": 475,
+      "scale": 1
+    },
+    {
+      "CharacterID": "rd_ls",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "-50,136",
+      "name": "让达",
+      "portrait": "rd_ls_fg",
+      "id": 476,
+      "scale": 1
+    },
+    {
+      "CharacterID": "tjtmn_ls",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "坦加塔马努",
+      "portrait": "tjtmn_ls_fg",
+      "id": 477,
+      "scale": 1
+    },
+    {
+      "CharacterID": "ylgr_ls",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "",
+      "name": "尤伦格尔",
+      "portrait": "ylgr_ls_fg",
+      "id": 478,
+      "scale": 1
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "Name": "圣灵VS混沌系列刻印自选礼盒",
+      "catID": 26,
+      "ID": 2600073,
+      "Max": 99,
+      "purpose": 1,
+      "Rarity": 0,
+      "Sort": 35,
+      "UseMax": 1,
+      "wd": 1
+    },
+    {
       "Name": "星际礼盒",
       "catID": 26,
       "ID": 2600072,
@@ -206,7 +217,7 @@
       "purpose": 1,
       "Rarity": 5,
       "Sort": 35,
-      "UseMax": 99,
+      "UseMax": 1,
       "wd": 1
     },
     {
@@ -217,7 +228,7 @@
       "purpose": 1,
       "Rarity": 5,
       "Sort": 35,
-      "UseMax": 99,
+      "UseMax": 1,
       "wd": 1
     },
     {

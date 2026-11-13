@@ -1,0 +1,143 @@
+{
+  "data": [
+    {
+      "name": "跑跑信封",
+      "skilldes": "出场前4秒移速＋50%",
+      "tag": "快速增援",
+      "skill": [
+        4,
+        50
+      ],
+      "atk": 18,
+      "atkrange": 20,
+      "atktime": 9,
+      "atktype": 1,
+      "cost": 10,
+      "hp": 140,
+      "id": 1,
+      "movespeed": 40,
+      "unlock": 0
+    },
+    {
+      "name": "铁皮邮筒",
+      "skilldes": "停止移动2秒后，自身受到的伤害减少20%；移动后移除",
+      "tag": "前排承伤",
+      "skill": [
+        2,
+        20
+      ],
+      "atk": 22,
+      "atkrange": 20,
+      "atktime": 15,
+      "atktype": 1,
+      "cost": 20,
+      "hp": 580,
+      "id": 2,
+      "movespeed": 25,
+      "unlock": 0
+    },
+    {
+      "name": "点墨钢笔",
+      "skilldes": "对同一敌方单位每连续有效命中3次，第3次伤害＋50%",
+      "tag": "远程单体",
+      "skill": [
+        3,
+        50
+      ],
+      "atk": 45,
+      "atkrange": 150,
+      "atktime": 12,
+      "atktype": 2,
+      "cost": 15,
+      "hp": 170,
+      "id": 3,
+      "movespeed": 30,
+      "unlock": 0
+    },
+    {
+      "name": "惊喜礼盒",
+      "skilldes": "每名礼盒出场后存活的前30秒，额外恢复1能量／秒",
+      "tag": "能量恢复",
+      "skill": [
+        30,
+        1
+      ],
+      "atk": 10,
+      "atkrange": 120,
+      "atktime": 18,
+      "atktype": 1,
+      "cost": 15,
+      "hp": 170,
+      "id": 4,
+      "movespeed": 24,
+      "unlock": 0
+    },
+    {
+      "name": "重戳印章",
+      "skilldes": "对攻击范围内的全部敌人造成伤害",
+      "tag": "近战群体",
+      "skill": null,
+      "atk": 60,
+      "atkrange": 30,
+      "atktime": 10,
+      "atktype": 1,
+      "cost": 30,
+      "hp": 300,
+      "id": 5,
+      "movespeed": 28,
+      "unlock": 4
+    },
+    {
+      "name": "长筒邮包",
+      "skilldes": "对攻击目标100范围内的全部敌人造成伤害",
+      "tag": "远程群体",
+      "skill": [
+        100
+      ],
+      "atk": 90,
+      "atkrange": 240,
+      "atktime": 30,
+      "atktype": 2,
+      "cost": 50,
+      "hp": 120,
+      "id": 6,
+      "movespeed": 22,
+      "unlock": 7
+    },
+    {
+      "name": "弹射信夹",
+      "skilldes": "命中目标生命≤最大生命50%时，伤害＋50%",
+      "tag": "近战高伤",
+      "skill": [
+        50,
+        50
+      ],
+      "atk": 35,
+      "atkrange": 160,
+      "atktime": 18,
+      "atktype": 2,
+      "cost": 30,
+      "hp": 140,
+      "id": 7,
+      "movespeed": 24,
+      "unlock": 12
+    },
+    {
+      "name": "破封推车",
+      "skilldes": "对基地伤害5倍",
+      "tag": "建筑增伤",
+      "skill": [
+        5
+      ],
+      "atk": 36,
+      "atkrange": 50,
+      "atktime": 20,
+      "atktype": 1,
+      "cost": 80,
+      "hp": 360,
+      "id": 8,
+      "movespeed": 25,
+      "unlock": 15
+    }
+  ]
+}

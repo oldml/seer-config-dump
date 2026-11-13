@@ -218514,6 +218514,222 @@
         "price": 20,
         "productID": 262856,
         "vip": 1
+      },
+      {
+        "name": "购买活力维持宝石Ⅰ",
+        "itemID": [
+          1728603
+        ],
+        "price": 398,
+        "productID": 262857,
+        "vip": 1
+      },
+      {
+        "name": "购买活力消耗宝石Ⅰ",
+        "itemID": [
+          1728604
+        ],
+        "price": 398,
+        "productID": 262858,
+        "vip": 1
+      },
+      {
+        "name": "购买活力恢复宝石Ⅰ",
+        "itemID": [
+          1728605
+        ],
+        "price": 398,
+        "productID": 262859,
+        "vip": 1
+      },
+      {
+        "name": "购买追命宝石Ⅰ",
+        "itemID": [
+          1728606
+        ],
+        "price": 398,
+        "productID": 262860,
+        "vip": 1
+      },
+      {
+        "name": "购买逆命宝石Ⅰ",
+        "itemID": [
+          1728607
+        ],
+        "price": 398,
+        "productID": 262861,
+        "vip": 1
+      },
+      {
+        "name": "购买绝命宝石Ⅰ",
+        "itemID": [
+          1728608
+        ],
+        "price": 398,
+        "productID": 262862,
+        "vip": 1
+      },
+      {
+        "name": "购买失明宝石Ⅰ",
+        "itemID": [
+          1728609
+        ],
+        "price": 398,
+        "productID": 262863,
+        "vip": 1
+      },
+      {
+        "name": "购买失神宝石Ⅰ",
+        "itemID": [
+          1728610
+        ],
+        "price": 398,
+        "productID": 262864,
+        "vip": 1
+      },
+      {
+        "name": "购买冰封宝石Ⅰ",
+        "itemID": [
+          1728611
+        ],
+        "price": 398,
+        "productID": 262865,
+        "vip": 1
+      },
+      {
+        "name": "购买焚烬宝石Ⅰ",
+        "itemID": [
+          1728612
+        ],
+        "price": 398,
+        "productID": 262866,
+        "vip": 1
+      },
+      {
+        "name": "购买疾风宝石Ⅰ",
+        "itemID": [
+          1728613
+        ],
+        "price": 398,
+        "productID": 262867,
+        "vip": 1
+      },
+      {
+        "name": "购买迅雷宝石Ⅰ",
+        "itemID": [
+          1728614
+        ],
+        "price": 398,
+        "productID": 262868,
+        "vip": 1
+      },
+      {
+        "name": "购买真实伤害宝石Ⅰ",
+        "itemID": [
+          1728615
+        ],
+        "price": 398,
+        "productID": 262869,
+        "vip": 1
+      },
+      {
+        "name": "购买真目宝石Ⅰ",
+        "itemID": [
+          1728616
+        ],
+        "price": 398,
+        "productID": 262870,
+        "vip": 1
+      },
+      {
+        "name": "购买强能宝石Ⅰ",
+        "itemID": [
+          1728617
+        ],
+        "price": 398,
+        "productID": 262871,
+        "vip": 1
+      },
+      {
+        "name": "购买感染宝石Ⅰ",
+        "itemID": [
+          1728618
+        ],
+        "price": 398,
+        "productID": 262872,
+        "vip": 1
+      },
+      {
+        "name": "购买竭力宝石Ⅰ",
+        "itemID": [
+          1728619
+        ],
+        "price": 398,
+        "productID": 262873,
+        "vip": 1
+      },
+      {
+        "name": "购买爆伤宝石Ⅰ",
+        "itemID": [
+          1728620
+        ],
+        "price": 398,
+        "productID": 262874,
+        "vip": 1
+      },
+      {
+        "name": "至尊获得精灵【沙罗摩奥】",
+        "itemID": [
+          1728621
+        ],
+        "price": 598,
+        "productID": 262875,
+        "vip": 1
+      },
+      {
+        "name": "购买每日挑战次数（沙罗摩奥）",
+        "itemID": [
+          1728622
+        ],
+        "price": 30,
+        "productID": 262876,
+        "vip": 1
+      },
+      {
+        "name": "付费扫荡简单关卡（沙罗摩奥）",
+        "itemID": [
+          1728623
+        ],
+        "price": 20,
+        "productID": 262877,
+        "vip": 1
+      },
+      {
+        "name": "付费扫荡困难关卡（沙罗摩奥）",
+        "itemID": [
+          1728624
+        ],
+        "price": 30,
+        "productID": 262878,
+        "vip": 1
+      },
+      {
+        "name": "付费扫荡地狱关卡（沙罗摩奥）",
+        "itemID": [
+          1728625
+        ],
+        "price": 40,
+        "productID": 262879,
+        "vip": 1
+      },
+      {
+        "name": "购买获得沙罗摩奥因子",
+        "itemID": [
+          1728626
+        ],
+        "price": 2,
+        "productID": 262880,
+        "vip": 1
       }
     ]
   }

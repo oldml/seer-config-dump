@@ -865,7 +865,7 @@
       "writing": 1004
     },
     {
-      "bgm": "rakai_02_bgm",
+      "bgm": "rakai_06_bgm",
       "chaptername": "坠入拉卡伊",
       "enddate": "",
       "imagebg": "image1028_bg",
@@ -888,7 +888,7 @@
       "tagtype": 113,
       "tobe": 0,
       "type": 1,
-      "upstory": 0,
+      "upstory": 1,
       "writing": 1004
     },
     {
@@ -915,7 +915,7 @@
       "tagtype": 204,
       "tobe": 0,
       "type": 2,
-      "upstory": 1,
+      "upstory": 0,
       "writing": 2003
     }
   ]

@@ -95292,7 +95292,7 @@
         },
         {
           "info": "",
-          "Name": "简",
+          "Name": "魂·天忤太虚",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
@@ -95322,7 +95322,7 @@
         },
         {
           "info": "",
-          "Name": "极",
+          "Name": "魂·天忤太虚",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
@@ -95352,7 +95352,7 @@
         },
         {
           "info": "",
-          "Name": "希",
+          "Name": "终梦·赫星黎明",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
@@ -95385,7 +95385,7 @@
         },
         {
           "info": "",
-          "Name": "希",
+          "Name": "终梦·赫星黎明",
           "FriendSideEffect": null,
           "FriendSideEffectArg": null,
           "SideEffect": [
@@ -551484,6 +551484,384 @@
           "Type": 8
         },
         {
+          "info": "开始免疫并反弹异常状态了；为自身附加护盾；对手使用攻击技能则使对手烧伤；对手使用属性技能则随机附加异常状态",
+          "Name": "烟幕蔽日",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            847,
+            1614,
+            163
+          ],
+          "SideEffectArg": [
+            4,
+            300,
+            4,
+            100,
+            2,
+            1,
+            4
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29508,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性都提升了，双方任意一方处于异常状态时强化效果翻倍；开始吸取对手的体力了；出手变得更快了",
+          "Name": "沙暴之力",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1168,
+            597,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29509,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫并反弹异常状态了；解除自身能力下降状态并消除对手回合类效果；对手使用攻击技能则吸取对手体力",
+          "Name": "怀光护体",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191,
+            1392,
+            1269
+          ],
+          "SideEffectArg": [
+            4,
+            3,
+            4
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29510,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性都提升了，自身不处于能力提升状态时强化效果翻倍；恢复了体力；出手变得更快了",
+          "Name": "梦幻聚能",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            962,
+            704,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            300,
+            300,
+            1,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29511,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫异常状态了；为自身附加护盾；先出手时使对手技能失效",
+          "Name": "简装出行",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            48,
+            847,
+            52
+          ],
+          "SideEffectArg": [
+            4,
+            300,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29512,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性都提升了，先出手时强化效果翻倍；开始恢复体力了；出手变得更快了",
+          "Name": "必达家书",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1283,
+            707,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            4,
+            3,
+            1,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29513,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫受到的异常状态了",
+          "Name": "盗火之计",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29514,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了",
+          "Name": "血饵",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            893
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29515,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫受到的异常状态了",
+          "Name": "熔岩柱",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29516,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了",
+          "Name": "怒怨献祭",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            893
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29517,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "开始免疫受到的异常状态了",
+          "Name": "黑曜石心",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            191
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29518,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "全属性提升了",
+          "Name": "灵魂潮汐",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            893
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29519,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 0,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
           "info": "",
           "Name": "千星死魂灭",
           "FriendSideEffect": null,
@@ -800088,6 +800466,449 @@
           "Priority": 0,
           "Soercemove": 0,
           "Type": 223
+        },
+        {
+          "info": "",
+          "Name": "灼影先袭",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            743,
+            200,
+            1461
+          ],
+          "SideEffectArg": [
+            2,
+            1,
+            100,
+            6,
+            3
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38638,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Soercemove": 0,
+          "Type": 101
+        },
+        {
+          "info": "",
+          "Name": "沙斗术",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1009,
+            878,
+            2321
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            20,
+            300,
+            2
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38639,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 101
+        },
+        {
+          "info": "",
+          "Name": "翻腾之震怒",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            467,
+            500,
+            984,
+            1933
+          ],
+          "SideEffectArg": [
+            2,
+            300,
+            3,
+            100,
+            14
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38640,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 101
+        },
+        {
+          "info": "",
+          "Name": "空闪",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1254,
+            1664
+          ],
+          "SideEffectArg": [
+            90
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38641,
+          "MaxPP": 10,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 3,
+          "Soercemove": 0,
+          "Type": 17
+        },
+        {
+          "info": "",
+          "Name": "奇特位移",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            426
+          ],
+          "SideEffectArg": [
+            2,
+            50
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38642,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 17
+        },
+        {
+          "info": "",
+          "Name": "空盈幻光",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            548,
+            1625,
+            1451
+          ],
+          "SideEffectArg": [
+            200,
+            300,
+            100,
+            1,
+            200,
+            3
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38643,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 17
+        },
+        {
+          "info": "",
+          "Name": "风铃",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            1127,
+            405
+          ],
+          "SideEffectArg": [
+            1,
+            250
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38644,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "ordinary": 0,
+          "Power": 85,
+          "Priority": 2,
+          "Soercemove": 0,
+          "Type": 53
+        },
+        {
+          "info": "",
+          "Name": "答复",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            733,
+            1045
+          ],
+          "SideEffectArg": [
+            8,
+            3
+          ],
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38645,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 53
+        },
+        {
+          "info": "",
+          "Name": "时间漫旅",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            789,
+            1089
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38646,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 160,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 53
+        },
+        {
+          "info": "",
+          "Name": "先祖鱼钩",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            789,
+            1089
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38647,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 140,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "",
+          "Name": "窃心一击",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            789,
+            1089
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38648,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "",
+          "Name": "妒火",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            789,
+            1089
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38649,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 140,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "",
+          "Name": "炽烈爆发",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            789,
+            1089
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38650,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "",
+          "Name": "死亡惊涛",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            789,
+            1089
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38651,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 140,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
+        },
+        {
+          "info": "",
+          "Name": "冥界之门",
+          "FriendSideEffect": null,
+          "FriendSideEffectArg": null,
+          "SideEffect": [
+            789,
+            1089
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            1
+          ],
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38652,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "ordinary": 0,
+          "Power": 150,
+          "Priority": 0,
+          "Soercemove": 0,
+          "Type": 8
         },
         {
           "info": "恢复自身一定体力",

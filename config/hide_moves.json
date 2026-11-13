@@ -13550,6 +13550,24 @@
         "petId": 3311
       },
       {
+        "moveName1": "翻腾",
+        "moveName2": "之震怒",
+        "moveId": 38640,
+        "petId": 4965
+      },
+      {
+        "moveName1": "空盈",
+        "moveName2": "幻光",
+        "moveId": 38643,
+        "petId": 4966
+      },
+      {
+        "moveName1": "时间",
+        "moveName2": "漫旅",
+        "moveId": 38646,
+        "petId": 4967
+      },
+      {
         "moveName1": "神灵",
         "moveName2": "救世光",
         "moveId": 31143,
@@ -13559,79 +13577,79 @@
         "moveName1": "雷神",
         "moveName2": "天明闪",
         "moveId": 37946,
-        "petId": 5818
+        "petId": 15818
       },
       {
         "moveName1": "战神",
         "moveName2": "破天闪",
         "moveId": 37951,
-        "petId": 5819
+        "petId": 15819
       },
       {
         "moveName1": "雷神",
         "moveName2": "万霆闪",
         "moveId": 37954,
-        "petId": 5795
+        "petId": 15795
       },
       {
         "moveName1": "天崩",
         "moveName2": "万界破",
         "moveId": 37957,
-        "petId": 5796
+        "petId": 15796
       },
       {
         "moveName1": "",
         "moveName2": "",
         "moveId": 19783,
-        "petId": 5440
+        "petId": 15440
       },
       {
         "moveName1": "",
         "moveName2": "",
         "moveId": 35620,
-        "petId": 5605
+        "petId": 15605
       },
       {
         "moveName1": "",
         "moveName2": "",
         "moveId": 37283,
-        "petId": 5786
+        "petId": 15786
       },
       {
         "moveName1": "",
         "moveName2": "",
         "moveId": 37286,
-        "petId": 5787
+        "petId": 15787
       },
       {
         "moveName1": "",
         "moveName2": "",
         "moveId": 37289,
-        "petId": 5788
+        "petId": 15788
       },
       {
         "moveName1": "",
         "moveName2": "",
         "moveId": 33404,
-        "petId": 5823
+        "petId": 15823
       },
       {
         "moveName1": "",
         "moveName2": "",
         "moveId": 40013,
-        "petId": 5800
+        "petId": 15800
       },
       {
         "moveName1": "雷神",
         "moveName2": "天明闪",
         "moveId": 37908,
-        "petId": 5830
+        "petId": 15830
       },
       {
         "moveName1": "战神",
         "moveName2": "破天闪",
         "moveId": 37911,
-        "petId": 5831
+        "petId": 15831
       }
     ]
   }

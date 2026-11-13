@@ -6930,6 +6930,55 @@
       "currAppDo": 1,
       "id": 1312,
       "isFullScreen": 0
+    },
+    {
+      "moduleName": "transTycoonCover",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1320,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getxlwqt",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1321,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getxlwqt",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1322,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "2026YearEndLiveReservation",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1323,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "travelGameEntry",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1324,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "year2027heiva",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1325,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "rubberHoseGameEntry",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1326,
+      "isFullScreen": 1
     }
   ]
 }
