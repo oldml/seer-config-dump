@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "Name": "乐享币",
+      "catID": 25,
+      "Hide": 0,
+      "ID": 2500019,
+      "LifeTime": 300,
+      "Max": 999999,
+      "purpose": 0,
+      "Rarity": 3,
+      "Sort": 34,
+      "UseMax": 0,
+      "wd": 1
+    },
+    {
       "Name": "回归道具特惠券·5折",
       "catID": 25,
       "Hide": 0,

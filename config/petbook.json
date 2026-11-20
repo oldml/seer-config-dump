@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4965,
-            "ImageID": 4965,
+            "ID": 4968,
+            "ImageID": 4968,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4966,
-            "ImageID": 4966,
+            "ID": 4969,
+            "ImageID": 4969,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1436,21 +1436,32 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4967,
-            "ImageID": 4967,
+            "ID": 892,
+            "ImageID": 1400892,
             "Label": 0,
-            "monID": 0,
-            "type": 0
+            "monID": 4969,
+            "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 891,
-            "ImageID": 1400891,
+            "ID": 893,
+            "ImageID": 1400893,
             "Label": 0,
-            "monID": 4355,
+            "monID": 3396,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "Redirect": "module",
+            "Mintmark": null,
+            "ID": 894,
+            "ImageID": 1400894,
+            "Label": 0,
+            "monID": 3613,
             "type": 1
           }
         ]
@@ -31054,6 +31065,18 @@
         "Features": "星愿投递局里最忙碌的小信使，总是抱着比自己准备得还充分的邮包出发。虽然偶尔认错路、跑掉帽子，但每当有人等待来信，米铃都会认真地说：“请再等一下，我马上就到！”",
         "Target": "114185",
         "ID": 4967
+      },
+      {
+        "DefName": "瓦坎",
+        "Features": "瓦坎是马努湾海瓦斗技的明星斗士，为人散漫，嘴上没个正经，但实力却深不见底。他的过去，鲜为人知。",
+        "Target": "153201/1035",
+        "ID": 4968
+      },
+      {
+        "DefName": "米铃娜",
+        "Features": "穿行于星际邮路的可靠信使，熟悉不同星球的方向，也记得每一份托付的重量。当米铃娜带着邮宠出现在约定的地方，那句温和的“久等了”，总能让等待的人放下心来。",
+        "Target": "114187",
+        "ID": 4969
       },
       {
         "DefName": "镇世神岳·玄武",

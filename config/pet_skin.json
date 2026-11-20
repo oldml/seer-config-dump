@@ -15795,7 +15795,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 1,
             "Type": 2,
             "Year": 2026
           }
@@ -15860,8 +15860,8 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "甘落清心·欧根尼克",
         "SkinKind": [
           {
@@ -15873,13 +15873,13 @@
           }
         ],
         "ID": 883,
-        "Jumptarget": 114153,
+        "Jumptarget": 0,
         "MonID": 4605,
         "Type": 18
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "鼎镇绛河·嬴政",
         "SkinKind": [
           {
@@ -15891,7 +15891,7 @@
           }
         ],
         "ID": 884,
-        "Jumptarget": 114153,
+        "Jumptarget": 0,
         "MonID": 4468,
         "Type": 18
       },
@@ -15914,8 +15914,8 @@
         "Type": 0
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "灵祈万象·武心婵",
         "SkinKind": [
           {
@@ -15927,13 +15927,13 @@
           }
         ],
         "ID": 886,
-        "Jumptarget": 114178,
+        "Jumptarget": 0,
         "MonID": 4500,
         "Type": 18
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "圣贯宙合·赵云",
         "SkinKind": [
           {
@@ -15945,13 +15945,13 @@
           }
         ],
         "ID": 887,
-        "Jumptarget": 114178,
+        "Jumptarget": 0,
         "MonID": 4421,
         "Type": 18
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "小小灵神",
         "SkinKind": [
           {
@@ -15963,7 +15963,7 @@
           }
         ],
         "ID": 888,
-        "Jumptarget": 114184,
+        "Jumptarget": 0,
         "MonID": 3311,
         "Type": 3
       },
@@ -15986,8 +15986,8 @@
         "Type": 18
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "Name": "墨意千峰·关银屏",
         "SkinKind": [
           {
@@ -15999,7 +15999,7 @@
           }
         ],
         "ID": 890,
-        "Jumptarget": 2,
+        "Jumptarget": 0,
         "MonID": 4663,
         "Type": 3
       },
@@ -16020,6 +16020,60 @@
         "Jumptarget": 114017,
         "MonID": 4355,
         "Type": 2
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "星际信使·米铃娜",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 892,
+        "Jumptarget": 114188,
+        "MonID": 4969,
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "夜宴余杯·潘多拉",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 893,
+        "Jumptarget": 114190,
+        "MonID": 3396,
+        "Type": 16
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "Name": "茉蕊儿",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "ID": 894,
+        "Jumptarget": 2,
+        "MonID": 3613,
+        "Type": 0
       }
     ]
   }

@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "price": 598,
+      "skinId": 798,
+      "statId": -1683777089
+    },
+    {
+      "id": 2,
+      "price": 598,
+      "skinId": 692,
+      "statId": -1683777087
+    },
+    {
+      "id": 3,
+      "price": 498,
+      "skinId": 641,
+      "statId": -1683777081
+    },
+    {
+      "id": 4,
+      "price": 498,
+      "skinId": 640,
+      "statId": -1683777080
+    },
+    {
+      "id": 5,
+      "price": 398,
+      "skinId": 810,
+      "statId": -1683777096
+    },
+    {
+      "id": 6,
+      "price": 298,
+      "skinId": 809,
+      "statId": -1683777095
+    },
+    {
+      "id": 7,
+      "price": 398,
+      "skinId": 808,
+      "statId": -1683777094
+    },
+    {
+      "id": 8,
+      "price": 398,
+      "skinId": 697,
+      "statId": -1683777088
+    },
+    {
+      "id": 9,
+      "price": 398,
+      "skinId": 564,
+      "statId": -1683777079
+    },
+    {
+      "id": 10,
+      "price": 398,
+      "skinId": 523,
+      "statId": -1683777078
+    },
+    {
+      "id": 11,
+      "price": 298,
+      "skinId": 486,
+      "statId": -1683777077
+    },
+    {
+      "id": 12,
+      "price": 398,
+      "skinId": 413,
+      "statId": -1683777072
+    },
+    {
+      "id": 13,
+      "price": 398,
+      "skinId": 386,
+      "statId": -1683777070
+    },
+    {
+      "id": 14,
+      "price": 498,
+      "skinId": 680,
+      "statId": -1683777084
+    },
+    {
+      "id": 15,
+      "price": 498,
+      "skinId": 678,
+      "statId": -1683777083
+    },
+    {
+      "id": 16,
+      "price": 398,
+      "skinId": 436,
+      "statId": -1683777074
+    },
+    {
+      "id": 17,
+      "price": 398,
+      "skinId": 374,
+      "statId": -1683777067
+    },
+    {
+      "id": 18,
+      "price": 598,
+      "skinId": 803,
+      "statId": -1683777093
+    },
+    {
+      "id": 19,
+      "price": 598,
+      "skinId": 802,
+      "statId": -1683777092
+    },
+    {
+      "id": 20,
+      "price": 598,
+      "skinId": 801,
+      "statId": -1683777091
+    },
+    {
+      "id": 21,
+      "price": 598,
+      "skinId": 800,
+      "statId": -1683777090
+    },
+    {
+      "id": 22,
+      "price": 598,
+      "skinId": 690,
+      "statId": -1683777086
+    },
+    {
+      "id": 23,
+      "price": 598,
+      "skinId": 689,
+      "statId": -1683777085
+    },
+    {
+      "id": 24,
+      "price": 498,
+      "skinId": 441,
+      "statId": -1683777076
+    },
+    {
+      "id": 25,
+      "price": 498,
+      "skinId": 440,
+      "statId": -1683777075
+    },
+    {
+      "id": 26,
+      "price": 498,
+      "skinId": 381,
+      "statId": -1683777069
+    },
+    {
+      "id": 27,
+      "price": 498,
+      "skinId": 379,
+      "statId": -1683777068
+    },
+    {
+      "id": 28,
+      "price": 458,
+      "skinId": 333,
+      "statId": -1683777065
+    },
+    {
+      "id": 29,
+      "price": 458,
+      "skinId": 332,
+      "statId": -1683777064
+    },
+    {
+      "id": 30,
+      "price": 298,
+      "skinId": 650,
+      "statId": -1683777082
+    },
+    {
+      "id": 31,
+      "price": 398,
+      "skinId": 415,
+      "statId": -1683777073
+    },
+    {
+      "id": 32,
+      "price": 458,
+      "skinId": 320,
+      "statId": -1683777063
+    },
+    {
+      "id": 33,
+      "price": 458,
+      "skinId": 319,
+      "statId": -1683777062
+    },
+    {
+      "id": 34,
+      "price": 398,
+      "skinId": 392,
+      "statId": -1683777071
+    },
+    {
+      "id": 35,
+      "price": 398,
+      "skinId": 351,
+      "statId": -1683777066
+    }
+  ]
+}

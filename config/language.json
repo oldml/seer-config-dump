@@ -9191,6 +9191,30 @@
       "key": "Error_1965146",
       "id": 1532,
       "showType": 1
+    },
+    {
+      "content": "该队伍已满员！",
+      "key": "Error_1965152",
+      "id": 1533,
+      "showType": 0
+    },
+    {
+      "content": "未加入队伍，无法领取任务次数",
+      "key": "Error_1965153",
+      "id": 1534,
+      "showType": 0
+    },
+    {
+      "content": "不存在该队伍，请检查米米号是否正确！",
+      "key": "Error_1965154",
+      "id": 1535,
+      "showType": 0
+    },
+    {
+      "content": "请选择拥有正确特性的精灵开启新技能",
+      "key": "Error_1965155",
+      "id": 1536,
+      "showType": 1
     }
   ]
 }

@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "animate": "2",
+      "text": "在您离开的期间，NoNo帮你找到{0}枚乐享币，快点收下吧！",
+      "id": 1,
+      "order": 1,
+      "talkType": 1
+    },
+    {
+      "animate": "1",
+      "text": "累计登录游戏7天，即可领取2枚乐享币！",
+      "id": 2,
+      "order": 1,
+      "talkType": 2
+    },
+    {
+      "animate": "5",
+      "text": "每获得10个VIP积分，就能兑换1枚乐享币哦。",
+      "id": 3,
+      "order": 1,
+      "talkType": 2
+    },
+    {
+      "animate": "6",
+      "text": "怎么还没有乐享币可以领取。",
+      "id": 4,
+      "order": 1,
+      "talkType": 2
+    },
+    {
+      "animate": "4",
+      "text": "让我看看今天商店上了什么新货！",
+      "id": 5,
+      "order": 1,
+      "talkType": 2
+    },
+    {
+      "animate": "5",
+      "text": "同一商品当年补购次数越多，价格就越贵哦。",
+      "id": 6,
+      "order": 1,
+      "talkType": 2
+    },
+    {
+      "animate": "5",
+      "text": "乐享币会在每年最后一天到期，记得及时使用哦！",
+      "id": 7,
+      "order": 1,
+      "talkType": 2
+    },
+    {
+      "animate": "3",
+      "text": "当月没用完的限购次数，可以顺延到下个月使用哦。",
+      "id": 8,
+      "order": 1,
+      "talkType": 2
+    }
+  ]
+}

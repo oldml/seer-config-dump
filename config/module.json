@@ -5616,6 +5616,20 @@
       "isFullScreen": 1
     },
     {
+      "moduleName": "getPdlSkin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 923,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "vip17Mint",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 924,
+      "isFullScreen": 0
+    },
+    {
       "moduleName": "zuma",
       "resConfig": null,
       "currAppDo": 1,
@@ -6978,6 +6992,62 @@
       "resConfig": null,
       "currAppDo": 1,
       "id": 1326,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "MilingnaSkinCover",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1327,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "AnniversaryGift",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1328,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "vipFreeTryCover",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1329,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "luckystarRota",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1330,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "annualSkinPresale2026",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1331,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "lingShenNewMarkAndNono",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1332,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "limitedSkinReturnPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1333,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "VIPHappyStoreActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1334,
       "isFullScreen": 1
     }
   ]

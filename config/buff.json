@@ -1489,7 +1489,7 @@
       "id": 150
     },
     {
-      "Desc": "{0}回合内，若对手使用{skilltypeC[1]}攻击，则恢复{2}点体力",
+      "Desc": "{0}回合内，若对手使用{skilltypeC[1]}技能，则恢复{2}点体力",
       "desc_tag": "skilltypeC",
       "Tag": "恢复",
       "icon": [
@@ -8939,6 +8939,36 @@
       "id": 908
     },
     {
+      "Desc": "{roundnext[0]}造成的攻击伤害额外降低{1}%",
+      "desc_tag": "roundnext",
+      "Tag": "伤害降低",
+      "icon": [
+        41
+      ],
+      "icontype": 0,
+      "id": 909
+    },
+    {
+      "Desc": "{0}回合内自身使用{skilltypeC[1]}技能时令对手全属性-{2}",
+      "desc_tag": "skilltypeC",
+      "Tag": "弱化",
+      "icon": [
+        18
+      ],
+      "icontype": 0,
+      "id": 910
+    },
+    {
+      "Desc": "{0}回合内自身使用{skilltypeC[1]}技能时使自身全属性+{2}",
+      "desc_tag": "skilltypeC",
+      "Tag": "强化",
+      "icon": [
+        20
+      ],
+      "icontype": 0,
+      "id": 911
+    },
+    {
       "Desc": "免疫能力下降",
       "desc_tag": "",
       "Tag": "免疫弱化",
@@ -9135,7 +9165,7 @@
       "id": 2020
     },
     {
-      "Desc": "使对手的{skilltypeC[0]}攻击无效",
+      "Desc": "使对手的{skilltypeC[0]}技能无效",
       "desc_tag": "skilltypeC",
       "Tag": "技能无效",
       "icon": [
@@ -10449,7 +10479,7 @@
       "id": 2154
     },
     {
-      "Desc": "免疫{skilltypeC[0]}技能攻击",
+      "Desc": "免疫{skilltypeC[0]}技能",
       "desc_tag": "skilltypeC",
       "Tag": "技能无效",
       "icon": [
@@ -10825,7 +10855,7 @@
       "id": 2192
     },
     {
-      "Desc": "{0}%令对手的{skilltypeC[1]}攻击失效",
+      "Desc": "{0}%令对手的{skilltypeC[1]}技能失效",
       "desc_tag": "skilltypeC",
       "Tag": "技能无效",
       "icon": [
@@ -34633,7 +34663,7 @@
       "id": 4641
     },
     {
-      "Desc": "下{0}回合先制+{1}",
+      "Desc": "{roundnext[0]}先制+{1}",
       "desc_tag": "roundnext",
       "Tag": "先制",
       "icon": [
@@ -34659,6 +34689,46 @@
       ],
       "icontype": 0,
       "id": 4644
+    },
+    {
+      "Desc": "本次在场自身免疫受到的能力下降状态",
+      "desc_tag": "",
+      "Tag": "免疫弱化",
+      "icon": [
+        23
+      ],
+      "icontype": 0,
+      "id": 4645
+    },
+    {
+      "Desc": "自身免疫下{0}次受到的攻击伤害",
+      "desc_tag": "",
+      "Tag": "免伤",
+      "icon": [
+        25
+      ],
+      "icontype": 0,
+      "id": 4646
+    },
+    {
+      "Desc": "{0}回合内自身技能先制+1且造成的攻击伤害提升50%",
+      "desc_tag": "",
+      "Tag": "先制|增伤",
+      "icon": [
+        6
+      ],
+      "icontype": 0,
+      "id": 4647
+    },
+    {
+      "Desc": "{roundnext[0]}所有技能先制+1",
+      "desc_tag": "roundnext",
+      "Tag": "先制",
+      "icon": [
+        6
+      ],
+      "icontype": 0,
+      "id": 4648
     }
   ]
 }

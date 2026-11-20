@@ -5575,6 +5575,40 @@
       "type": 6,
       "unavailable": 0,
       "unlocktype": 1
+    },
+    {
+      "desc": "购买皮肤【夜宴余杯·潘多拉】后获得",
+      "goto": "",
+      "name": "敬你一杯",
+      "spine": "emo_4_101",
+      "text": "[#emj]",
+      "checkown": 0,
+      "finishTime": 0,
+      "hide": 0,
+      "icon": 329,
+      "id": 329,
+      "rarity": 4,
+      "tab": 1,
+      "type": 6,
+      "unavailable": 0,
+      "unlocktype": 1
+    },
+    {
+      "desc": "参与邮局奇妙夜活动获得",
+      "goto": "",
+      "name": "邮局奇妙夜",
+      "spine": "",
+      "text": "我是名片",
+      "checkown": 0,
+      "finishTime": 0,
+      "hide": 0,
+      "icon": 71,
+      "id": 330,
+      "rarity": 4,
+      "tab": 3,
+      "type": 3,
+      "unavailable": 0,
+      "unlocktype": 1
     }
   ]
 }

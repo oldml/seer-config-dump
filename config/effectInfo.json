@@ -3072,8 +3072,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内自身每处于一种能力提升或下降状态时都会恢复{1}点体力（boss有效）",
-        "info": "{0}回合内自身每处于一种能力提升或下降状态时都会恢复{1}点体力",
+        "analyze": "[sprite name=iconHit]{0}回合内自身每处于1种能力提升或下降状态时都会恢复{1}点体力（boss有效）",
+        "info": "{0}回合内自身每处于1种能力提升或下降状态时都会恢复{1}点体力",
         "key": "",
         "param": null,
         "argsNum": 2,
@@ -3291,8 +3291,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手每处于一种能力下降状态时附加{0}点[color=#52a5f2]固定伤害[/color]（boss有效）",
-        "info": "对手每处于一种能力下降状态时附加{0}点固定伤害",
+        "analyze": "[sprite name=iconHit]对手每处于1种能力下降状态时附加{0}点[color=#52a5f2]固定伤害[/color]（boss有效）",
+        "info": "对手每处于1种能力下降状态时附加{0}点固定伤害",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -5704,8 +5704,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手每处于一种异常状态则附加{0}点[color=#52a5f2]固定伤害[/color]（boss有效）",
-        "info": "对手每处于一种异常状态则附加{0}点固定伤害",
+        "analyze": "[sprite name=iconHit]对手每处于1种异常状态则附加{0}点[color=#52a5f2]固定伤害[/color]（boss有效）",
+        "info": "对手每处于1种异常状态则附加{0}点固定伤害",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -6072,8 +6072,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身每处于一种能力提升状态则附加{0}点[color=#52a5f2]固定伤害[/color]",
-        "info": "自身每处于一种能力提升状态则附加{0}点固定伤害",
+        "analyze": "[sprite name=iconHit]自身每处于1种能力提升状态则附加{0}点[color=#52a5f2]固定伤害[/color]",
+        "info": "自身每处于1种能力提升状态则附加{0}点固定伤害",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -6431,8 +6431,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手每处于一种能力下降状态附加{0}点[color=#52a5f2]固定伤害[/color]（boss有效）",
-        "info": "对手每处于一种能力下降状态附加{0}点固定伤害",
+        "analyze": "[sprite name=iconHit]对手每处于1种能力下降状态附加{0}点[color=#52a5f2]固定伤害[/color]（boss有效）",
+        "info": "对手每处于1种能力下降状态附加{0}点固定伤害",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -6741,8 +6741,8 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconHit]自身每处于一种能力提升状态，此技能[color=#52a5f2]威力[/color]提升{0}（boss有效）",
-        "info": "自身每处于一种能力提升状态，此技能威力提升{0}",
+        "analyze": "[sprite name=iconHit]自身每处于1种能力提升状态，此技能[color=#52a5f2]威力[/color]提升{0}（boss有效）",
+        "info": "自身每处于1种能力提升状态，此技能威力提升{0}",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -7716,8 +7716,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]直接造成{0}点电系伤害，自身每处于一种能力提升状态则造成的伤害提高{1}%（boss有效）",
-        "info": "直接造成{0}点电系伤害，自身每处于一种能力提升状态则造成的伤害提高{1}%",
+        "analyze": "[sprite name=iconHit]直接造成{0}点电系伤害，自身每处于1种能力提升状态则造成的伤害提高{1}%（boss有效）",
+        "info": "直接造成{0}点电系伤害，自身每处于1种能力提升状态则造成的伤害提高{1}%",
         "key": "",
         "param": null,
         "argsNum": 2,
@@ -7725,8 +7725,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}%使对手[color=#57c975]{1}[/color]，自身每处于一种能力提升状态则概率提高{2}%（boss有效）",
-        "info": "{0}%使对手{1}，自身每处于一种能力提升状态则概率提高{2}%",
+        "analyze": "[sprite name=iconHit]{0}%使对手[color=#57c975]{1}[/color]，自身每处于1种能力提升状态则概率提高{2}%（boss有效）",
+        "info": "{0}%使对手{1}，自身每处于1种能力提升状态则概率提高{2}%",
         "key": "",
         "param": [
           1,
@@ -8953,8 +8953,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身每处于一种能力提升状态则技能连击数+{0}，对手每处于一种弱化状态则技能连击数+{1}",
-        "info": "自身每处于一种能力提升状态则技能连击数+{0}，对手每处于一种弱化状态则技能连击数+{1}",
+        "analyze": "[sprite name=iconHit]自身每处于1种能力提升状态则技能连击数+{0}，对手每处于1种弱化状态则技能连击数+{1}",
+        "info": "自身每处于1种能力提升状态则技能连击数+{0}，对手每处于1种弱化状态则技能连击数+{1}",
         "key": "",
         "param": null,
         "argsNum": 2,
@@ -11547,8 +11547,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]直接造成{0}点冰系伤害，自身每处于一种能力提升状态则造成的伤害提高{1}%（boss有效）",
-        "info": "直接造成{0}点冰系伤害，自身每处于一种能力提升状态则造成的伤害提高{1}%",
+        "analyze": "[sprite name=iconHit]直接造成{0}点冰系伤害，自身每处于1种能力提升状态则造成的伤害提高{1}%（boss有效）",
+        "info": "直接造成{0}点冰系伤害，自身每处于1种能力提升状态则造成的伤害提高{1}%",
         "key": "",
         "param": null,
         "argsNum": 2,
@@ -16295,8 +16295,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身每处于一种能力提升、能力下降、异常状态则附加{0}点[color=#52a5f2]固定伤害[/color]，自身每有1层[color=#f35555]龙胆[/color]视为自身至少处于一种",
-        "info": "自身每处于一种能力提升、能力下降、异常状态则附加{0}点固定伤害，自身每有1层龙胆视为自身至少处于一种",
+        "analyze": "[sprite name=iconHit]自身每处于1种能力提升、能力下降、异常状态则附加{0}点[color=#52a5f2]固定伤害[/color]，自身每有1层[color=#f35555]龙胆[/color]视为自身至少处于一种",
+        "info": "自身每处于1种能力提升、能力下降、异常状态则附加{0}点固定伤害，自身每有1层龙胆视为自身至少处于一种",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -18404,8 +18404,8 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconHit]对手每处于一种异常状态造成的伤害提升{0}%",
-        "info": "对手每处于一种异常状态造成的伤害提升{0}%",
+        "analyze": "[sprite name=iconHit]对手每处于1种异常状态造成的伤害提升{0}%",
+        "info": "对手每处于1种异常状态造成的伤害提升{0}%",
         "key": "",
         "param": null,
         "argsNum": 1,
@@ -23787,6 +23787,32 @@
         "argsNum": 1,
         "id": 2621,
         "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]{0}回合内自身使用{1}技能时令对手[color=#52a5f2]全属性[/color]-{2}",
+        "info": "{0}回合内自身使用{1}技能时令对手全属性-{2}",
+        "key": "",
+        "param": [
+          15,
+          1,
+          1
+        ],
+        "argsNum": 3,
+        "id": 2622,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]{0}回合内自身使用{1}技能时使自身[color=#52a5f2]全属性[/color]+{2}",
+        "info": "{0}回合内自身使用{1}技能时使自身全属性+{2}",
+        "key": "",
+        "param": [
+          15,
+          1,
+          1
+        ],
+        "argsNum": 3,
+        "id": 2623,
+        "type": 0
       }
     ],
     "ParamType": [
@@ -23851,7 +23877,7 @@
         "id": 14
       },
       {
-        "params": "|物理|特殊||属性",
+        "params": "|物理攻击|特殊攻击|攻击|属性",
         "id": 15
       },
       {

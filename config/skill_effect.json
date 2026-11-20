@@ -36029,6 +36029,36 @@
       "tagAboss": 1,
       "tagBboss": 1,
       "tagCboss": 1
+    },
+    {
+      "formattingAdjustment": "",
+      "ifTextItalic": "",
+      "info": "{0}回合内自身使用{1}技能时令对手全属性-{2}",
+      "tagA": "弱化",
+      "tagB": "",
+      "tagC": "",
+      "argsNum": 3,
+      "Bosseffective": 1,
+      "id": 2622,
+      "isif": 0,
+      "tagAboss": 1,
+      "tagBboss": 1,
+      "tagCboss": 1
+    },
+    {
+      "formattingAdjustment": "",
+      "ifTextItalic": "",
+      "info": "{0}回合内自身使用{1}技能时使自身全属性+{2}",
+      "tagA": "强化",
+      "tagB": "",
+      "tagC": "",
+      "argsNum": 3,
+      "Bosseffective": 1,
+      "id": 2623,
+      "isif": 0,
+      "tagAboss": 1,
+      "tagBboss": 1,
+      "tagCboss": 1
     }
   ]
 }

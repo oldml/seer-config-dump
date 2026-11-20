@@ -3973,6 +3973,18 @@
       "IsPlaceEffect": 0
     },
     {
+      "buffDes": "受到攻击前，自身永久获得+a/+b",
+      "buffobject": "卡牌",
+      "buffparam": "a_b",
+      "effectIcon": "",
+      "id": 10354,
+      "IsBfBattleEffect": 0,
+      "IsColdWaveEffect": 0,
+      "IsDeathEffect": 0,
+      "IsGrowthEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
       "buffDes": "获得a枚金币",
       "buffobject": "魔法",
       "buffparam": "a",
@@ -4057,7 +4069,7 @@
       "IsPlaceEffect": 0
     },
     {
-      "buffDes": "随机获得a个商店中的精灵",
+      "buffDes": "随机获得a张商店中的卡牌",
       "buffobject": "魔法",
       "buffparam": "a",
       "effectIcon": "",
