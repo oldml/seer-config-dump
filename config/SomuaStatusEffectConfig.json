@@ -2,8 +2,8 @@
   "data": [
     {
       "fxOnGet": "",
-      "fxOnLoad": "",
-      "fxOnTrig": "",
+      "fxOnLoad": "fx_poison",
+      "fxOnTrig": "fx_poisonTrig",
       "stackRule": "refresh",
       "statusDesc": "每秒会受到最大生命值 value% 的伤害。",
       "statusName": "中毒",
@@ -15,8 +15,8 @@
     },
     {
       "fxOnGet": "",
-      "fxOnLoad": "",
-      "fxOnTrig": "",
+      "fxOnLoad": "fx_infection",
+      "fxOnTrig": "fx_infectionTrig",
       "stackRule": "refresh",
       "statusDesc": "会使下次受到伤害额外附加自身当前生命值 value% 的伤害，触发后清除。",
       "statusName": "感染",
@@ -28,7 +28,7 @@
     },
     {
       "fxOnGet": "",
-      "fxOnLoad": "",
+      "fxOnLoad": "fx_frost",
       "fxOnTrig": "",
       "stackRule": "stack",
       "statusDesc": "速度力等级-1，叠加到 5 层时，会变为【冰封状态】。",
@@ -41,7 +41,7 @@
     },
     {
       "fxOnGet": "",
-      "fxOnLoad": "",
+      "fxOnLoad": "fx_frozen",
       "fxOnTrig": "",
       "stackRule": "reject",
       "statusDesc": "苏摩无法移动，移动力等级- 4。",
@@ -54,8 +54,8 @@
     },
     {
       "fxOnGet": "",
-      "fxOnLoad": "",
-      "fxOnTrig": "",
+      "fxOnLoad": "fx_flame",
+      "fxOnTrig": "fx_flameTrig",
       "stackRule": "refresh",
       "statusDesc": "每秒受到 value 点伤害。",
       "statusName": "燃烧",
@@ -67,8 +67,8 @@
     },
     {
       "fxOnGet": "",
-      "fxOnLoad": "",
-      "fxOnTrig": "",
+      "fxOnLoad": "fx_wound",
+      "fxOnTrig": "fx_woundTrig",
       "stackRule": "refresh",
       "statusDesc": "每次撞到墙体后都会受到 value 点伤害。",
       "statusName": "伤口",
@@ -80,7 +80,7 @@
     },
     {
       "fxOnGet": "",
-      "fxOnLoad": "",
+      "fxOnLoad": "fx_bleeding",
       "fxOnTrig": "",
       "stackRule": "refresh",
       "statusDesc": "每0.2秒会受到 value 点伤害。",
@@ -158,7 +158,7 @@
     },
     {
       "fxOnGet": "",
-      "fxOnLoad": "",
+      "fxOnLoad": "fx_shield",
       "fxOnTrig": "",
       "stackRule": "stack",
       "statusDesc": "可以用于抵挡伤害数值。",
@@ -197,7 +197,7 @@
     },
     {
       "fxOnGet": "",
-      "fxOnLoad": "",
+      "fxOnLoad": "fx_blast",
       "fxOnTrig": "",
       "stackRule": "refresh",
       "statusDesc": "下次造成的伤害+100%，若暴击则+200%，触发后清除。",

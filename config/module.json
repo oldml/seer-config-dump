@@ -7049,6 +7049,55 @@
       "currAppDo": 1,
       "id": 1334,
       "isFullScreen": 1
+    },
+    {
+      "moduleName": "seerStealth",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1335,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sendmailActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1336,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "getblglrmain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1337,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "petSaleHyy",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1338,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "memoryHit",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1339,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "gethjjsmain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1340,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "swordcoralActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1341,
+      "isFullScreen": 1
     }
   ]
 }

@@ -801,8 +801,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_05_02 00:00:00",
-      "ending": "2025_05_09 10:00:00",
+      "beginning": "2026_11_27 00:00:00",
+      "ending": "2026_12_11 10:00:00",
       "labelName": "古堡晚宴",
       "name": "CastleSkin",
       "channel": 0,
@@ -811,9 +811,9 @@
       "id": 52,
       "iOSreviewshow": 1,
       "isShow": 1,
-      "redbadge": 22,
+      "redbadge": 477,
       "signType": 1,
-      "sorting": 4,
+      "sorting": 3,
       "type": 1
     },
     {
@@ -10129,7 +10129,7 @@
       "isShow": 1,
       "redbadge": 448,
       "signType": 0,
-      "sorting": 8,
+      "sorting": 10,
       "type": 1
     },
     {
@@ -10367,7 +10367,7 @@
       "isShow": 1,
       "redbadge": 470,
       "signType": 0,
-      "sorting": 1,
+      "sorting": 4,
       "type": 1
     },
     {
@@ -10539,6 +10539,74 @@
       "signType": 0,
       "sorting": 8,
       "type": 8
+    },
+    {
+      "args": "",
+      "beginning": "2026_11_20 10:00:00",
+      "ending": "2026_12_04 10:00:00",
+      "labelName": "迷糊邮差",
+      "name": "sendmailActivity",
+      "channel": 0,
+      "Go": 1336,
+      "helptips": 0,
+      "id": 642,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 475,
+      "signType": 0,
+      "sorting": 10,
+      "type": 8
+    },
+    {
+      "args": "Assets/Game/UI/seerStealth/seerStealthCover.prefab",
+      "beginning": "2026_11_27 10:00:00",
+      "ending": "2026_12_04 10:00:00",
+      "labelName": "神庙潜行作战",
+      "name": "seerStealthCover",
+      "channel": 0,
+      "Go": 445,
+      "helptips": 0,
+      "id": 643,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 476,
+      "signType": 0,
+      "sorting": 1,
+      "type": 1
+    },
+    {
+      "args": "",
+      "beginning": "2026_11_27 10:00:00",
+      "ending": "2026_12_11 10:00:00",
+      "labelName": "黄月英",
+      "name": "petSaleHyy",
+      "channel": 0,
+      "Go": 1338,
+      "helptips": 452,
+      "id": 644,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 478,
+      "signType": 0,
+      "sorting": 2,
+      "type": 1
+    },
+    {
+      "args": "Assets/Game/UI/getblglCenter/getblglrcenter.prefab",
+      "beginning": "",
+      "ending": "",
+      "labelName": "暴乱·格劳瑞",
+      "name": "getblglrcenter",
+      "channel": 0,
+      "Go": 445,
+      "helptips": 0,
+      "id": 645,
+      "iOSreviewshow": 1,
+      "isShow": 1,
+      "redbadge": 0,
+      "signType": 0,
+      "sorting": 11,
+      "type": 1
     }
   ]
 }

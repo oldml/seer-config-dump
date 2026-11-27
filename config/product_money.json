@@ -720,6 +720,16 @@
         "price": 8.8,
         "productID": 200094,
         "vip": 1
+      },
+      {
+        "name": "12月风尚月历",
+        "itemID": [
+          1728667
+        ],
+        "gold": 1,
+        "price": 30,
+        "productID": 200095,
+        "vip": 1
       }
     ]
   }

@@ -199,10 +199,10 @@
         },
         {
           "commodity": "",
-          "petinfo": "4233_5725_35146_42036",
-          "productName": "寒吟•龙裳",
+          "petinfo": "4223_5712_35093_42028",
+          "productName": "堕落炮魂",
           "productID": [
-            4233,
+            4223,
             34174,
             5566,
             41817
@@ -212,16 +212,16 @@
           "exchangeId": 13970,
           "forever": 408401,
           "ID": 10002,
-          "Opentime": 1767283200,
-          "productPrice": 40,
+          "Opentime": 1791734400,
+          "productPrice": 30,
           "shopkind": 1
         },
         {
           "commodity": "",
-          "petinfo": "4262_5756_35311_42074",
-          "productName": "龙伽",
+          "petinfo": "4349_5842_35765_42178",
+          "productName": "沃罗科",
           "productID": [
-            4262,
+            4349,
             34174,
             5566,
             41817
@@ -829,11 +829,28 @@
           "Opentime": 1642089600,
           "productPrice": 1,
           "shopkind": 5
+        },
+        {
+          "commodity": "1_2400054_55",
+          "petinfo": "0_0_0_0",
+          "productName": "洛刹因子*55",
+          "productID": [
+            2400054,
+            3455
+          ],
+          "batch": 20,
+          "Endtime": 1840377599,
+          "exchangeId": 13732,
+          "forever": 0,
+          "ID": 20297,
+          "Opentime": 1791734400,
+          "productPrice": 1,
+          "shopkind": 5
         }
       ],
-      "Endday": "11/27",
-      "Endtime": "2026/11/27",
-      "Openday": "10/16"
+      "Endday": "12/31",
+      "Endtime": "2026/12/31",
+      "Openday": "11/27"
     }
   }
 }

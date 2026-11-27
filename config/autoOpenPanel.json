@@ -387,11 +387,11 @@
     {
       "actionName": "古堡系列皮肤售卖强弹",
       "controller": "AutoOpenLocalDaily",
-      "endTime": "2025_05_09 10:00:00",
+      "endTime": "2026_12_11 10:00:00",
       "param1": "castleSeriesSkinSalesPop",
       "param2": "",
       "param3": "",
-      "startTime": "2025_05_02 00:00:00",
+      "startTime": "2026_11_27 10:00:00",
       "id": 34,
       "moduleId": 423,
       "state": 1

@@ -5172,10 +5172,10 @@
     },
     {
       "CharacterID": "shilan",
-      "emoji": "",
+      "emoji": "shilan_01,shilan_02",
       "emojixy": "",
       "head": "",
-      "initialposition": "",
+      "initialposition": "-3,210",
       "name": "师澜",
       "portrait": "shilan_fg",
       "id": 471,
@@ -5183,7 +5183,7 @@
     },
     {
       "CharacterID": "xiluo",
-      "emoji": "",
+      "emoji": "xiluo_01,xiluo_02",
       "emojixy": "",
       "head": "",
       "initialposition": "",
@@ -5256,6 +5256,17 @@
       "name": "尤伦格尔",
       "portrait": "ylgr_ls_fg",
       "id": 478,
+      "scale": 1
+    },
+    {
+      "CharacterID": "tuoluoa",
+      "emoji": "",
+      "emojixy": "",
+      "head": "",
+      "initialposition": "24,297",
+      "name": "托罗阿",
+      "portrait": "tuoluoa_fg",
+      "id": 479,
       "scale": 1
     }
   ]

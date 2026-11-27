@@ -1414,8 +1414,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4968,
-            "ImageID": 4968,
+            "ID": 4970,
+            "ImageID": 4970,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 4969,
-            "ImageID": 4969,
+            "ID": 4971,
+            "ImageID": 4971,
             "Label": 0,
             "monID": 0,
             "type": 0
@@ -1436,33 +1436,11 @@
             "Go": "app/FinalActivityPanel",
             "Redirect": "module",
             "Mintmark": null,
-            "ID": 892,
-            "ImageID": 1400892,
+            "ID": 4972,
+            "ImageID": 4972,
             "Label": 0,
-            "monID": 4969,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 893,
-            "ImageID": 1400893,
-            "Label": 0,
-            "monID": 3396,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "Redirect": "module",
-            "Mintmark": null,
-            "ID": 894,
-            "ImageID": 1400894,
-            "Label": 0,
-            "monID": 3613,
-            "type": 1
+            "monID": 0,
+            "type": 0
           }
         ]
       }
@@ -18613,7 +18591,7 @@
       {
         "DefName": "圣光灵皇",
         "Features": "2015年年费精灵圣光灵王的超进化形态，所有的力量全部得到了惊人的提升！斩魔神，驱暗影，他就是圣光的最强审判者!",
-        "Target": "114156",
+        "Target": "295001",
         "ID": 2873
       },
       {
@@ -25237,7 +25215,7 @@
       {
         "DefName": "暴乱·格劳瑞",
         "Features": "陷入暴乱状态的格劳瑞，心智不受控制，战斗力却得到了极致的提升！",
-        "Target": "",
+        "Target": "150159",
         "ID": 3994
       },
       {
@@ -31077,6 +31055,24 @@
         "Features": "穿行于星际邮路的可靠信使，熟悉不同星球的方向，也记得每一份托付的重量。当米铃娜带着邮宠出现在约定的地方，那句温和的“久等了”，总能让等待的人放下心来。",
         "Target": "114187",
         "ID": 4969
+      },
+      {
+        "DefName": "托罗阿",
+        "Features": "托罗阿是师澜的秘密精灵，据说很少有人见过它的样貌。很难想象那个彬彬有礼的祭司师澜拥有着这样一只杀手般的精灵。",
+        "Target": "153201/1040",
+        "ID": 4970
+      },
+      {
+        "DefName": "黄月英",
+        "Features": "才女黄月英，诸葛亮之妻，博览群书，集智于心，遍观天象，洞观玄机。",
+        "Target": "114191",
+        "ID": 4971
+      },
+      {
+        "DefName": "菲姆梅德",
+        "Features": "2026年包月精灵，万象录之《剪接灵魂之人》。他是过去阿派罗尼亚的著名导演，对摄影有着独到的艺术造诣，只可惜没能导演出属于自己的结局。",
+        "Target": "121000",
+        "ID": 4972
       },
       {
         "DefName": "镇世神岳·玄武",

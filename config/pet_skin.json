@@ -4023,7 +4023,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 29,
             "Type": 2,
             "Year": 0
           }
@@ -5031,7 +5031,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 29,
             "Type": 2,
             "Year": 0
           }
@@ -6543,7 +6543,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 29,
             "Type": 2,
             "Year": 0
           }
@@ -7029,7 +7029,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 29,
             "Type": 2,
             "Year": 0
           }
@@ -9693,7 +9693,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 29,
             "Type": 2,
             "Year": 0
           }
@@ -10107,7 +10107,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 29,
             "Type": 2,
             "Year": 0
           }
@@ -10629,7 +10629,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 29,
             "Type": 2,
             "Year": 0
           }
@@ -10647,13 +10647,13 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 29,
             "Type": 2,
             "Year": 0
           }
         ],
         "ID": 593,
-        "Jumptarget": 0,
+        "Jumptarget": 114192,
         "MonID": 4275,
         "Type": 16
       },
@@ -10665,13 +10665,13 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 29,
             "Type": 2,
             "Year": 0
           }
         ],
         "ID": 594,
-        "Jumptarget": 0,
+        "Jumptarget": 114192,
         "MonID": 4498,
         "Type": 16
       },
@@ -10683,13 +10683,13 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 29,
             "Type": 2,
             "Year": 0
           }
         ],
         "ID": 595,
-        "Jumptarget": 0,
+        "Jumptarget": 114192,
         "MonID": 3964,
         "Type": 16
       },
@@ -10701,13 +10701,13 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 29,
             "Type": 2,
             "Year": 0
           }
         ],
         "ID": 596,
-        "Jumptarget": 0,
+        "Jumptarget": 114192,
         "MonID": 4422,
         "Type": 16
       },
@@ -16047,7 +16047,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 29,
             "Type": 2,
             "Year": 0
           }

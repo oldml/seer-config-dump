@@ -415,6 +415,24 @@
       "onekeyproductid": 262145
     },
     {
+      "enddate": "",
+      "jumpparam": "1",
+      "limitid": "3107;3435;4262",
+      "monstername": "圣光莫妮卡",
+      "startdate": "2026/11/27/10",
+      "awakentype": 2,
+      "bosslevelid": 24,
+      "diamondid": 262321,
+      "exchangepercnt": 0,
+      "fragmentid": 0,
+      "fragmentnum": 0,
+      "id": 25,
+      "itemnum": 720,
+      "itemurl": 1727909,
+      "mosterurl": 3711,
+      "onekeyproductid": 262322
+    },
+    {
       "enddate": "2026/9/4/10",
       "jumpparam": "1",
       "limitid": "3107;3435;4262",
